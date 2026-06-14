@@ -1,7 +1,7 @@
 # Personal Trainer — Project Context
 
 ## Current Phase
-🏃 **Plan Complete** — Ready to execute (Jun 14, 2026)
+⏸ **Paused** — Plan complete, ready to execute when Achyut starts (Jun 14, 2026)
 
 ## Deliverables
 - `THE-PLAN.md` — Comprehensive personalized fitness plan (12-week Phase 1 + Phase 2 outline + 48-week roadmap)
@@ -21,9 +21,9 @@
 - **Sleep:** 7.5+ hours, cool room, no caffeine after 12:30 PM
 - **Supplements:** Whey, creatine, vitamin D3, magnesium, omega-3, zinc
 
-## Next Steps
+## Next Steps (When Resumed)
 - [ ] Achyut reviews the plan
-- [ ] First action items: food scale, gym membership, supplements, starting photos
+- [ ] First action items: food scale, resistance bands, supplements, starting photos
 - [ ] Begin Phase 1 Week 1
 - [ ] Check in weekly on progress
 
