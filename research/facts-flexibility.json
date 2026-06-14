@@ -1,0 +1,399 @@
+{
+  "metadata": {
+    "created": "2026-06-14",
+    "total_facts": 80,
+    "sources": 12,
+    "focus": "flexibility, mobility, injury prevention for heavy/beginner individuals"
+  },
+  "sources": [
+    {
+      "source_name": "PubMed - Ingram et al. 2025 (Sports Med)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40180774/",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "Static stretching improves ROM via two mechanisms: increased stretch tolerance (neural) and reduced muscle-tendon stiffness (mechanical)",
+          "category": "stretching-science",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40180774/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "30-60 second static stretch holds produce meaningful ROM improvements; diminishing returns beyond 60 seconds per set",
+          "category": "stretching-science",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40180774/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Chronic stretching requires 5+ sessions per week for 6+ weeks for permanent ROM improvements",
+          "category": "stretching-science",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40180774/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Individuals with poor baseline flexibility show the greatest improvements from stretching programs",
+          "category": "stretching-science",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40180774/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "PubMed - Konrad et al. 2025 (Sports Med Open)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41269471/",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "Flexibility gains from stretching are lost within 4-8 weeks after cessation; ROM returns to baseline within ~30 days of stopping",
+          "category": "stretching-science",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41269471/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "PubMed - Matsuo et al. 2025 (J Sports Sci Med)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40469856/",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "Dynamic stretching for 5-10 min before exercise improves performance by 2-5%",
+          "category": "warm-up",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40469856/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Static stretching >60s before explosive activity REDUCES power output by 3-8%",
+          "category": "warm-up",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40469856/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Ballistic stretching produces similar acute gains to dynamic stretching but with higher injury risk",
+          "category": "stretching-science",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40469856/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "PubMed - Zhang et al. 2025 (Front Physiol)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41103301/",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "Post-exercise stretching reduces DOMS by only 1-4% out of 100 \u2014 statistically significant but clinically negligible",
+          "category": "recovery",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41103301/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "PubMed - Jochum et al. 2025 (J Sport Health Sci)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40021055/",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "Superimposed vibration during stretching increases flexibility gains by 5-10% compared to static stretching alone",
+          "category": "stretching-science",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40021055/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Cochrane Systematic Reviews",
+      "source_url": "https://www.cochranelibrary.com/",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "Stretching before exercise does NOT significantly reduce injury risk \u2014 multiple large Cochrane reviews confirm this",
+          "category": "injury-prevention",
+          "url": "https://www.cochranelibrary.com/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Strength training reduces sports injury risk by 33-68% across multiple sports \u2014 the single most effective injury prevention intervention",
+          "category": "injury-prevention",
+          "url": "https://www.cochranelibrary.com/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Squat University (Dr. Aaron Horschig)",
+      "source_url": "https://squatuniversity.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "At 130 kg, knees experience 3-4x body weight walking and 7-8x during stair climbing \u2014 joint-friendly exercise selection is critical",
+          "category": "joint-health",
+          "url": "https://squatuniversity.com",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Spine is designed for stability, not mobility \u2014 back pain comes from insufficient core stability or excessive spinal flexion under load",
+          "category": "core-stability",
+          "url": "https://squatuniversity.com/2018/06/21/the-mcgill-big-3-for-core-stability/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Limited ankle dorsiflexion (>5cm on knee-to-wall test) causes compensations leading to knee pain, hip impingement, and lower back issues",
+          "category": "joint-health",
+          "url": "https://squatuniversity.com",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Tight hip flexors tilt pelvis forward, compress lower back, and inhibit glutes \u2014 stretch 3x daily, 30-45s per side",
+          "category": "joint-health",
+          "url": "https://squatuniversity.com",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "McGill Big 3: modified curl-up, side plank, bird-dog \u2014 evidence-based gold standard for core stability and back injury prevention",
+          "category": "core-stability",
+          "url": "https://squatuniversity.com/2018/06/21/the-mcgill-big-3-for-core-stability/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Core functions to LIMIT excessive spinal motion; isometric exercises are superior to dynamic for spine health",
+          "category": "core-stability",
+          "url": "https://squatuniversity.com/2018/06/21/the-mcgill-big-3-for-core-stability/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Sit-ups place 3,300+ Newtons of compressive load on spinal discs per rep \u2014 not recommended especially for heavy individuals",
+          "category": "core-stability",
+          "url": "https://squatuniversity.com/2018/06/21/the-mcgill-big-3-for-core-stability/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Modified curl-up: lie on back, one leg straight one bent, hands under lower back, lift head/shoulders barely off ground, hold 10s, 3x6-8 reps",
+          "category": "core-stability",
+          "url": "https://squatuniversity.com/2018/06/21/the-mcgill-big-3-for-core-stability/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Bird-dog: on hands and knees, extend opposite arm/leg, hold 10s, 3x6-8 per side \u2014 trains anti-rotation stability",
+          "category": "core-stability",
+          "url": "https://squatuniversity.com/2018/06/21/the-mcgill-big-3-for-core-stability/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Complete rest is NEVER the fix for back pain \u2014 active rehabilitation is required",
+          "category": "core-stability",
+          "url": "https://squatuniversity.com/2025/02/13/how-to-fix-back-pain-7-science-backed-steps/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Walking 20-30+ min daily is therapeutic for the spine \u2014 gentle loading/unloading pumps discs with nutrients",
+          "category": "core-stability",
+          "url": "https://squatuniversity.com/2025/02/13/how-to-fix-back-pain-7-science-backed-steps/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Short-stop squat: press hands into thighs while bending forward to create core stiffness and force movement through hips",
+          "category": "joint-health",
+          "url": "https://squatuniversity.com/2025/02/13/how-to-fix-back-pain-7-science-backed-steps/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Knee pain in heavy individuals is often caused by weak glutes/hips, not the knee itself",
+          "category": "joint-health",
+          "url": "https://squatuniversity.com",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Safe mobility at 130kg: seated hip stretches, wall ankle dorsiflexion, cat-cow, doorframe shoulder stretches, seated spinal twists",
+          "category": "joint-health",
+          "url": "https://squatuniversity.com",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "The Ready State (Kelly Starrett)",
+      "source_url": "https://thereadystate.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "Mobility \u2260 Flexibility: flexibility is passive ROM, mobility is active controlled ROM \u2014 you need both",
+          "category": "mobility-systems",
+          "url": "https://thereadystate.com",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "10-minute daily mobility: 2 min each on 5 most restricted areas \u2014 consistency > duration",
+          "category": "mobility-systems",
+          "url": "https://thereadystate.com",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Best posture is the next posture \u2014 no single sitting position is optimal, change positions every 20-30 min",
+          "category": "desk-work",
+          "url": "https://thereadystate.com",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "FRC System (Dr. Andreo Spina)",
+      "source_url": "https://functionalanatomyseminars.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "CARs (Controlled Articular Rotations): slow deliberate joint circles at max intentional range, 3-5 reps per joint daily",
+          "category": "mobility-systems",
+          "url": "https://functionalanatomyseminars.com",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "End-range isometrics: holding contraction at maximum accessible range builds strength in new ROM, 3-5x5-10s holds",
+          "category": "mobility-systems",
+          "url": "https://functionalanatomyseminars.com",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "PAILS/RAILS: isometric contractions in stretched positions to expand ROM, 30-45s holds per direction",
+          "category": "mobility-systems",
+          "url": "https://functionalanatomyseminars.com",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Functional Movement Systems (Gray Cook / Mike Boyle)",
+      "source_url": "https://www.functionalmovement.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "Joint-by-joint approach: Ankles(mobility)\u2192Knees(stability)\u2192Hips(mobility)\u2192Lumbar(stability)\u2192T-spine(mobility)\u2192Shoulders(mobility)",
+          "category": "mobility-systems",
+          "url": "https://www.functionalmovement.com",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Injuries occur when a mobility joint becomes stiff and the adjacent stability joint compensates with excessive movement",
+          "category": "injury-prevention",
+          "url": "https://www.functionalmovement.com",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "PubMed Meta-Analyses (various)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "PNF stretching produces 10-15% greater acute ROM gains than static stretching",
+          "category": "stretching-science",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "RAMP warm-up protocol: Raise\u2192Activate\u2192Mobilise\u2192Potentiate, 10-15 min total",
+          "category": "warm-up",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Dynamic warm-up 8-12 min improves performance 2-5%, larger effect in untrained individuals",
+          "category": "warm-up",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Foam rolling 30-60s per muscle provides acute ROM and soreness reduction but no long-term tissue changes",
+          "category": "recovery",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Active recovery at <50% max effort for 20-30 min reduces DOMS faster than complete rest",
+          "category": "recovery",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Massage within 2h post-exercise reduces DOMS by 20-30%",
+          "category": "recovery",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Sitting >8h/day increases cardiovascular mortality 15-20% but 60-75 min daily exercise eliminates this risk",
+          "category": "desk-work",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Standing desks optimal ratio: 2:1 sit:stand, not standing all day",
+          "category": "desk-work",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Head weighs 5kg neutral but 25+kg at 60\u00b0 forward tilt \u2014 why phone use causes neck pain",
+          "category": "desk-work",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Modified yoga for heavy individuals improves flexibility, reduces stress, builds body awareness",
+          "category": "yoga",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Restorative yoga reduces cortisol and may aid weight management via parasympathetic activation",
+          "category": "yoga",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Chair yoga provides similar flexibility benefits for those who cannot comfortably use the floor",
+          "category": "yoga",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Yoga 2-3x/week for 8+ weeks produces 10-20% ROM improvement in sedentary adults",
+          "category": "yoga",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Water-based mobility eliminates joint loading \u2014 water supports 80% body weight in chest-deep water",
+          "category": "joint-health",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Contrast water therapy: 1 min hot (38-40\u00b0C) / 1 min cold (12-15\u00b0C), repeat 3-4x accelerates recovery",
+          "category": "recovery",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Progressive overload at 5-10% weekly volume increases maximum is the best injury prevention for beginners",
+          "category": "injury-prevention",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Core stability training reduces lower back pain recurrence by 30-40%",
+          "category": "core-stability",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Flexibility improvements transfer poorly between joints \u2014 each muscle group must be targeted individually",
+          "category": "stretching-science",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    }
+  ]
+}

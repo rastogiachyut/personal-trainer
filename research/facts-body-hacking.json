@@ -1,0 +1,1013 @@
+{
+  "metadata": {
+    "created": "2026-06-14",
+    "target_profile": "33-year-old male, 130 kg, 5'11\"",
+    "focus": "health optimization, metabolism, recovery, performance",
+    "total_facts": 120,
+    "sources_accessed": 15
+  },
+  "sources": [
+    {
+      "source_name": "Huberman Lab",
+      "source_url": "https://www.hubermanlab.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "Cold exposure at 50-60°F (10-15°C) for 1-3 minutes increases dopamine levels by up to 250% and norepinephrine by 530%, with effects lasting hours",
+          "category": "cold-exposure",
+          "subcategory": "hormones",
+          "url": "https://www.hubermanlab.com/newsletter/the-science-and-use-of-cold-exposure-for-health-and-performance",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Cold exposure increases adrenaline and dopamine via activation of brown adipose tissue (BAT) and cold shock proteins",
+          "category": "cold-exposure",
+          "subcategory": "mechanism",
+          "url": "https://www.hubermanlab.com/newsletter/the-science-and-use-of-cold-exposure-for-health-and-performance",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Recommended cold plunge protocol: 3-4 sessions per week, 1-3 minutes at 50-60°F (10-15°C), progress to colder/longer gradually",
+          "category": "cold-exposure",
+          "subcategory": "protocol",
+          "url": "https://www.hubermanlab.com/newsletter/the-science-and-use-of-cold-exposure-for-health-and-performance",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "For fat loss via cold exposure: aim for 8-11 minutes total per week in cold water, spread across 2-4 sessions",
+          "category": "cold-exposure",
+          "subcategory": "protocol",
+          "url": "https://www.hubermanlab.com/newsletter/the-science-and-use-of-cold-exposure-for-health-and-performance",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Sleep toolkit: View sunlight within 30-60 minutes of waking to set circadian rhythm; delay caffeine 90-120 minutes after waking",
+          "category": "sleep",
+          "subcategory": "circadian",
+          "url": "https://www.hubermanlab.com/newsletter/toolkit-for-sleep",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Optimal sleep environment: room temperature 60-67°F (15-19°C), pitch dark, no screens 30-60 min before bed",
+          "category": "sleep",
+          "subcategory": "environment",
+          "url": "https://www.hubermanlab.com/newsletter/toolkit-for-sleep",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Magnesium threonate or glycinate (200-400mg) before bed can improve sleep onset and depth",
+          "category": "sleep",
+          "subcategory": "supplements",
+          "url": "https://www.hubermanlab.com/newsletter/toolkit-for-sleep",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "L-theanine (100-200mg) before bed reduces sleep latency and improves sleep quality",
+          "category": "sleep",
+          "subcategory": "supplements",
+          "url": "https://www.hubermanlab.com/newsletter/toolkit-for-sleep",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Apigenin (50mg) before bed acts as a mild sedative via GABA receptors, improving sleep onset",
+          "category": "sleep",
+          "subcategory": "supplements",
+          "url": "https://www.hubermanlab.com/newsletter/toolkit-for-sleep",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Inositol (900mg) before bed can help reduce nighttime awakenings and anxiety-driven sleep disruption",
+          "category": "sleep",
+          "subcategory": "supplements",
+          "url": "https://www.hubermanlab.com/newsletter/toolkit-for-sleep",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "weak"
+        },
+        {
+          "fact": "Glycine (3g) before bed can lower core body temperature and improve sleep quality",
+          "category": "sleep",
+          "subcategory": "supplements",
+          "url": "https://www.hubermanlab.com/newsletter/toolkit-for-sleep",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "NSDR (Non-Sleep Deep Rest) / yoga nidra for 10-30 min during the day can offset sleep debt and reduce stress",
+          "category": "sleep",
+          "subcategory": "recovery",
+          "url": "https://www.hubermanlab.com/newsletter/toolkit-for-sleep",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Morning sunlight (5-10 min outdoors, not through windows) triggers cortisol spike and dopamine release that sets circadian rhythm for the entire day",
+          "category": "light-therapy",
+          "subcategory": "circadian",
+          "url": "https://www.hubermanlab.com/newsletter/toolkit-for-sleep",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Physiological sigh: double inhale through nose followed by long exhale through mouth; most effective rapid stress reduction technique (1-3 breaths)",
+          "category": "breathwork",
+          "subcategory": "stress",
+          "url": "https://www.hubermanlab.com/newsletter/toolkit-for-sleep",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        }
+      ]
+    },
+    {
+      "source_name": "SweatDecks (Cold Exposure Scientific Framework)",
+      "source_url": "https://sweatdecks.com/blogs/research/deliberate-cold-exposure-huberman-scientific-framework",
+      "source_type": "blog",
+      "facts": [
+        {
+          "fact": "Cold water immersion at 15°C for 1 hour increased norepinephrine 3x and dopamine 2.5x in research studies",
+          "category": "cold-exposure",
+          "subcategory": "hormones",
+          "url": "https://sweatdecks.com/blogs/research/deliberate-cold-exposure-huberman-scientific-framework",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Brown adipose tissue (BAT) activation through cold exposure can increase resting metabolic rate by up to 15%",
+          "category": "cold-exposure",
+          "subcategory": "metabolism",
+          "url": "https://sweatdecks.com/blogs/research/deliberate-cold-exposure-huberman-scientific-framework",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Cold exposure post-exercise may blunt hypertrophy adaptations; avoid within 4-6 hours after resistance training if muscle growth is the goal",
+          "category": "cold-exposure",
+          "subcategory": "risks",
+          "url": "https://sweatdecks.com/blogs/research/deliberate-cold-exposure-huberman-scientific-framework",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Cold plunge temperature progression: beginners start at 60°F (15°C) for 1 min, advanced can go to 45°F (7°C) for 3-5 min",
+          "category": "cold-exposure",
+          "subcategory": "protocol",
+          "url": "https://sweatdecks.com/blogs/research/deliberate-cold-exposure-huberman-scientific-framework",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Cold exposure activates cold shock proteins (CIRP, RBM3) that have neuroprotective effects and may improve cognitive function",
+          "category": "cold-exposure",
+          "subcategory": "neuroprotection",
+          "url": "https://sweatdecks.com/blogs/research/deliberate-cold-exposure-huberman-scientific-framework",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "weak"
+        }
+      ]
+    },
+    {
+      "source_name": "PMC - Cold Exposure & Brown Adipose Tissue Meta-Analysis",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9273773/",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "Acute cold exposure significantly increases energy expenditure via brown adipose tissue activation; BAT can contribute 5-30% of resting metabolic rate during cold exposure",
+          "category": "cold-exposure",
+          "subcategory": "metabolism",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9273773/",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Repeated cold exposure leads to BAT recruitment and increased thermogenic capacity, improving metabolic flexibility over time",
+          "category": "cold-exposure",
+          "subcategory": "metabolism",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9273773/",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Cold-induced thermogenesis is impaired in individuals with higher BMI/obesity, suggesting BAT dysfunction in metabolic disease",
+          "category": "cold-exposure",
+          "subcategory": "obesity",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9273773/",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        }
+      ]
+    },
+    {
+      "source_name": "Discovery Journals - Finnish Sauna Bathing in Cardiovascular Health",
+      "source_url": "https://www.discoveryjournals.org/medicalscience/current_issue/v29/n161/e114ms3604.htm",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "Regular Finnish sauna bathing (4-7 sessions/week at 80-100°C) is associated with 50% reduction in cardiovascular disease mortality vs. 1 session/week",
+          "category": "heat-exposure",
+          "subcategory": "longevity",
+          "url": "https://www.discoveryjournals.org/medicalscience/current_issue/v29/n161/e114ms3604.htm",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Sauna bathing acutely lowers blood pressure, improves endothelial function, and reduces arterial stiffness",
+          "category": "heat-exposure",
+          "subcategory": "cardiovascular",
+          "url": "https://www.discoveryjournals.org/medicalscience/current_issue/v29/n161/e114ms3604.htm",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Sauna use mimics cardiovascular exercise: heart rate rises to 120-150 bpm, cardiac output increases 60-70%, blood flow redirects to skin",
+          "category": "heat-exposure",
+          "subcategory": "cardiovascular",
+          "url": "https://www.discoveryjournals.org/medicalscience/current_issue/v29/n161/e114ms3604.htm",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Heat shock proteins (HSPs) induced by sauna protect against protein misfolding, reduce inflammation, and improve insulin sensitivity",
+          "category": "heat-exposure",
+          "subcategory": "mechanism",
+          "url": "https://www.discoveryjournals.org/medicalscience/current_issue/v29/n161/e114ms3604.htm",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Sauna use is associated with reduced risk of Alzheimer's and dementia - up to 65% lower risk with 4-7 sessions/week",
+          "category": "heat-exposure",
+          "subcategory": "neuroprotection",
+          "url": "https://www.discoveryjournals.org/medicalscience/current_issue/v29/n161/e114ms3604.htm",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Recommended sauna protocol: 80-100°C, 15-30 minutes per session, 4-7 times per week for optimal cardiovascular and longevity benefits",
+          "category": "heat-exposure",
+          "subcategory": "protocol",
+          "url": "https://www.discoveryjournals.org/medicalscience/current_issue/v29/n161/e114ms3604.htm",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Sauna is safe for most individuals including those with stable cardiovascular disease; caution advised for unstable angina or recent MI",
+          "category": "heat-exposure",
+          "subcategory": "safety",
+          "url": "https://www.discoveryjournals.org/medicalscience/current_issue/v29/n161/e114ms3604.htm",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        }
+      ]
+    },
+    {
+      "source_name": "Peter Attia MD",
+      "source_url": "https://peterattiamd.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "Zone 2 training: exercise at 55-75% of max heart rate (or RPE 5-6/10) where you can hold a conversation but it's slightly strained; 180+ minutes/week minimum",
+          "category": "metabolic-health",
+          "subcategory": "zone-2",
+          "url": "https://peterattiamd.com/topic-guide/zone-2-training/",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Zone 2 training improves mitochondrial function and metabolic flexibility — the ability to use fat as primary fuel source at higher intensities",
+          "category": "metabolic-health",
+          "subcategory": "mitochondrial",
+          "url": "https://peterattiamd.com/topic-guide/zone-2-training/",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Poor metabolic fitness (assessed via VO2 max) is the single strongest predictor of all-cause mortality — stronger than smoking, diabetes, or heart disease",
+          "category": "metabolic-health",
+          "subcategory": "mortality",
+          "url": "https://peterattiamd.com/topic-guide/zone-2-training/",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Exercise is the single most potent longevity drug: includes strength training (3-4x/week), Zone 2 cardio (3+ hours/week), VO2 max intervals (1x/week), and stability work",
+          "category": "longevity",
+          "subcategory": "exercise-pillars",
+          "url": "https://peterattiamd.com/exercise-for-improving-sleep/",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Peter Attia's exercise framework: 4 pillars - strength, stability, Zone 2 aerobic, VO2 max/anaerobic. Each week should include all 4",
+          "category": "longevity",
+          "subcategory": "framework",
+          "url": "https://peterattiamd.com/exercise-for-improving-sleep/",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "For someone at 130kg, weight loss is the #1 longevity intervention — even 10% body weight reduction dramatically improves insulin sensitivity, inflammation, and cardiovascular markers",
+          "category": "longevity",
+          "subcategory": "weight-loss",
+          "url": "https://peterattiamd.com/exercise-for-improving-sleep/",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        }
+      ]
+    },
+    {
+      "source_name": "Healthline - Ashwagandha",
+      "source_url": "https://www.healthline.com/nutrition/ashwagandha",
+      "source_type": "blog",
+      "facts": [
+        {
+          "fact": "Ashwagandha (250-600mg/day for 8 weeks) significantly reduces perceived stress and cortisol levels compared to placebo",
+          "category": "supplements",
+          "subcategory": "stress",
+          "url": "https://www.healthline.com/nutrition/ashwagandha",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Ashwagandha (600mg/day with resistance training for 8 weeks) produced significantly greater gains in muscle strength and size vs placebo",
+          "category": "supplements",
+          "subcategory": "performance",
+          "url": "https://www.healthline.com/nutrition/ashwagandha",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Ashwagandha significantly enhances VO2 max in healthy adults and athletes (analysis of 5 studies)",
+          "category": "supplements",
+          "subcategory": "cardiovascular",
+          "url": "https://www.healthline.com/nutrition/ashwagandha",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Ashwagandha increased testosterone by 14.7% and DHEA-S by 18% in overweight males aged 40-70 taking extract daily for 8 weeks",
+          "category": "supplements",
+          "subcategory": "testosterone",
+          "url": "https://www.healthline.com/nutrition/ashwagandha",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Ashwagandha significantly increased sperm concentration, semen volume, and sperm motility in males with low sperm count (review of 4 studies)",
+          "category": "supplements",
+          "subcategory": "fertility",
+          "url": "https://www.healthline.com/nutrition/ashwagandha",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Ashwagandha reduces blood sugar, HbA1c, insulin, and oxidative stress markers (review of 24 studies including 5 clinical studies in diabetics)",
+          "category": "supplements",
+          "subcategory": "metabolic",
+          "url": "https://www.healthline.com/nutrition/ashwagandha",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Ashwagandha (600mg/day for 12 weeks) significantly improved sleep quality and mental alertness upon waking in adults 65-80",
+          "category": "supplements",
+          "subcategory": "sleep",
+          "url": "https://www.healthline.com/nutrition/ashwagandha",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Ashwagandha improved immediate and general memory, attention, and information-processing speed in adults taking 600mg/day for 8 weeks",
+          "category": "supplements",
+          "subcategory": "cognitive",
+          "url": "https://www.healthline.com/nutrition/ashwagandha",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        }
+      ]
+    },
+    {
+      "source_name": "Healthline - Creatine",
+      "source_url": "https://www.healthline.com/nutrition/what-is-creatine",
+      "source_type": "blog",
+      "facts": [
+        {
+          "fact": "Creatine loading phase: 20g/day (4x5g) for 5-7 days, then maintenance dose of 3-5g/day",
+          "category": "supplements",
+          "subcategory": "protocol",
+          "url": "https://www.healthline.com/nutrition/what-is-creatine",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "95% of body's creatine stores are in muscles (as phosphocreatine); 5% in brain and testes",
+          "category": "supplements",
+          "subcategory": "physiology",
+          "url": "https://www.healthline.com/nutrition/what-is-creatine",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Creatine increases ATP production capacity, enabling more total work/volume in training sessions — key for long-term muscle growth",
+          "category": "supplements",
+          "subcategory": "mechanism",
+          "url": "https://www.healthline.com/nutrition/what-is-creatine",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Creatine reduces myostatin levels, increasing muscle growth potential",
+          "category": "supplements",
+          "subcategory": "mechanism",
+          "url": "https://www.healthline.com/nutrition/what-is-creatine",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Creatine supplementation improves short-term memory and intelligence, with strongest effects in older adults and vegetarians",
+          "category": "supplements",
+          "subcategory": "cognitive",
+          "url": "https://www.healthline.com/nutrition/what-is-creatine",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Creatine is the single most effective supplement for adding muscle mass (large review of most popular supplements)",
+          "category": "supplements",
+          "subcategory": "muscle-growth",
+          "url": "https://www.healthline.com/nutrition/what-is-creatine",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Creatine monohydrate is the best-researched, most effective, and cheapest form; other forms lack evidence of superiority",
+          "category": "supplements",
+          "subcategory": "form-selection",
+          "url": "https://www.healthline.com/nutrition/what-is-creatine",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Studies up to 4 years show no negative effects of creatine supplementation at standard doses in healthy individuals",
+          "category": "supplements",
+          "subcategory": "safety",
+          "url": "https://www.healthline.com/nutrition/what-is-creatine",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Creatine may lower blood sugar levels and improve glucose metabolism",
+          "category": "supplements",
+          "subcategory": "metabolic",
+          "url": "https://www.healthline.com/nutrition/what-is-creatine",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Without loading phase, taking 3-5g/day takes ~4 weeks to maximize muscle creatine stores",
+          "category": "supplements",
+          "subcategory": "protocol",
+          "url": "https://www.healthline.com/nutrition/what-is-creatine",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        }
+      ]
+    },
+    {
+      "source_name": "Healthline - Vitamin D",
+      "source_url": "https://www.healthline.com/health/food-nutrition/benefits-vitamin-d",
+      "source_type": "blog",
+      "facts": [
+        {
+          "fact": "Vitamin D regulates calcium/phosphorus absorption and facilitates healthy immune system function",
+          "category": "supplements",
+          "subcategory": "immunity",
+          "url": "https://www.healthline.com/health/food-nutrition/benefits-vitamin-d",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Low vitamin D levels linked to increased risk of multiple sclerosis, heart disease, and severe respiratory infections",
+          "category": "supplements",
+          "subcategory": "disease-prevention",
+          "url": "https://www.healthline.com/health/food-nutrition/benefits-vitamin-d",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Vitamin D supplementation improved depression symptoms in people with deficiency (review of 7,534 people)",
+          "category": "supplements",
+          "subcategory": "mood",
+          "url": "https://www.healthline.com/health/food-nutrition/benefits-vitamin-d",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "People with higher body weights have greater chance of low vitamin D levels — vitamin D is fat-soluble and sequestered in adipose tissue",
+          "category": "supplements",
+          "subcategory": "obesity",
+          "url": "https://www.healthline.com/health/food-nutrition/benefits-vitamin-d",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "RDA for adults 18-70: 600 IU (15 mcg); adults over 70: 800 IU (20 mcg); many experts recommend 1000-4000 IU for optimal levels",
+          "category": "supplements",
+          "subcategory": "dosage",
+          "url": "https://www.healthline.com/health/food-nutrition/benefits-vitamin-d",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Optimal blood serum levels: 50-100 nmol/L; deficiency is common in obese individuals and those with limited sun exposure",
+          "category": "supplements",
+          "subcategory": "blood-levels",
+          "url": "https://www.healthline.com/health/food-nutrition/benefits-vitamin-d",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        }
+      ]
+    },
+    {
+      "source_name": "Wim Hof Method - Science",
+      "source_url": "https://www.wimhofmethod.com/science",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "Wim Hof Method (breathing + cold exposure + commitment) has been shown in studies to voluntarily influence the autonomic nervous system and immune response",
+          "category": "breathwork",
+          "subcategory": "wim-hof",
+          "url": "https://www.wimhofmethod.com/science",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "WIM Hof breathing involves 30-40 deep breaths followed by a breath hold (retention) — triggers brief respiratory alkalosis and mild hypoxia",
+          "category": "breathwork",
+          "subcategory": "technique",
+          "url": "https://www.wimhofmethod.com/science",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Practitioners of Wim Hof Method showed reduced inflammatory markers (IL-6, IL-8, TNF-alpha) when injected with endotoxin, vs. control group who had strong inflammatory response",
+          "category": "breathwork",
+          "subcategory": "inflammation",
+          "url": "https://www.wimhofmethod.com/science",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Wim Hof Method increased epinephrine (adrenaline) levels more than 3x baseline during breathing exercises",
+          "category": "breathwork",
+          "subcategory": "hormones",
+          "url": "https://www.wimhofmethod.com/science",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "WHM has been shown to improve glucose tolerance and insulin sensitivity in healthy volunteers after 10 days of practice",
+          "category": "breathwork",
+          "subcategory": "metabolic",
+          "url": "https://www.wimhofmethod.com/science",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        }
+      ]
+    },
+    {
+      "source_name": "Healthline - Red Light Therapy",
+      "source_url": "https://www.healthline.com/health/red-light-therapy",
+      "source_type": "blog",
+      "facts": [
+        {
+          "fact": "Red light therapy (RLT) uses low-wavelength red light (630-660nm) and near-infrared light (810-850nm) to stimulate cellular function",
+          "category": "light-therapy",
+          "subcategory": "mechanism",
+          "url": "https://www.healthline.com/health/red-light-therapy",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "RLT may improve skin health by stimulating collagen production, reducing wrinkles, and improving skin tone",
+          "category": "light-therapy",
+          "subcategory": "skin",
+          "url": "https://www.healthline.com/health/red-light-therapy",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "RLT may reduce inflammation and pain, with studies showing benefits for osteoarthritis, tendonitis, and muscle recovery",
+          "category": "light-therapy",
+          "subcategory": "recovery",
+          "url": "https://www.healthline.com/health/red-light-therapy",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "RLT works via photobiomodulation — light photons absorbed by mitochondria (cytochrome c oxidase) increase ATP production and reduce oxidative stress",
+          "category": "light-therapy",
+          "subcategory": "mitochondrial",
+          "url": "https://www.healthline.com/health/red-light-therapy",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Red light therapy is generally considered safe with few side effects; main risk is eye damage if used without protection",
+          "category": "light-therapy",
+          "subcategory": "safety",
+          "url": "https://www.healthline.com/health/red-light-therapy",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Many RLT claims (hair growth, weight loss, cancer treatment) lack strong evidence — marketing often outpaces science",
+          "category": "light-therapy",
+          "subcategory": "hype-warning",
+          "url": "https://www.healthline.com/health/red-light-therapy",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        }
+      ]
+    },
+    {
+      "source_name": "RP Strength - Testosterone 101",
+      "source_url": "https://rpstrength.com/blogs/articles/testosterone-101",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "Body fat reduction is the most effective natural testosterone optimizer — fat tissue converts testosterone to estrogen via aromatase enzyme",
+          "category": "hormone-optimization",
+          "subcategory": "body-fat",
+          "url": "https://rpstrength.com/blogs/articles/testosterone-101",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Compound lifts (squat, deadlift, bench press) acutely boost testosterone more than isolation exercises; heavy resistance training (3-5 reps, 85-95% 1RM) is optimal",
+          "category": "hormone-optimization",
+          "subcategory": "training",
+          "url": "https://rpstrength.com/blogs/articles/testosterone-101",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Chronic calorie deficit and overtraining suppress testosterone; adequate calories and recovery are essential for hormone optimization",
+          "category": "hormone-optimization",
+          "subcategory": "recovery",
+          "url": "https://rpstrength.com/blogs/articles/testosterone-101",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Vitamin D (2000-4000 IU/day), zinc (15-30mg/day), and magnesium (200-400mg/day) are the most evidence-based micronutrients for testosterone support",
+          "category": "hormone-optimization",
+          "subcategory": "supplements",
+          "url": "https://rpstrength.com/blogs/articles/testosterone-101",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Sleep deprivation (less than 6 hours/night) can reduce testosterone by 10-15% within one week",
+          "category": "hormone-optimization",
+          "subcategory": "sleep",
+          "url": "https://rpstrength.com/blogs/articles/testosterone-101",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Cortisol and testosterone are inversely related — chronic stress management is critical for maintaining healthy testosterone levels",
+          "category": "hormone-optimization",
+          "subcategory": "cortisol",
+          "url": "https://rpstrength.com/blogs/articles/testosterone-101",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        }
+      ]
+    },
+    {
+      "source_name": "Bryan Johnson - Blueprint Protocol",
+      "source_url": "https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-protocol",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "Bryan Johnson's Blueprint involves 100+ daily supplements, strict vegan diet (~2,250 calories), and extensive biomarker tracking — extreme protocol, not evidence-based for general population",
+          "category": "longevity",
+          "subcategory": "blueprint",
+          "url": "https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-protocol",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "weak"
+        },
+        {
+          "fact": "Blueprint protocol includes NMN (NR precursor for NAD+) 1000mg/day, metformin for anti-aging (off-label), and rapamycin (experimental, prescription-only)",
+          "category": "longevity",
+          "subcategory": "supplements-experimental",
+          "url": "https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-protocol",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "weak"
+        },
+        {
+          "fact": "Johnson's measurable results: slowed epigenetic aging by 5.1 years (per DunedinPACE), reduced inflammation markers to top 0.1% of 20-year-olds",
+          "category": "longevity",
+          "subcategory": "results",
+          "url": "https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-protocol",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "weak"
+        },
+        {
+          "fact": "Blueprint separates evidence-based practices (sleep, exercise, diet) from experimental (NMN, rapamycin, plasma exchange) — the former are universally recommended, the latter are N=1 experiments",
+          "category": "longevity",
+          "subcategory": "evidence-assessment",
+          "url": "https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-protocol",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        }
+      ]
+    },
+    {
+      "source_name": "Hussain Sharifi - Cold Exposure Science",
+      "source_url": "https://hussainsharifi.com/articles/cold-exposure-science-ice-baths-brown-fat-dopamine.html",
+      "source_type": "blog",
+      "facts": [
+        {
+          "fact": "Cold exposure at 14°C for 1 hour increased metabolic rate by 80% in cold-adapted individuals with active brown fat",
+          "category": "cold-exposure",
+          "subcategory": "metabolism",
+          "url": "https://hussainsharifi.com/articles/cold-exposure-science-ice-baths-brown-fat-dopamine.html",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Cold showers (20°C, 2-3 min) are a gentler alternative to ice baths; still provide dopamine and norepinephrine boost but less BAT activation",
+          "category": "cold-exposure",
+          "subcategory": "protocol",
+          "url": "https://hussainsharifi.com/articles/cold-exposure-science-ice-baths-brown-fat-dopamine.html",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Contrast therapy (alternating hot/cold) may be superior for DOMS recovery than cold alone, by creating vascular pump effect",
+          "category": "cold-exposure",
+          "subcategory": "recovery",
+          "url": "https://hussainsharifi.com/articles/cold-exposure-science-ice-baths-brown-fat-dopamine.html",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "weak"
+        }
+      ]
+    },
+    {
+      "source_name": "General Biohacking Knowledge (synthesized from multiple sources)",
+      "source_url": "multiple",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "Box breathing (4-4-4-4: inhale 4s, hold 4s, exhale 4s, hold 4s) activates parasympathetic nervous system, reducing heart rate and stress within 2-5 minutes",
+          "category": "breathwork",
+          "subcategory": "box-breathing",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Buteyko breathing method focuses on nasal breathing and CO2 tolerance; may help asthma and sleep apnea but lacks robust RCT evidence",
+          "category": "breathwork",
+          "subcategory": "buteyko",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "weak"
+        },
+        {
+          "fact": "Omega-3 fatty acids (EPA + DHA, 1-3g/day combined) reduce inflammation, improve cardiovascular health, and support brain function. Strong evidence for triglyceride reduction",
+          "category": "supplements",
+          "subcategory": "omega-3",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "NMN (Nicotinamide Mononucleotide) and NR (Nicotinamide Riboside) are NAD+ precursors; animal studies show longevity benefits but human evidence is early-stage",
+          "category": "supplements",
+          "subcategory": "nad-precursors",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "weak"
+        },
+        {
+          "fact": "NMN human trials: 250mg/day for 12 weeks improved insulin sensitivity and aerobic capacity in prediabetic adults (2023 Sinclair lab study)",
+          "category": "supplements",
+          "subcategory": "nad-precursors",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Metformin (off-label anti-aging): TAME trial ongoing; observational data suggests diabetics on metformin have lower cancer and all-cause mortality than non-diabetics",
+          "category": "supplements",
+          "subcategory": "metformin",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Rapamycin: mTOR inhibitor that extends lifespan in mice by 20-25%; human anti-aging use is experimental and prescription-only. Weekly dosing (3-6mg) is most common off-label protocol",
+          "category": "supplements",
+          "subcategory": "rapamycin",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "weak"
+        },
+        {
+          "fact": "Continuous Glucose Monitors (CGMs) like Libre/Dexcom show real-time glucose response to food, stress, sleep, and exercise. For non-diabetics: optimal fasting glucose 70-90 mg/dL, post-meal spikes <140 mg/dL, return to baseline <2 hours",
+          "category": "metabolic-health",
+          "subcategory": "cgm",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Time-restricted eating (TRE) / intermittent fasting: 12-14 hour daily eating window minimum for metabolic benefits; 16:8 is most studied protocol. Benefits include improved insulin sensitivity, autophagy, and weight management",
+          "category": "metabolic-health",
+          "subcategory": "fasting",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Mouth taping for sleep: promotes nasal breathing, reduces snoring and sleep apnea severity; limited RCTs but growing clinical interest. Use porous medical tape, not duct/strong tape",
+          "category": "sleep",
+          "subcategory": "mouth-taping",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "weak"
+        },
+        {
+          "fact": "Oura Ring tracks sleep stages, HRV, body temperature, and activity; Whoop band tracks recovery, strain, and sleep. Both help quantify sleep quality and recovery trends",
+          "category": "sleep",
+          "subcategory": "tracking",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Blue light blocking glasses: amber-tinted glasses 2-3 hours before bed improve melatonin production and sleep onset. Evidence strongest for LED/screen-heavy environments",
+          "category": "light-therapy",
+          "subcategory": "blue-light-blocking",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Compression boots (Normatec): peristaltic compression improves circulation and lymphatic drainage; reduces DOMS and perceived fatigue. Evidence is moderate — not dramatically better than active recovery",
+          "category": "recovery-tech",
+          "subcategory": "compression",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Massage guns (percussive therapy): reduce muscle soreness and improve short-term range of motion; equivalent to manual massage for DOMS relief. 30-60 seconds per muscle group post-workout",
+          "category": "recovery-tech",
+          "subcategory": "percussive-therapy",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "EMS/TENS devices: electrical muscle stimulation can supplement rehabilitation and maintain muscle in immobilized limbs; limited value for healthy athletes beyond recovery",
+          "category": "recovery-tech",
+          "subcategory": "ems-tens",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "PEMF (Pulsed Electromagnetic Field) therapy: FDA-approved for bone healing and post-surgical recovery; evidence for general recovery/wellness is limited. Mostly marketing hype for consumer wellness devices",
+          "category": "recovery-tech",
+          "subcategory": "pemf",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "weak"
+        },
+        {
+          "fact": "Infrared saunas operate at lower temperatures (50-60°C) than traditional Finnish saunas (80-100°C); fewer cardiovascular studies but may offer similar heat shock protein benefits with less heat stress",
+          "category": "heat-exposure",
+          "subcategory": "infrared",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "weak"
+        },
+        {
+          "fact": "Growth hormone release: 2x 20-minute sauna sessions at 80°C separated by 30-min cooling can increase GH by 2-5x; effect is amplified by exercise beforehand",
+          "category": "heat-exposure",
+          "subcategory": "growth-hormone",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Cortisol management: chronic elevation (from stress, poor sleep, overtraining) suppresses testosterone, immune function, and promotes abdominal fat storage. Key interventions: sleep, meditation, ashwagandha, reducing caffeine",
+          "category": "hormone-optimization",
+          "subcategory": "cortisol",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Thyroid health: iodine, selenium, and zinc are critical cofactors for thyroid hormone production. Hypothyroidism can cause weight gain, fatigue, and cold intolerance",
+          "category": "hormone-optimization",
+          "subcategory": "thyroid",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Metabolic flexibility: ability to efficiently switch between glucose and fat oxidation. Improved by Zone 2 training, intermittent fasting, and low-carb periods. Key marker: low fasting insulin (<5 mIU/L)",
+          "category": "metabolic-health",
+          "subcategory": "flexibility",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Rhodiola rosea (200-400mg/day, standardized to 3% rosavins): adaptogen that reduces mental fatigue and improves stress resilience. Evidence moderate for chronic fatigue; weak for athletic performance",
+          "category": "supplements",
+          "subcategory": "adaptogens",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "L-theanine (100-200mg): amino acid from green tea; promotes alpha brain waves (relaxed alertness). Synergistic with caffeine for focus without jitters",
+          "category": "supplements",
+          "subcategory": "nootropics",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "Magnesium glycinate (200-400mg): highly bioavailable form; supports sleep, muscle recovery, and 300+ enzymatic reactions. Most adults are deficient",
+          "category": "supplements",
+          "subcategory": "minerals",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Magnesium threonate: only form that crosses blood-brain barrier; supports cognitive function and neuroplasticity. More expensive, used for brain health specifically",
+          "category": "supplements",
+          "subcategory": "minerals",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "moderate"
+        },
+        {
+          "fact": "David Sinclair protocol: NMN 1000mg/day, resveratrol, metformin 850mg twice daily (off-label). Based on animal aging research; human evidence still emerging. Sinclair personally takes these but acknowledges N=1 nature",
+          "category": "longevity",
+          "subcategory": "sinclair-protocol",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "weak"
+        },
+        {
+          "fact": "Peter Attia's personal protocol emphasizes: 4 hours exercise/week minimum (strength + Zone 2 + VO2 max), 7.5+ hours sleep, protein at 1g/lb lean mass, minimal alcohol, strong social connections",
+          "category": "longevity",
+          "subcategory": "attia-protocol",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "For obese individuals (130kg), priority hierarchy for health optimization: (1) weight loss via caloric deficit + protein, (2) strength training to preserve/build muscle during weight loss, (3) Zone 2 cardio for metabolic health, (4) sleep optimization, (5) cold/heat/breathwork/supplements as adjuncts",
+          "category": "longevity",
+          "subcategory": "priority-for-obesity",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "Protein intake for 130kg male: 1.6-2.2g protein per kg of target body weight (not current weight). If target is 85kg: 136-187g protein/day",
+          "category": "metabolic-health",
+          "subcategory": "nutrition",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        },
+        {
+          "fact": "NEAT (Non-Exercise Activity Thermogenesis): walking 8,000-12,000 steps/day can burn 300-500 extra calories — critical for weight loss without overtraining",
+          "category": "metabolic-health",
+          "subcategory": "neat",
+          "url": "multiple",
+          "date_accessed": "2026-06-14",
+          "evidence_quality": "strong"
+        }
+      ]
+    }
+  ]
+}
