@@ -1,0 +1,1199 @@
+{
+  "metadata": {
+    "created": "2026-06-14",
+    "total_facts": 178,
+    "description": "Evidence-based fitness facts database for weight loss and muscle building"
+  },
+  "sources": [
+    {
+      "source_name": "Stronger By Science",
+      "source_url": "https://strongerbyscience.com",
+      "source_type": "blog",
+      "facts": [
+        {
+          "fact": "Energy balance (calories in vs calories out) is the primary determinant of body weight change. A calorie surplus is needed for muscle gain and a deficit is needed for fat loss, though body recomposition can occur in beginners who simultaneously gain muscle and lose fat.",
+          "category": "weight-loss",
+          "subcategory": "energy-balance",
+          "url": "https://strongerbyscience.com/diet/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Total daily energy expenditure (TDEE) is composed of: Basal Metabolic Rate (~70%), Thermic Effect of Feeding (~10%), Exercise Activity Thermogenesis (~5%), and Non-Exercise Activity Thermogenesis (~15%) in the general population.",
+          "category": "metabolism",
+          "subcategory": "tdee-components",
+          "url": "https://strongerbyscience.com/diet/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Protein has a higher thermic effect of feeding (TEF) than carbohydrate or fat, meaning more calories are burned digesting and metabolizing protein. TEF for protein is ~20-30% of calories consumed vs 5-10% for carbs and 0-3% for fat.",
+          "category": "nutrition",
+          "subcategory": "protein",
+          "url": "https://strongerbyscience.com/diet/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For hypertrophy, an energy surplus facilitates muscle gain since building muscle is energy-intensive. However, excessive surplus leads to unnecessary fat gain. A moderate surplus of 200-500 kcal/day is recommended for lean bulking.",
+          "category": "muscle-building",
+          "subcategory": "caloric-surplus",
+          "url": "https://strongerbyscience.com/diet/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Animal-based proteins (dairy, egg, meat, poultry, seafood) are generally higher quality than plant-based proteins, with more leucine and essential amino acids per gram and better digestibility. Leucine is the key amino acid that initiates muscle protein synthesis.",
+          "category": "nutrition",
+          "subcategory": "protein-quality",
+          "url": "https://strongerbyscience.com/diet/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Vegan and omnivorous diets can support hypertrophy similarly if the vegan diet has plenty of protein (at least 3-4 decently sized servings per day), complementary essential amino acids, and each serving provides at least 0.24g/kg of protein with 2-3g leucine.",
+          "category": "nutrition",
+          "subcategory": "plant-based-protein",
+          "url": "https://strongerbyscience.com/diet/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For new lifters, the most important factors are buy-in/habit formation, movement proficiency, body/muscular awareness, and readiness to train and recover. Beginners will gain muscle and strength doing almost anything due to the novelty of the stimulus.",
+          "category": "training-programming",
+          "subcategory": "beginner-training",
+          "url": "https://strongerbyscience.com/complete-strength-training-guide/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Strength potential is determined by four factors: muscle size, mastery of lifts (neurological skill), healthy joints/connective tissue, and age. Muscle size is the most modifiable factor for drug-free lifters.",
+          "category": "muscle-building",
+          "subcategory": "strength-potential",
+          "url": "https://strongerbyscience.com/complete-strength-training-guide/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Muscle protein synthesis transiently increases after protein feeding, then tapers off. This is called the 'muscle full' effect. To maximize hypertrophy, distribute protein across 3-4 meals spaced 3-5 hours apart rather than consuming it all at once.",
+          "category": "nutrition",
+          "subcategory": "protein-timing",
+          "url": "https://strongerbyscience.com/diet/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Body recomposition (simultaneous fat loss and muscle gain) is most feasible in: untrained individuals, those with high body fat percentages, individuals returning from a training layoff, and those using performance-enhancing drugs. Trained, lean individuals have minimal recomp potential.",
+          "category": "body-recomposition",
+          "subcategory": "recomp-feasibility",
+          "url": "https://strongerbyscience.com/diet/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For fat loss, maintaining training intensity (load on the bar) is more important than maintaining volume. Volume can decrease by ~1/3 during a cut without losing muscle, but intensity must stay at 85%+ of pre-cut levels.",
+          "category": "weight-loss",
+          "subcategory": "training-intensity-cut",
+          "url": "https://strongerbyscience.com/complete-strength-training-guide/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Alcohol provides 7 kcal/g but has virtually no nutritional value and is metabolized differently from other macronutrients. Alcohol metabolism takes priority over fat oxidation, meaning drinking can significantly blunt fat loss even within caloric targets.",
+          "category": "nutrition",
+          "subcategory": "alcohol",
+          "url": "https://strongerbyscience.com/diet/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Examine.com",
+      "source_url": "https://examine.com",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "Creatine monohydrate is the most researched and effective supplement for increasing strength and muscle mass. Standard dosing is 3-5g daily. A loading phase of 20g/day for 5-7 days can saturate stores faster but is not required.",
+          "category": "supplements",
+          "subcategory": "creatine",
+          "url": "https://examine.com/supplements/creatine/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Creatine increases muscle phosphocreatine stores by 10-40%, enhancing ATP availability during short-duration, high-intensity exercise. This translates to ~5-15% improvements in maximal power/strength output.",
+          "category": "supplements",
+          "subcategory": "creatine-mechanism",
+          "url": "https://examine.com/supplements/creatine/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Caffeine is effective for enhancing exercise performance at doses of 3-6 mg/kg body weight taken 30-60 minutes before exercise. It improves endurance, power output, and focus. Habituation reduces its ergogenic effect.",
+          "category": "supplements",
+          "subcategory": "caffeine",
+          "url": "https://examine.com/supplements/caffeine/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Whey protein is the highest quality supplemental protein source, with a biological value of 104 and high leucine content (~10-11% by weight). It is rapidly absorbed, making it ideal for post-workout muscle protein synthesis.",
+          "category": "supplements",
+          "subcategory": "whey-protein",
+          "url": "https://examine.com/supplements/whey-protein/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Total daily protein intake matters more than protein timing for hypertrophy. The optimal range is 1.6-2.2 g/kg of body weight per day for resistance-trained individuals. intakes above 2.2 g/kg show diminishing returns.",
+          "category": "nutrition",
+          "subcategory": "protein-intake",
+          "url": "https://examine.com/guides/protein/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Beta-alanine at 3.2-6.4g daily can improve exercise performance for activities lasting 60-240 seconds by increasing muscle carnosine levels, which buffers lactic acid. Benefits are small (~1-3% improvement) and skin tingling (paresthesia) is a harmless side effect.",
+          "category": "supplements",
+          "subcategory": "beta-alanine",
+          "url": "https://examine.com/supplements/beta-alanine/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Fish oil (omega-3 fatty acids EPA+DHA) at 2-4g daily may reduce muscle soreness and inflammation, and support cardiovascular health. Its direct effect on muscle growth is minimal but it may enhance recovery from intense training.",
+          "category": "supplements",
+          "subcategory": "fish-oil",
+          "url": "https://examine.com/supplements/fish-oil/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Vitamin D deficiency is common (affecting ~40-60% of populations) and is associated with reduced muscle function, lower testosterone, and impaired recovery. Supplementing 1000-4000 IU daily can correct deficiency, with 2000 IU being a common recommendation.",
+          "category": "supplements",
+          "subcategory": "vitamin-d",
+          "url": "https://examine.com/supplements/vitamin-d/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Citrulline malate (6-8g pre-workout) can reduce fatigue and increase training volume by enhancing nitric oxide production and ammonia clearance. It is one of the few pump/vasodilation supplements with solid evidence.",
+          "category": "supplements",
+          "subcategory": "citrulline",
+          "url": "https://examine.com/supplements/citrulline/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Zinc deficiency (affecting ~17% of the global population) can reduce testosterone levels and impair immune function. Supplementing 15-30mg zinc daily may benefit athletes who train intensely, particularly those who sweat heavily.",
+          "category": "supplements",
+          "subcategory": "zinc",
+          "url": "https://examine.com/supplements/zinc/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Magnesium supplementation (200-400mg of magnesium glycinate or citrate) can improve sleep quality and muscle recovery in deficient individuals. Deficiency is common (~50% of adults) and is exacerbated by intense training.",
+          "category": "supplements",
+          "subcategory": "magnesium",
+          "url": "https://examine.com/supplements/magnesium/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Renaissance Periodization (Dr. Mike Israetel)",
+      "source_url": "https://rpstrength.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "Training volume is the primary driver of hypertrophy. The Minimum Effective Volume (MEV) is ~6-8 sets per muscle group per week. The Maximum Recoverable Volume (MRV) is typically 20-25 sets per muscle group per week for most lifters.",
+          "category": "muscle-building",
+          "subcategory": "volume",
+          "url": "https://rpstrength.com/training-volume-landmarks-muscle-growth",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For hypertrophy, the optimal training frequency is 2-3 times per week per muscle group. This allows sufficient stimulus frequency while providing recovery. Training a muscle once per week is suboptimal for most lifters.",
+          "category": "training-programming",
+          "subcategory": "frequency",
+          "url": "https://rpstrength.com/muscle-growth-training-frequency",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For hypertrophy training, reps should be taken within 1-3 reps of failure (RIR 1-3). Going to absolute failure on every set dramatically increases fatigue without meaningfully more growth stimulus. RIR 2 is the sweet spot for most working sets.",
+          "category": "training-programming",
+          "subcategory": "effort-proximity-to-failure",
+          "url": "https://rpstrength.com/effective-reps-hypertrophy-training",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Progressive overload should be mesocycle-to-mesocycle, not just workout-to-workout. Within a mesocycle (3-6 weeks), volume accumulates from MEV towards MRV, then a deload week drops volume by ~50% to allow supercompensation.",
+          "category": "training-programming",
+          "subcategory": "periodization",
+          "url": "https://rpstrength.com/periodization-muscle-growth",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For fat loss phases, protein intake should be HIGH (2.2-3.1 g/kg) to preserve muscle mass. The leaner you get, the higher the protein needs to be within this range to prevent muscle loss.",
+          "category": "weight-loss",
+          "subcategory": "protein-during-cut",
+          "url": "https://rpstrength.com/fat-loss-diet",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Fat loss should proceed at 0.5-1.0% of body weight per week. Faster rates increase muscle loss risk. If you're below 15% body fat (men) or 25% (women), aim for the lower end (0.5%).",
+          "category": "weight-loss",
+          "subcategory": "rate-of-loss",
+          "url": "https://rpstrength.com/fat-loss-diet",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "During a caloric deficit, training volume should generally be reduced (by ~1/3) compared to a surplus/maintenance, but INTENSITY (proximity to failure, load on the bar) must be maintained to signal the body to keep muscle.",
+          "category": "weight-loss",
+          "subcategory": "training-during-cut",
+          "url": "https://rpstrength.com/training-during-cut",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "The 'junk volume' concept: performing sets that are too far from failure (<2 RIR) or with exercises that don't effectively stretch the target muscle provides minimal hypertrophy stimulus while still consuming recovery resources.",
+          "category": "training-programming",
+          "subcategory": "junk-volume",
+          "url": "https://rpstrength.com/training-volume-landmarks",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Muscle growth is stimulated primarily by mechanical tension. Exercises that put the target muscle under high tension in a stretched position are particularly effective (e.g., Romanian deadlifts for hamstrings, deep deficit pushups for chest).",
+          "category": "muscle-building",
+          "subcategory": "mechanical-tension",
+          "url": "https://rpstrength.com/hypertrophy-training",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For deload weeks, reduce both volume and intensity by ~30-50% for one week. The goal is to dissipate fatigue while maintaining the skill component of the lifts. Do not deload for longer than one week or you risk detraining.",
+          "category": "recovery",
+          "subcategory": "deload-protocol",
+          "url": "https://rpstrength.com/deload",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Daily undulating periodization (DUP) — varying rep ranges across the week (e.g., heavy day 3-5 reps, moderate day 8-12 reps, light day 15-20 reps) — is more effective for hypertrophy and strength than linear periodization for intermediate lifters.",
+          "category": "training-programming",
+          "subcategory": "dup",
+          "url": "https://rpstrength.com/periodization",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Jeff Nippard",
+      "source_url": "https://jeffnippard.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "The hypertrophy rep range is broader than the traditional '8-12.' Any load that allows you to perform 5-30 reps to near-failure can build muscle equally well, provided effort (proximity to failure) is matched.",
+          "category": "muscle-building",
+          "subcategory": "rep-range",
+          "url": "https://jeffnippard.com/articles/nutrition",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For maximizing muscle growth, a combination of rep ranges is optimal: heavy (5-8 reps), moderate (8-15 reps), and light (15-30 reps). This provides varied stimulus and reduces overuse risk from always training heavy.",
+          "category": "training-programming",
+          "subcategory": "rep-range-combination",
+          "url": "https://jeffnippard.com/articles/nutrition",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Exercise selection should prioritize movements that train muscles in their lengthened (stretched) position, as research shows ~2x more hypertrophy from stretched-position training vs contracted-position training for the same volume.",
+          "category": "muscle-building",
+          "subcategory": "stretched-position",
+          "url": "https://jeffnippard.com/articles/training",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Rest intervals of 2-3 minutes between sets produce better hypertrophy and strength results than 30-60 seconds. Shorter rest reduces total volume you can perform and increases perceived effort without extra benefit.",
+          "category": "training-programming",
+          "subcategory": "rest-intervals",
+          "url": "https://jeffnippard.com/articles/training",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Full range of motion (ROM) is generally superior to partial ROM for hypertrophy. However, lengthened partials (doing the bottom half of a movement) can be as effective or more effective than full ROM for certain exercises.",
+          "category": "muscle-building",
+          "subcategory": "range-of-motion",
+          "url": "https://jeffnippard.com/articles/training",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For natural trainees, training a muscle group 2x per week produces ~30% more hypertrophy than 1x per week at equal weekly volume, due to higher frequency of muscle protein synthesis stimulation.",
+          "category": "training-programming",
+          "subcategory": "frequency-muscle-growth",
+          "url": "https://jeffnippard.com/articles/training",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "The 'minimum effective training dose' for muscle maintenance during time-crunched periods is ~4-6 sets per muscle group per week at 1-3 RIR. This is significantly less than optimal growth volume but sufficient to preserve muscle mass.",
+          "category": "training-programming",
+          "subcategory": "maintenance-volume",
+          "url": "https://jeffnippard.com/articles/training",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Blood flow restriction (BFR) training using light loads (20-30% 1RM) with cuffs can produce hypertrophy comparable to heavy training. This is useful during injury rehab or deload periods. Typically 4 sets (30/15/15/15 reps) with 30-second rest periods.",
+          "category": "muscle-building",
+          "subcategory": "bfr-training",
+          "url": "https://jeffnippard.com/articles/training",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Stretch-mediated hypertrophy: holding a muscle under stretch tension for 30-60 seconds per set (e.g., overhead triceps stretch, deep calf raises with pause) can increase hypertrophy beyond what dynamic training alone achieves.",
+          "category": "muscle-building",
+          "subcategory": "stretch-mediated-hypertrophy",
+          "url": "https://jeffnippard.com/articles/training",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "3D Muscle Journey / Eric Helms",
+      "source_url": "https://3dmusclejourney.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "For drug-free bodybuilders competing, peak week manipulation (water, sodium, carbohydrate loading/depletion) has minimal impact on appearance compared to the months of consistent dieting that precede it. Most 'peak week' protocols cause more harm than good.",
+          "category": "nutrition",
+          "subcategory": "peak-week",
+          "url": "https://3dmusclejourney.com/library",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "The Pyramid of nutrition priority for body composition: 1) Energy balance (calories), 2) Macronutrients, 3) Micronutrients, 4) Nutrient timing, 5) Supplements. Focus on the base before the apex.",
+          "category": "nutrition",
+          "subcategory": "nutrition-pyramid",
+          "url": "https://3dmusclejourney.com/library",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Auto-regulation (adjusting training based on daily readiness using tools like RPE/RIR) is a valuable tool but should not replace structured progressive overload. Use it to modulate within a planned range, not abandon the plan.",
+          "category": "training-programming",
+          "subcategory": "auto-regulation",
+          "url": "https://3dmusclejourney.com/library",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "During contest prep, the minimum viable caloric intake for a male bodybuilder is typically around 8-10 kcal/kg body weight. Going below this risks excessive metabolic adaptation, muscle loss, and hormonal disruption.",
+          "category": "weight-loss",
+          "subcategory": "min-calories-contest",
+          "url": "https://3dmusclejourney.com/library",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Referral feeds (mini refeeds at maintenance every 1-2 weeks during extended cuts) can help partially restore metabolic rate, hormone levels (leptin, thyroid), and training performance during prolonged caloric deficits.",
+          "category": "weight-loss",
+          "subcategory": "refeeds",
+          "url": "https://3dmusclejourney.com/library",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "The 'energy availability' model is more useful than calorie counting for athletes: EA = (Calorie intake − exercise energy expenditure) / fat-free mass. Optimal EA is ≥45 kcal/kg FFM/day; <30 kcal/kg FFM/day impairs performance, recovery, and health.",
+          "category": "nutrition",
+          "subcategory": "energy-availability",
+          "url": "https://3dmusclejourney.com/library",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For natural bodybuilders preparing for competition, cardio should be added gradually and only when calorie reduction stops working. Starting with 2-3 sessions of 20-30 min LISS per week and increasing as needed preserves training energy.",
+          "category": "weight-loss",
+          "subcategory": "cardio-protocol-contest",
+          "url": "https://3dmusclejourney.com/library",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Legion Athletics / Mike Matthews",
+      "source_url": "https://legionathletics.com",
+      "source_type": "blog",
+      "facts": [
+        {
+          "fact": "For weight loss, a caloric deficit of 20-25% below maintenance is effective for most people. A larger deficit (30%+) increases muscle loss risk and metabolic adaptation. A deficit of 300-500 kcal/day is a practical starting point.",
+          "category": "weight-loss",
+          "subcategory": "deficit-size",
+          "url": "https://legionathletics.com/how-to-lose-weight-fast/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "High-protein diets preserve metabolic rate better than low-protein diets during weight loss. Protein's high TEF, muscle-sparing effect, and satiety benefits mean you burn more calories and feel less hungry.",
+          "category": "weight-loss",
+          "subcategory": "protein-metabolism",
+          "url": "https://legionathletics.com/high-protein-diet/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Intermittent fasting (16:8 protocol) produces weight loss equivalent to continuous caloric restriction when calories and macros are matched. Its primary benefit is simplifying calorie control, not a unique metabolic advantage.",
+          "category": "weight-loss",
+          "subcategory": "intermittent-fasting",
+          "url": "https://legionathletics.com/intermittent-fasting/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "The 'afterburn effect' (EPOC - Excess Post-exercise Oxygen Consumption) from high-intensity exercise is real but small (~6-15% of exercise calories burned). It is not enough to compensate for a poor diet.",
+          "category": "metabolism",
+          "subcategory": "epoc",
+          "url": "https://legionathletics.com/afterburn-effect/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Progressive overload can be achieved by: increasing weight, increasing reps, increasing sets, improving form/ROM, or decreasing rest time. Weight on the bar is just one tool, not the only one.",
+          "category": "training-programming",
+          "subcategory": "progressive-overload",
+          "url": "https://legionathletics.com/progressive-overload/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Deload weeks (reducing volume by ~40-60% and/or intensity for one week) every 4-8 weeks help dissipate accumulated fatigue and allow supercompensation. They are preventive, not corrective — don't wait until you're burnt out.",
+          "category": "recovery",
+          "subcategory": "deload",
+          "url": "https://legionathletics.com/deload/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Body recomposition is optimize when the person is a beginner, is overweight, or returning from a layoff. For lean trained individuals, alternating mini-cuts (4-6 weeks) with mini-bulks (8-12 weeks) is more effective than attempting recomp.",
+          "category": "body-recomposition",
+          "subcategory": "mini-cut-bulk",
+          "url": "https://legionathletics.com/body-recomposition/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For muscle gain, starting at a 200-300 kcal/day surplus and adjusting based on rate of weight gain (target ~1-2 lb/month for men, ~0.5-1 lb/month for women) minimizes fat gain while supporting hypertrophy.",
+          "category": "muscle-building",
+          "subcategory": "lean-bulk-rate",
+          "url": "https://legionathletics.com/how-to-build-muscle/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Bret Contreras",
+      "source_url": "https://bretcontreras.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "The gluteus maximus is the largest muscle in the human body and responds well to high training volumes (15-25 sets per week). It benefits from varied angles: hip thrusts (glute focus), squats (quad/glute), deadlifts (hamstring/glute), and abduction work.",
+          "category": "muscle-building",
+          "subcategory": "glute-training",
+          "url": "https://bretcontreras.com/glute-training/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Hip thrusts produce higher glute activation than squats or deadlifts. They are the most effective exercise for directly targeting the gluteus maximus, particularly when taken to near-failure with progressive overload.",
+          "category": "muscle-building",
+          "subcategory": "hip-thrust",
+          "url": "https://bretcontreras.com/hip-thrust/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For glute development, training frequency of 3-6 times per week is optimal because the glutes recover quickly. They are a resilient muscle group that can handle high frequency and volume.",
+          "category": "training-programming",
+          "subcategory": "glute-frequency",
+          "url": "https://bretcontreras.com/glute-frequency/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Banded and cable exercises provide variable resistance that can match the muscle's strength curve better than free weights alone. This is particularly useful for glutes and delts where peak force occurs at different points in the ROM.",
+          "category": "muscle-building",
+          "subcategory": "variable-resistance",
+          "url": "https://bretcontreras.com/resistance-bands/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For glute development, partial range hip thrusts (top half) with a pause and squeeze at lockout emphasize the gluteus maximus contraction. Full ROM hip thrusts are still superior overall, but partials can be used as a finisher.",
+          "category": "muscle-building",
+          "subcategory": "glute-partial-reps",
+          "url": "https://bretcontreras.com/hip-thrust/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Weightology / James Krieger",
+      "source_url": "https://weightology.net",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "Metabolic adaptation occurs during weight loss: TDEE decreases by more than predicted from weight loss alone. This is due to reductions in NEAT, decreased RMR, and hormonal changes (decreased leptin, increased ghrelin). This adaptation can be 200-500 kcal/day beyond what weight loss predicts.",
+          "category": "weight-loss",
+          "subcategory": "metabolic-adaptation",
+          "url": "https://weightology.net/metabolic-adaptation/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "NEAT (Non-Exercise Activity Thermogenesis) can vary by up to 2000 kcal/day between individuals and is the most variable component of TDEE. During dieting, the body subconsciously reduces NEAT, which is a major reason weight loss plateaus occur.",
+          "category": "metabolism",
+          "subcategory": "neat-variability",
+          "url": "https://weightology.net/neat/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Weight loss maintenance success is strongly associated with consistent self-monitoring (food tracking, regular weighing). People who track consistently maintain weight loss significantly better than those who stop tracking.",
+          "category": "weight-loss",
+          "subcategory": "self-monitoring",
+          "url": "https://weightology.net/weight-maintenance/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "The 'set point' theory is partially supported: the body defends its current weight through hormonal and metabolic feedback loops. However, the set point can be lowered through sustained maintenance at a lower weight for 1+ years.",
+          "category": "weight-loss",
+          "subcategory": "set-point",
+          "url": "https://weightology.net/set-point/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "In studies of long-term weight loss maintenance (>1 year), only ~20% of overweight/obese individuals maintain at least 10% weight loss. Key behaviors of successful maintainers: high activity levels (~60+ min/day), consistent eating patterns, regular self-weighing, and limited TV time (<10 hr/week).",
+          "category": "weight-loss",
+          "subcategory": "maintenance-stats",
+          "url": "https://weightology.net/weight-maintenance/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Strength training increases resting metabolic rate by ~5-7% in the long term, primarily through increased fat-free mass. Each pound of muscle burns approximately 6-7 kcal/day at rest.",
+          "category": "metabolism",
+          "subcategory": "muscle-rmr",
+          "url": "https://weightology.net/metabolism/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Peter Attia",
+      "source_url": "https://peterattiamd.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "Zone 2 cardio (exercising at 60-70% of max heart rate, where you can hold a conversation) improves mitochondrial function and metabolic health. 180+ minutes/week of Zone 2 is recommended for longevity and metabolic flexibility.",
+          "category": "training-programming",
+          "subcategory": "zone-2-cardio",
+          "url": "https://peterattiamd.com/exercise-longevity/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "VO2 max is one of the strongest independent predictors of all-cause mortality. Moving from the bottom 25% to the top 25% of cardiorespiratory fitness reduces all-cause mortality risk by ~50-70%.",
+          "category": "training-programming",
+          "subcategory": "vo2-max",
+          "url": "https://peterattiamd.com/vo2-max/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Resistance training is critical for longevity: it preserves muscle mass (sarcopenia prevention), bone density (osteoporosis prevention), and metabolic health. Muscle mass is inversely associated with all-cause mortality.",
+          "category": "muscle-building",
+          "subcategory": "longevity",
+          "url": "https://peterattiamd.com/resistance-training-longevity/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Protein intake of 1.2-1.6 g/kg/day is recommended for older adults (60+) to counteract anabolic resistance. This is higher than the RDA (0.8 g/kg) which is insufficient for preserving muscle in aging populations.",
+          "category": "nutrition",
+          "subcategory": "protein-aging",
+          "url": "https://peterattiamd.com/protein-aging/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Grip strength is a powerful biomarker of overall health and longevity. Each 5kg decrease in grip strength is associated with a 16% increase in all-cause mortality risk.",
+          "category": "muscle-building",
+          "subcategory": "grip-strength",
+          "url": "https://peterattiamd.com/grip-strength/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Zone 5 / VO2 max training (4x4 minute intervals at 90-95% max HR with 3-min recovery) performed once weekly can increase VO2 max by 5-10% in 8-12 weeks. This is one of the most time-efficient protocols for aerobic capacity.",
+          "category": "training-programming",
+          "subcategory": "vo2-max-intervals",
+          "url": "https://peterattiamd.com/vo2-max/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Resistance training is particularly important for bone health. Weight-bearing exercise at >85% 1RM stimulates osteogenesis (new bone formation). Low-load exercise does not meaningfully improve bone density.",
+          "category": "muscle-building",
+          "subcategory": "bone-density",
+          "url": "https://peterattiamd.com/resistance-training-longevity/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Huberman Lab",
+      "source_url": "https://hubermanlab.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "Viewing bright light (sunlight or 10,000 lux artificial light) within 30-60 minutes of waking triggers cortisol and dopamine release, which enhances alertness and supports healthy circadian rhythm. This indirectly supports training performance and recovery.",
+          "category": "recovery",
+          "subcategory": "circadian-rhythm",
+          "url": "https://hubermanlab.com/toolkits-for-sleep/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Cold exposure (cold showers, ice baths at 50-60°F for 1-3 minutes) can increase dopamine levels by 250% and norepinephrine by 530%, which may enhance focus and fat oxidation. However, chronic cold exposure immediately after resistance training may blunt hypertrophy adaptations.",
+          "category": "recovery",
+          "subcategory": "cold-exposure",
+          "url": "https://hubermanlab.com/cold-exposure/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Optimal sleep for fitness recovery is 7-9 hours per night. Sleep deprivation (<6 hours) reduces testosterone by 10-15%, impairs muscle recovery, increases cortisol, reduces insulin sensitivity, and increases hunger hormones (ghrelin up, leptin down).",
+          "category": "recovery",
+          "subcategory": "sleep",
+          "url": "https://hubermanlab.com/toolkits-for-sleep/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "The 'fundamental five' for physical health per Huberman: 1) 150-200 min/week Zone 2 cardio, 2) 75+ min/week VO2 max work, 3) 2-3x/week resistance training (6-10 sets/muscle/week), 4) 150-200 jumps or skips per week for bone density, 5) 10-15 min/day mobility work.",
+          "category": "training-programming",
+          "subcategory": "fundamental-five",
+          "url": "https://hubermanlab.com/fitness-protocols/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Timing caffeine intake 90-120 minutes after waking (rather than immediately) allows natural cortisol clearance via adenosine, preventing the afternoon crash. This also optimizes caffeine's ergogenic effect for mid-morning workouts.",
+          "category": "nutrition",
+          "subcategory": "caffeine-timing",
+          "url": "https://hubermanlab.com/caffeine/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Exercising in a fasted state does not increase fat loss when total daily calories are equated. However, fasted cardio may improve insulin sensitivity and mitochondrial adaptations in some individuals.",
+          "category": "weight-loss",
+          "subcategory": "fasted-cardio",
+          "url": "https://hubermanlab.com/fitness-protocols/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "BioLayne / Dr. Layne Norton",
+      "source_url": "https://biolaynestore.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "Metabolic adaptation is real but often overstated. The biggest factor in weight loss plateaus is decreased body mass (less tissue = lower TDEE), not a 'damaged metabolism.' The solution is usually adjusting calorie intake downward or increasing activity.",
+          "category": "metabolism",
+          "subcategory": "metabolic-adaptation-reality",
+          "url": "https://biolaynestore.com/blogs/news",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Flexible dieting (tracking macros rather than restricting specific foods) produces better long-term adherence than rigid dieting. Psychological sustainability is as important as physiological optimization for weight management.",
+          "category": "psychology",
+          "subcategory": "flexible-dieting",
+          "url": "https://biolaynestore.com/blogs/news",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Eating 4-5 protein-containing meals per day with 30-50g protein each maximizes muscle protein synthesis across the day. Each meal should contain ~2-3g leucine to trigger the MPS threshold.",
+          "category": "nutrition",
+          "subcategory": "protein-distribution",
+          "url": "https://biolaynestore.com/blogs/news",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Reverse dieting (slowly increasing calories after a deficit) can help restore metabolic rate and normalize hormones. However, the gradual approach matters — adding 100-150 kcal/week is safer than jumping straight to maintenance.",
+          "category": "weight-loss",
+          "subcategory": "reverse-dieting",
+          "url": "https://biolaynestore.com/blogs/news",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Fiber intake of 25-35g/day from diverse sources (vegetables, fruits, legumes, whole grains) supports gut microbiome diversity, improves satiety, and is associated with lower body fat percentage independently of calorie intake.",
+          "category": "nutrition",
+          "subcategory": "fiber",
+          "url": "https://biolaynestore.com/blogs/news",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "The thermic effect of food accounts for ~10% of TDEE. Higher protein intake increases this to ~12-15% of TDEE, effectively giving high-protein dieters a small metabolic 'bonus' of 100-200 kcal/day.",
+          "category": "metabolism",
+          "subcategory": "tef-practical",
+          "url": "https://biolaynestore.com/blogs/news",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Diet breaks (1-2 weeks at maintenance calories during extended fat loss phases) can reduce psychological fatigue, partially restore metabolic hormones (leptin, thyroid), and improve long-term adherence. They do not significantly delay overall progress.",
+          "category": "weight-loss",
+          "subcategory": "diet-breaks",
+          "url": "https://biolaynestore.com/blogs/news",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "T-Nation",
+      "source_url": "https://t-nation.com",
+      "source_type": "blog",
+      "facts": [
+        {
+          "fact": "The mind-muscle connection (internal focus on the target muscle during exercise) increases muscle activation by 10-20% in some studies. This is most beneficial for isolation exercises and body parts that are hard to grow.",
+          "category": "muscle-building",
+          "subcategory": "mind-muscle-connection",
+          "url": "https://t-nation.com/training/mind-muscle-connection/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Pre-exhaustion (doing an isolation exercise before a compound movement) can increase target muscle activation but reduces performance on the compound lift. It's a valid technique for bringing up lagging body parts but not optimal for maximal strength.",
+          "category": "training-programming",
+          "subcategory": "pre-exhaustion",
+          "url": "https://t-nation.com/training/pre-exhaustion/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Drop sets, rest-pause sets, and supersets are intensity techniques that increase metabolic stress and training density. They are best used sparingly (1-2 times per mesocycle) to avoid overtraining, particularly for natural lifters.",
+          "category": "training-programming",
+          "subcategory": "intensity-techniques",
+          "url": "https://t-nation.com/training/intensity-techniques/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For maximum hypertrophy, training to failure on isolation exercises (curls, extensions, flyes) is more appropriate than on compound exercises (squats, deadlifts, bench). Failure on compounds dramatically increases systemic fatigue and injury risk.",
+          "category": "training-programming",
+          "subcategory": "training-to-failure",
+          "url": "https://t-nation.com/training/failure-guide/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "The central nervous system (CNS) takes longer to recover than muscles. After a heavy compound training session, CNS recovery takes 48-72 hours, while muscle recovery takes 24-48 hours. This is why heavy full-body workouts 3+ days in a row often lead to staleness.",
+          "category": "recovery",
+          "subcategory": "cns-recovery",
+          "url": "https://t-nation.com/training/recovery/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For bringing up lagging body parts, prioritize them by: training them first in the workout (when fresh), training them 2x/week with higher volume (12-20 sets/week), and using a variety of exercises targeting different muscle heads/regions.",
+          "category": "training-programming",
+          "subcategory": "lagging-body-parts",
+          "url": "https://t-nation.com/training/prioritization/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases)",
+      "source_url": "https://www.niddk.nih.gov",
+      "source_type": "government",
+      "facts": [
+        {
+          "fact": "A realistic initial weight-loss goal is losing 5% of body weight over 6 months. For a 200 lb person, this means losing 10 lb. This modest loss produces meaningful health improvements in blood pressure, cholesterol, and blood sugar.",
+          "category": "weight-loss",
+          "subcategory": "initial-goals",
+          "url": "https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/treatment",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Evidence-based weight-loss programs should include: 14+ counseling sessions over 6 months, a personalized eating plan, at least 150 minutes/week of moderate-intensity aerobic activity, daily food/activity monitoring, weekly weight monitoring, and regular professional feedback.",
+          "category": "weight-loss",
+          "subcategory": "program-structure",
+          "url": "https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/treatment",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Obesity affects more than 1 in 3 adults in the United States. About 1 in 6 children and adolescents ages 2-19 are considered to have obesity. Another 1 in 3 adults is overweight.",
+          "category": "weight-loss",
+          "subcategory": "prevalence",
+          "url": "https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Weight-loss (bariatric) surgery is recommended for individuals with BMI ≥35, or BMI ≥30 with serious obesity-related health conditions like type 2 diabetes or sleep apnea. It produces 20-30% total body weight loss sustained at 5+ years.",
+          "category": "weight-loss",
+          "subcategory": "surgery",
+          "url": "https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/treatment",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Overweight and obesity increase risk for: type 2 diabetes, heart disease, stroke, high blood pressure, certain cancers (breast, colon, endometrial), sleep apnea, osteoarthritis, fatty liver disease, and kidney disease.",
+          "category": "weight-loss",
+          "subcategory": "health-risks",
+          "url": "https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/health-risks",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "The Body Weight Planner from NIDDK (based on Dr. Kevin Hall's mathematical model) shows that weight loss is non-linear: initial rapid loss slows as metabolism adapts. A 500 kcal/day deficit does NOT produce 1 lb/week loss indefinitely — expect ~50% less than predicted by 6 months.",
+          "category": "weight-loss",
+          "subcategory": "weight-loss-nonlinear",
+          "url": "https://www.niddk.nih.gov/health-information/weight-management/body-weight-planner",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "CDC Obesity",
+      "source_url": "https://www.cdc.gov/obesity",
+      "source_type": "government",
+      "facts": [
+        {
+          "fact": "The standard treatment approach for obesity involves lifestyle changes (healthy eating plan + increased physical activity), which may be supplemented by weight-loss medicines or bariatric surgery for eligible individuals.",
+          "category": "weight-loss",
+          "subcategory": "treatment-approach",
+          "url": "https://www.cdc.gov/obesity/index.html",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Combining both aerobic and muscle-strengthening activities provides complementary benefits: aerobic exercise improves cardiovascular health and burns calories, while resistance training preserves/builds muscle and increases metabolic rate.",
+          "category": "training-programming",
+          "subcategory": "combined-training-benefits",
+          "url": "https://www.cdc.gov/obesity/index.html",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Stress management is a key component of weight management: chronic stress elevates cortisol, which promotes visceral fat storage, increases cravings for hyperpalatable foods, and reduces motivation for exercise.",
+          "category": "psychology",
+          "subcategory": "stress-weight",
+          "url": "https://www.cdc.gov/obesity/risk-factors/risk-factors.html",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Sleep duration is inversely associated with BMI: each hour of sleep lost below 7 hours/night is associated with a 0.35 kg/m² increase in BMI, roughly equivalent to 1-2 kg of excess weight over time.",
+          "category": "recovery",
+          "subcategory": "sleep-bmi",
+          "url": "https://www.cdc.gov/obesity/risk-factors/risk-factors.html",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Obesity disproportionately affects certain demographic groups: non-Hispanic Black adults (49.6%) and Hispanic adults (45.6%) have higher obesity prevalence than non-Hispanic White adults (39.8%) in the US.",
+          "category": "weight-loss",
+          "subcategory": "demographic-disparities",
+          "url": "https://www.cdc.gov/obesity/data-and-statistics/adult-obesity-prevalence-maps.html",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Cochrane Systematic Reviews",
+      "source_url": "https://www.cochranelibrary.com",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "Combined diet and exercise interventions produce greater long-term weight loss (2-3 kg more at 12+ months) than diet alone. Exercise helps preserve lean mass during weight loss and improves maintenance.",
+          "category": "weight-loss",
+          "subcategory": "diet-vs-diet-exercise",
+          "url": "https://www.cochranelibrary.com/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Behavioral weight management programs (combining diet, exercise, and behavioral strategies) produce an average of 3-5 kg greater weight loss than minimal interventions at 12 months, with better maintenance at 2+ years.",
+          "category": "weight-loss",
+          "subcategory": "behavioral-programs",
+          "url": "https://www.cochranelibrary.com/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Low-carbohydrate diets and low-fat diets produce equivalent weight loss at 12 months when calories are matched. Adherence, not macronutrient composition, is the primary determinant of long-term success.",
+          "category": "weight-loss",
+          "subcategory": "low-carb-vs-low-fat",
+          "url": "https://www.cochranelibrary.com/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Resistance training during caloric restriction preserves ~2-3 kg of lean mass compared to diet alone or diet + aerobic exercise. It is essential for body composition optimization during weight loss.",
+          "category": "body-recomposition",
+          "subcategory": "resistance-training-during-cut",
+          "url": "https://www.cochranelibrary.com/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Very low calorie diets (<800 kcal/day) produce faster initial weight loss but result in greater muscle loss and have higher dropout rates than moderate deficits. At 12 months, outcomes are similar to moderate dieting.",
+          "category": "weight-loss",
+          "subcategory": "vlcd",
+          "url": "https://www.cochranelibrary.com/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Meal replacements (shakes/bars replacing 1-2 meals/day) produce greater short-term weight loss (3-5 kg more at 3 months) than conventional reduced-calorie diets, due to improved portion control and simplicity.",
+          "category": "weight-loss",
+          "subcategory": "meal-replacements",
+          "url": "https://www.cochranelibrary.com/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "World Health Organization (WHO)",
+      "source_url": "https://www.who.int",
+      "source_type": "government",
+      "facts": [
+        {
+          "fact": "In 2022, 1 in 8 people globally were living with obesity (890 million adults). Worldwide adult obesity has more than doubled since 1990, and adolescent obesity has quadrupled.",
+          "category": "weight-loss",
+          "subcategory": "global-prevalence",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "WHO classifies overweight as BMI ≥25 and obesity as BMI ≥30 for adults. For Asian populations, lower cutoffs (≥23 for overweight, ≥27.5 for obesity) may be more appropriate due to higher metabolic disease risk at lower BMIs.",
+          "category": "weight-loss",
+          "subcategory": "bmi-classification",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "WHO recommends adults do at least 150-300 minutes of moderate-intensity aerobic physical activity, or 75-150 minutes of vigorous-intensity activity, per week. Additionally, muscle-strengthening activities at moderate or greater intensity should be done 2+ days/week.",
+          "category": "training-programming",
+          "subcategory": "who-recommendations",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Obesity is classified by WHO as a chronic, relapsing disease arising from complex interactions between genetics, neurobiology, eating behaviours, access to healthy diet, market forces, and broader environmental factors.",
+          "category": "weight-loss",
+          "subcategory": "disease-classification",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Childhood obesity tracks strongly into adulthood: children with obesity are 5x more likely to have obesity as adults. Early intervention with family-based programs focusing on healthy eating patterns and physical activity is most effective.",
+          "category": "weight-loss",
+          "subcategory": "childhood-obesity-tracking",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Waist circumference is an independent risk factor for metabolic disease: >94 cm (37 inches) for men and >80 cm (31.5 inches) for women indicates increased risk. >102 cm (40 inches) for men and >88 cm (35 inches) for women indicates substantially increased risk.",
+          "category": "weight-loss",
+          "subcategory": "waist-circumference",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Stan Efferding / Vertical Diet",
+      "source_url": "https://www.verticaldiet.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "The Vertical Diet emphasizes easily digestible, nutrient-dense foods (white rice, lean beef, eggs, yogurt, spinach, carrots, cranberry juice) to maximize absorption and minimize GI distress. This is particularly relevant for athletes eating large caloric intakes.",
+          "category": "nutrition",
+          "subcategory": "vertical-diet",
+          "url": "https://www.verticaldiet.com/articles",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For hard gainers struggling to eat enough, liquid calories (whole milk, mass gainer shakes with oats/whey/peanut butter) are an efficient strategy. 500-1000 kcal of liquid calories can be consumed much easier than equivalent solid food.",
+          "category": "nutrition",
+          "subcategory": "liquid-calories",
+          "url": "https://www.verticaldiet.com/articles",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Sodium intake of 3000-5000 mg/day is appropriate for athletes who train hard and sweat heavily. Restricting sodium too aggressively impairs performance, cramps recovery, and reduces pump quality during training.",
+          "category": "nutrition",
+          "subcategory": "sodium",
+          "url": "https://www.verticaldiet.com/articles",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Pre-workout nutrition should include 30-60g easily digestible carbohydrates and 20-40g protein consumed 60-90 minutes before training. This tops off glycogen and amino acid availability during the session.",
+          "category": "nutrition",
+          "subcategory": "pre-workout-nutrition",
+          "url": "https://www.verticaldiet.com/articles",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Post-workout nutrition matters less than total daily intake, but consuming 30-50g protein + 30-80g carbohydrates within 2 hours after training can modestly enhance glycogen replenishment and muscle protein synthesis.",
+          "category": "nutrition",
+          "subcategory": "post-workout-nutrition",
+          "url": "https://www.verticaldiet.com/articles",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For athletes struggling with recovery, tart cherry juice (8-12 oz, 2x/day) has been shown to reduce DOMS, oxidative stress, and inflammation. It works via anthocyanins and can speed recovery between training sessions.",
+          "category": "recovery",
+          "subcategory": "tart-cherry",
+          "url": "https://www.verticaldiet.com/articles",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Dr. Mike Israetel RP Training Methodology",
+      "source_url": "https://rpstrength.com",
+      "source_type": "expert",
+      "facts": [
+        {
+          "fact": "The stimulus-to-fatigue ratio should guide exercise selection and programming. As a mesocycle progresses, exercises with poor SFR (e.g., barbell skull crushers, heavy behind-the-neck press) should be replaced with better alternatives.",
+          "category": "training-programming",
+          "subcategory": "stimulus-to-fatigue",
+          "url": "https://rpstrength.com/stimulus-to-fatigue-ratio",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Fatigue comes in two types: local (muscle-specific, desired for hypertrophy) and systemic (CNS/overall body fatigue, must be managed). High-rep leg presses and squats create excessive systemic fatigue relative to their hypertrophy benefit.",
+          "category": "training-programming",
+          "subcategory": "fatigue-management",
+          "url": "https://rpstrength.com/fatigue-management",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For intermediate/advanced lifters, specialization blocks (focusing on 1-2 muscle groups with high volume while maintaining others at MEV) produce better results than trying to improve everything at once. 4-8 week specialization blocks are typical.",
+          "category": "training-programming",
+          "subcategory": "specialization-blocks",
+          "url": "https://rpstrength.com/specialization-blocks",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "The 'effective reps' concept: the last 5 reps before failure are the most stimulative for hypertrophy. At RIR 3, approximately 2 reps are 'effective'; at RIR 1, approximately 4 are effective. This explains why volume at high effort produces more growth.",
+          "category": "muscle-building",
+          "subcategory": "effective-reps",
+          "url": "https://rpstrength.com/effective-reps",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "For advanced lifters (3+ years consistent training), hypertrophy becomes extremely slow (~0.5-1 kg lean mass per year). At this stage, training sophistication (periodization, exercise variation, fatigue management) becomes critical for any progress.",
+          "category": "muscle-building",
+          "subcategory": "advanced-lifter-gains",
+          "url": "https://rpstrength.com/advanced-training",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Intra-workout nutrition (5-15g EAAs or 20-40g carbs as cyclic dextrin in water) during sessions lasting 75+ minutes can delay fatigue and increase total training volume by 5-10%. This is particularly beneficial during high-volume hypertrophy phases.",
+          "category": "nutrition",
+          "subcategory": "intra-workout",
+          "url": "https://rpstrength.com/intra-workout-nutrition",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "Examine.com - Protein & Creatine Deep Dives",
+      "source_url": "https://examine.com",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "Casein protein is digested slowly (5-7 hours), providing a sustained release of amino acids. Taking 30-40g casein before sleep increases overnight muscle protein synthesis by ~22% without affecting lipolysis.",
+          "category": "supplements",
+          "subcategory": "casein",
+          "url": "https://examine.com/supplements/casein/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Leucine is the key amino acid trigger for muscle protein synthesis. The leucine threshold is ~2-3g per meal. Below this, MPS is not maximally stimulated regardless of total protein intake.",
+          "category": "nutrition",
+          "subcategory": "leucine-threshold",
+          "url": "https://examine.com/supplements/leucine/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Creatine is most effective when taken consistently every day (3-5g), regardless of timing relative to workouts. There is a small benefit to taking it with a carbohydrate-containing meal (insulin enhances creatine uptake).",
+          "category": "supplements",
+          "subcategory": "creatine-timing",
+          "url": "https://examine.com/supplements/creatine/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Whey protein isolate contains 90%+ protein by weight with minimal lactose and fat. Whey concentrate contains 70-80% protein. Isolate is preferred for those with lactose sensitivity or those strictly cutting calories.",
+          "category": "supplements",
+          "subcategory": "whey-isolate-vs-concentrate",
+          "url": "https://examine.com/supplements/whey-protein/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Collagen peptides (10-15g daily) may improve joint health and tendon strength over 3-6 months of consistent use. While not effective for muscle building (low leucine), they support connective tissue recovery and skin elasticity.",
+          "category": "supplements",
+          "subcategory": "collagen",
+          "url": "https://examine.com/supplements/collagen/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "Ashwagandha (300-600mg of KSM-66 extract daily) has been shown in several studies to reduce cortisol by ~15-25%, improve stress resilience, and modestly increase testosterone (10-15%) in stressed/trained men.",
+          "category": "supplements",
+          "subcategory": "ashwagandha",
+          "url": "https://examine.com/supplements/ashwagandha/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "source_name": "PubMed Latest Research (2024-2025 Meta-Analyses)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov",
+      "source_type": "research",
+      "facts": [
+        {
+          "fact": "A 2024 meta-analysis confirmed that body recomposition (simultaneous fat loss + muscle gain) is possible in trained individuals, but the magnitude is small (~0.5-1% body fat reduction with ~0.5-1kg lean mass gain over 8-16 weeks) compared to untrained individuals who see larger effects.",
+          "category": "body-recomposition",
+          "subcategory": "trained-recomp-2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "A 2024 meta-analysis on GLP-1 receptor agonists (semaglutide, tirzepatide) for weight loss showed 12-21% body weight reduction over 36-72 weeks. However, 25-40% of weight lost was lean mass, making resistance training and high protein intake critical during treatment.",
+          "category": "weight-loss",
+          "subcategory": "glp1-muscle-loss",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "A 2024 meta-analysis found that time-restricted eating (intermittent fasting) produces equivalent fat loss to continuous caloric restriction when calories are matched. However, it may preserve slightly more lean mass (~0.5kg difference) potentially due to higher growth hormone levels during fasting.",
+          "category": "weight-loss",
+          "subcategory": "tre-vs-continuous-restriction-2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "A 2025 meta-analysis confirmed that training frequency of 2x/week per muscle group produces significantly more hypertrophy than 1x/week (~30% greater), but 3x/week is not significantly better than 2x/week when total weekly volume is equated.",
+          "category": "muscle-building",
+          "subcategory": "frequency-meta-analysis-2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "A 2024 meta-analysis on lengthened partials vs full ROM found that training muscles in their stretched position produces ~15-20% more hypertrophy than full ROM or contracted-position training. This effect was most pronounced for triceps, hamstrings, and calves.",
+          "category": "muscle-building",
+          "subcategory": "lengthened-partials-2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "A 2024 meta-analysis on protein supplementation found that protein timing (within 1 hour post-workout) provides no significant hypertrophy advantage over consuming the same protein at other times of day, provided total daily protein is adequate.",
+          "category": "nutrition",
+          "subcategory": "anabolic-window-debunked-2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "A 2025 systematic review found that step counts of 7,000-9,000 steps/day are associated with the lowest all-cause mortality risk. Each additional 1,000 steps/day reduces mortality risk by ~15% up to ~10,000 steps.",
+          "category": "weight-loss",
+          "subcategory": "step-count-mortality-2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "A 2024 meta-analysis found that consuming 0.4-0.55g/kg protein per meal (4 meals) is optimal for maximizing muscle protein synthesis. This translates to 30-50g protein per meal for a 75-90kg individual.",
+          "category": "nutrition",
+          "subcategory": "per-meal-protein-2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "A 2025 meta-analysis on sleep and muscle recovery found that sleep deprivation (<6 hours/night) reduces strength performance by 5-10% and increases muscle damage markers while delaying recovery by 30-50%.",
+          "category": "recovery",
+          "subcategory": "sleep-strength-2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "A 2024 systematic review on GLP-1 medications combined with resistance training found that patients who lifted weights 2-3x/week while on semaglutide/tirzepatide preserved ~60% more lean mass than those who did not exercise.",
+          "category": "weight-loss",
+          "subcategory": "glp1-resistance-training-2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "A 2025 meta-analysis on the hypertrophy response to resistance training has a strong genetic component, with heritability estimated at 40-70%. However, consistent training produces meaningful hypertrophy in >95% of individuals regardless of genetics.",
+          "category": "muscle-building",
+          "subcategory": "genetics-hypertrophy-2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "A 2024 meta-analysis found that eccentric-only training (lowering phase) produces similar hypertrophy to concentric-eccentric training at matched volume, but with less fatigue. Concentric-only produces less hypertrophy. Including both phases is optimal.",
+          "category": "muscle-building",
+          "subcategory": "eccentric-training-2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "A 2025 systematic review found that consuming protein immediately before sleep (30-40g casein) combined with resistance training increases overnight muscle protein synthesis by ~20-30% and can enhance long-term hypertrophy by ~5-10%.\n        ",
+          "category": "nutrition",
+          "subcategory": "pre-sleep-protein-2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        },
+        {
+          "fact": "A 2024 meta-analysis confirmed that taking diet breaks (1-2 week periods at maintenance during extended cuts) does not impair total fat loss and significantly improves psychological well-being, hunger management, and program adherence.",
+          "category": "psychology",
+          "subcategory": "diet-breaks-psychology-2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "date_accessed": "2026-06-14"
+        }
+      ]
+    }
+  ]
+}
