@@ -1,399 +1,347 @@
-# 🏋️ The Ultimate Fitness Plan
-## Personalized Protocol for Achyut
+# 🏋️ The Ultimate Fitness Plan v2
+## Home Equipment Edition — Personalized for Achyut
 
-**Created:** 2026-06-14  
+**Created:** 2026-06-14 (revised)  
 **Profile:** 33M, 130 kg, 5'11", BMI 40.1, Beginner  
-**Goal:** Body recomposition — lose fat while building muscle, then progressive fat loss  
+**Equipment:** Hand dumbbells, curved bar (EZ bar), long rod (standard barbell), boxing kit (gloves + bag?)  
+**Goal:** Body recomposition — lose fat while building muscle  
 **Based on:** 315+ facts from 45+ evidence-based sources  
 
 > ⚠️ **Medical Disclaimer:** Consult a physician before starting. This plan is built from research, not medical advice.
 
 ---
 
+## 📦 Equipment Audit & Adaptations
+
+### What You Have
+| Equipment | Use For |
+|-----------|---------|
+| **Hand dumbbells** (adjustable?) | All upper body work, lunges, goblet squats, RDLs, core |
+| **Curved/EZ bar** | Bicep curls, skull crushers, upright rows, bent-over rows |
+| **Long rod (barbell)** | Barbell squats, deadlifts, floor press, overhead press, bent-over rows |
+| **Boxing kit** | Conditioning cardio, HIIT, shoulder endurance, stress relief |
+
+### What You Don't Have (and How to Adapt)
+| Missing | Home Alternative |
+|---------|-----------------|
+| Leg press machine | **Dumbbell goblet squats, barbell squats (when ready), lunges** |
+| Lat pulldown machine | **Dumbbell pullovers, band-assisted pull-ups (get a band!), bent-over rows** |
+| Cable rows | **Barbell bent-over rows, dumbbell one-arm rows** |
+| Machine chest press | **Barbell floor press, dumbbell floor press, push-up progressions** |
+| Cables for triceps/biceps | **EZ bar curls, overhead tricep extensions with dumbbell** |
+| Leg extension/curl | **Bulgarian split squats, dumbbell RDLs, glute bridges** |
+
+### Worth Buying (₹2,000-3,000 total)
+- **Pull-up band set** (₹500-800) — for assisted pull-ups and face pulls
+- **Resistance bands** (₹400-600) — for face pulls, pull-aparts, warm-up activation
+- **Yoga mat** (₹300-500) — for floor work, stretching, core
+- **Foam roller** (₹500-800) — for recovery and mobility
+
+---
+
 ## 📋 Table of Contents
-1. [The Master Strategy](#1-the-master-strategy)
-2. [Nutrition Protocol](#2-nutrition-protocol)
-3. [Training Program — Phase 1 (Weeks 1-12)](#3-training-program--phase-1)
-4. [Training Program — Phase 2 (Weeks 13-24)](#4-training-program--phase-2)
-5. [Cardio & Daily Activity](#5-cardio--daily-activity)
-6. [Mobility & Prehab Routine](#6-mobility--prehab-routine)
-7. [Sleep & Recovery Protocol](#7-sleep--recovery-protocol)
-8. [Supplement Protocol](#8-supplement-protocol)
-9. [Biohacking Add-Ons](#9-biohacking-add-ons)
-10. [Progress Tracking System](#10-progress-tracking-system)
-11. [Weekly Schedule Summary](#11-weekly-schedule-summary)
-12. [Milestone Roadmap](#12-milestone-roadmap)
+1. [Nutrition Protocol](#1-nutrition-protocol)
+2. [Training Program — Phase 1 (Weeks 1-12)](#2-training-program--phase-1)
+3. [Boxing for Conditioning](#3-boxing-for-conditioning)
+4. [Cardio & Daily Activity](#4-cardio--daily-activity)
+5. [Mobility & Prehab Routine](#5-mobility--prehab-routine)
+6. [Sleep & Recovery Protocol](#6-sleep--recovery-protocol)
+7. [Supplement Protocol](#7-supplement-protocol)
+8. [Biohacking Add-Ons](#8-biohacking-add-ons)
+9. [Progress Tracking System](#9-progress-tracking-system)
+10. [Weekly Schedule Summary](#10-weekly-schedule-summary)
+11. [Milestone Roadmap](#11-milestone-roadmap)
 
 ---
 
-## 1. The Master Strategy
+## 1. Nutrition Protocol
 
-### Why Body Recomposition First?
-
-You're the **ideal candidate** for body recomposition (building muscle while losing fat simultaneously):
-- ✅ Untrained beginner → rapid newbie muscle gains
-- ✅ High body fat → ample stored energy to fuel muscle growth even in a deficit
-- ✅ First-time protein optimization → huge untapped potential
-
-**Evidence:** Beginners with high body fat can gain 2-4 kg of lean mass while losing 5-10 kg of fat in the first 12 weeks. The scale may not move much — that's OK.
-
-### The Phased Approach
-
-| Phase | Weeks | Focus | Expected Outcome |
-|-------|-------|-------|-----------------|
-| **Phase 1: Foundation** | 1-12 | Build habit, learn technique, recomp | -8 to -12 kg fat, +2-4 kg muscle |
-| **Phase 2: Accelerate** | 13-24 | Increase volume, shift to fat loss focus | -10 to -15 kg fat, +1-2 kg muscle |
-| **Phase 3: Optimize** | 25-48 | Periodized training, advanced nutrition | Approach 100 kg body weight |
-
-### Success Principles
-1. **Consistency > Perfection** — Showing up 3x/week beats one perfect week then nothing
-2. **The scale lies during recomp** — Track measurements, photos, and strength
-3. **Protein is non-negotiable** — 180-200g/day minimum
-4. **Sleep is the #1 recovery tool** — 7.5+ hours or everything suffers
-5. **Joint health is priority #1** — Never push through sharp pain
-
----
-
-## 2. Nutrition Protocol
+*(Unchanged from v1 — nutrition doesn't depend on equipment)*
 
 ### Daily Targets
 
 | Metric | Target | Rationale |
 |--------|--------|-----------|
-| **Calories** | 2,000-2,200 kcal/day | ~500 kcal deficit from TDEE (~2,500 sedentary). Aggressive but sustainable. |
-| **Protein** | 180-200g (1.6-1.8 g/kg) | Upper end of evidence-based range for recomp at high body weight |
-| **Carbs** | 100-130g | Low-moderate to facilitate fat loss while fueling training |
-| **Fat** | 65-75g | Minimum for hormone health; don't go lower |
-| **Fiber** | 25-35g | Gut health, satiety, blood sugar control |
-| **Water** | 4-5 liters | Higher for 130 kg body weight + exercise |
+| **Calories** | 2,000-2,200 kcal/day | ~500 kcal deficit from TDEE (~2,500 sedentary) |
+| **Protein** | 180-200g (1.6-1.8 g/kg) | Upper end for recomp at high body weight |
+| **Carbs** | 100-130g | Low-moderate to facilitate fat loss |
+| **Fat** | 65-75g | Minimum for hormone health |
+| **Fiber** | 25-35g | Gut health, satiety |
+| **Water** | 4-5 liters | Higher for 130 kg + exercise |
 
-### Meal Distribution (4 meals, 3-5 hours apart)
+### Meal Distribution (4 meals)
 
-The "muscle full" effect means protein synthesis spikes for ~3 hours after a meal, then resets. Distribute protein evenly.
+| Meal | Time | Protein | Carbs | Fat | Example |
+|------|------|---------|-------|-----|---------|
+| **Breakfast** | 8:00 AM | 45g | 50g | 20g | 4 whole eggs + 2 slices brown bread + black coffee |
+| **Lunch** | 1:00 PM | 50g | 45g | 20g | 250g chicken breast + 1 cup rice + salad |
+| **Pre-workout** | 5:00 PM | 35g | 35g | 10g | 1 scoop whey + 1 banana + 5g creatine |
+| **Dinner** | 8:30 PM | 55g | 15g | 25g | 200g fish/paneer + roasted veggies + 30g casein before bed |
 
-| Meal | Time | Calories | Protein | Carbs | Fat | Example |
-|------|------|----------|---------|-------|-----|---------|
-| **Breakfast** | 8:00 AM | 550 | 45g | 50g | 20g | 4 whole eggs + 2 slices brown bread + 1 cup black coffee |
-| **Lunch** | 1:00 PM | 550 | 50g | 45g | 20g | 250g chicken breast + 1 cup rice + large salad |
-| **Pre-workout** | 5:00 PM | 350 | 35g | 35g | 10g | 1 scoop whey + 1 banana + 5g creatine |
-| **Dinner** | 8:30 PM | 550 | 55g | 15g | 25g | 200g fish/paneer + 200g roasted veggies + 30g casein before bed |
-
-### Indian Protein Sources (Mix & Match)
-
-**Non-Veg (highest quality):**
-- Chicken breast: 31g protein / 100g
-- Fish (rohu, katla, tuna): 22-25g / 100g
-- Eggs: 6g per egg (whole), 3.6g per white
-- Lean mutton: 25g / 100g (higher fat)
-
-**Vegetarian:**
-- Paneer (low-fat): 18g / 100g
-- Greek yogurt / hung curd: 10g / 100g
-- Soya chunks: 52g / 100g (dry) — use 30-50g portions
-- Tofu (firm): 15g / 100g
-- Lentils (moong, masoor, chana): 9g / 100g cooked
-- Whey protein: 24g per scoop (use 1-2 scoops/day to hit target)
-
-### Key Nutrition Rules
-1. **Track everything** for the first 2 weeks using MyFitnessPal or similar. You can't manage what you don't measure.
-2. **Protein first** — hit your protein target before anything else each day
-3. **Caffeine timing:** Delay morning coffee 90-120 min after waking to avoid afternoon crash. Cut off all caffeine 10 hours before bed.
-4. **Alcohol = fat loss killer:** 7 kcal/g, blunts fat oxidation, disrupts sleep, adds empty calories. Minimize during Phase 1.
-5. **Hydration:** 500ml water upon waking, 500ml with each meal, 500ml during workout. Dehydration of just 2% reduces performance 10-20%.
-
-### Refeed / Diet Break
-Every 4th week, increase calories to maintenance (~2,500 kcal) for 5-7 days. This:
-- Partially restores metabolic rate
-- Replenishes glycogen and training performance  
-- Provides psychological relief
-- Does NOT impair total fat loss (evidence: PubMed 2024)
+### Key Rules
+1. **Track everything** for the first 2 weeks (MyFitnessPal)
+2. **Protein first** — hit target before anything else
+3. **Caffeine:** Delay 90-120 min after waking. Cut off 10h before bed
+4. **Alcohol:** Minimize during Phase 1 (blunts fat loss + sleep)
+5. **Refeed every 4th week:** Calories up to ~2,500 for 5-7 days
 
 ---
 
-## 3. Training Program — Phase 1
-### Weeks 1-12: Full Body 3x/Week
+## 2. Training Program — Phase 1
+### Weeks 1-12: Full Body 3x/Week (Home Dumbbell + Barbell)
 
-### Why Full Body?
-- Training each muscle 2-3x/week produces ~30% more hypertrophy than 1x/week at equal volume
-- Fewer training days = better recovery for beginner
-- Higher frequency = faster technique learning
-
-### Exercise Selection Rationale
-At 130 kg, exercises must be **joint-friendly, machine-supported initially**, and progressively transition to free weights.
-
-### The Program
-
-#### Day A (Monday / Thursday)
-| Exercise | Sets | Reps | Rest | Notes |
-|----------|------|------|------|-------|
-| **A1. Leg Press** | 3 | 10-12 | 2 min | Machine — safe for knees at 130kg. Feet shoulder-width, full depth. |
-| **A2. Lat Pulldown** | 3 | 8-12 | 2 min | Wide grip, pull to upper chest. |
-| **B1. Machine Chest Press** | 3 | 8-12 | 2 min | Safer than barbell bench initially. |
-| **B2. Seated Cable Row** | 3 | 10-12 | 90s | Neutral grip, squeeze shoulder blades. |
-| **C1. Dumbbell Shoulder Press** (seated) | 2 | 10-12 | 90s | Back supported. |
-| **C2. Leg Extension** | 2 | 12-15 | 60s | Keep tension at top. |
-| **D1. Plank** | 3 | 20-30s | 60s | McGill-style brace, not hollow. |
-| **D2. Bird-Dog** | 3 | 8/side | 60s | Hold 3s at extension. McGill Big 3. |
-
-#### Day B (Tuesday / Friday)
-| Exercise | Sets | Reps | Rest | Notes |
-|----------|------|------|------|-------|
-| **A1. Goblet Squat** (or Smith machine squat) | 3 | 8-10 | 2 min | Light dumbbell (10-20kg). Focus on depth and form. |
-| **A2. Seated Cable Row** (neutral grip) | 3 | 10-12 | 90s | Different grip angle than Day A. |
-| **B1. Incline Dumbbell Press** | 3 | 8-12 | 2 min | 30° incline. Safer than flat bench for shoulders. |
-| **B2. Lat Pulldown** (underhand) | 3 | 10-12 | 90s | Chin-up grip width. |
-| **C1. Leg Curl** (seated or lying) | 3 | 12-15 | 60s | Hamstrings — important for knee balance. |
-| **C2. Tricep Pushdown** (cable) | 2 | 12-15 | 60s | |
-| **D1. Side Plank** | 3 | 15-25s/side | 60s | McGill Big 3. |
-| **D2. Modified Curl-Up** | 3 | 6-8 | 60s | McGill Big 3. Hands under lower back. |
-
-#### Day C (Wednesday or Saturday — optional but recommended after Week 4)
-Lighter session focused on technique and weak points:
-- Bodyweight walking lunges: 3x8/side
-- Band pull-aparts: 3x15
-- Face pulls: 3x15
-- Glute bridges: 3x15
-- Foam roll + 10 min mobility work
-
-### Progression Scheme: Double Progression
-1. Pick a weight you can do for the **bottom of the rep range** (e.g., 8 reps)
+### Progression: Double Progression
+1. Start with weight you can do for bottom of rep range (e.g., 8 reps)
 2. Each session, try to add 1 rep
-3. When you hit the **top of the range** (e.g., 12 reps) on ALL sets, increase weight by 2.5-5kg
-4. Drop back to the bottom rep range with the new weight
-5. Repeat forever
+3. When you hit top of range (e.g., 12) on ALL sets → increase weight
+4. Drop back to bottom rep range with new weight. Repeat forever.
 
-### Weekly Volume Summary (Day A + Day B)
-| Muscle Group | Sets/Week | Target Range | Status |
-|-------------|----------|-------------|--------|
-| Quads | 8 (leg press + ext + goblet) | 8-12 | ✅ |
-| Back | 8-10 (pulldown + row variations) | 8-12 | ✅ |
-| Chest | 5-6 (press + incline) | 6-10 | Slightly low — add Day C |
-| Shoulders | 2 (press) + indirect from chest | 6-10 | Add face pulls on Day C |
-| Hamstrings | 3 (leg curl) | 6-8 | Add RDLs in Phase 2 |
+### Day A (Monday / Thursday)
+
+| # | Exercise | Sets | Reps | Rest | Notes |
+|---|----------|------|------|------|-------|
+| A1 | **Barbell Squat** (long rod) OR **Goblet Squat** (heavy dumbbell) | 3 | 8-10 | 2.5 min | Start light — focus on depth. If barbell squat form isn't there yet, goblet squat with heaviest dumbbell you can hold. |
+| A2 | **Barbell Bent-Over Row** (long rod, overhand grip) | 3 | 8-10 | 2 min | Hinge at hips, back flat, pull to belly button. Squeeze shoulder blades. |
+| B1 | **Barbell Floor Press** (long rod) OR **Dumbbell Floor Press** | 3 | 8-12 | 2 min | Floor press is safer than bench without a rack — limits ROM slightly but protects shoulders. Use foam blocks under upper arms if needed. |
+| B2 | **Dumbbell One-Arm Row** (kneeling on bench/chair) | 3 | 10-12/side | 90s | Drive elbow back, squeeze lat. |
+| C1 | **Dumbbell Shoulder Press** (seated) | 2 | 10-12 | 90s | Back against wall for support. |
+| C2 | **Dumbbell Walking Lunges** or **Static Lunges** | 2 | 10/side | 90s | Hold dumbbells at sides. Step length: moderate. |
+| D1 | **Plank** (McGill-style brace) | 3 | 20-30s | 60s | Brace like you're about to be punched. Don't hollow. |
+| D2 | **Bird-Dog** | 3 | 8/side | 60s | Hold 3s at full extension. McGill Big 3. |
+
+### Day B (Tuesday / Friday)
+
+| # | Exercise | Sets | Reps | Rest | Notes |
+|---|----------|------|------|------|-------|
+| A1 | **Romanian Deadlift (RDL)** with barbell or dumbbells | 3 | 8-10 | 2.5 min | Hinge movement, not squat. Slight knee bend, push hips back, feel hamstring stretch, drive hips forward. THIS is your main hamstring/glute builder. |
+| A2 | **Dumbbell Pullover** (lying on floor) | 3 | 10-12 | 2 min | Upper back + lats. Lie on floor, lower dumbbell behind head with slight bend in elbows, pull back up. |
+| B1 | **Dumbbell Incline Floor Press** (on inclined bench or stacked cushions) | 3 | 8-12 | 2 min | 30° angle if possible. Floor version with partial ROM is fine. |
+| B2 | **EZ Bar Curl** (curved bar) | 3 | 10-12 | 60s | Controlled tempo — 1 sec up, 2 sec down. |
+| C1 | **Glute Bridge** (with barbell or dumbbell on hips) | 3 | 12-15 | 90s | Drive through heels, squeeze glutes hard at top. Hold 1 sec. |
+| C2 | **Overhead Tricep Extension** (one heavy dumbbell, both hands) | 2 | 12-15 | 60s | Lower behind head slowly. |
+| D1 | **Side Plank** | 3 | 15-25s/side | 60s | McGill Big 3. |
+| D2 | **Modified Curl-Up** (McGill) | 3 | 6-8 | 60s | McGill Big 3. Hands under lower back. |
+
+### Day C (Saturday — Optional but Recommended from Week 4)
+Focus: Technique, weak points, mobility, extra volume
+- **Push-ups:** 3x max (use incline — hands on table/counter if needed)
+- **Band Pull-Aparts** (if you get bands): 3x15
+- **Face Pulls** (band around doorknob): 3x15
+- **Dumbbell Lateral Raises:** 3x12-15
+- **Glute Bridges:** 3x15
+- 10 min foam roll + stretching
+
+### Weekly Volume Summary
+| Muscle Group | Sets/Week | Target | Status |
+|-------------|----------|--------|--------|
+| Quads | 5-8 (squats + lunges) | 8-12 | Add Day C if needed |
+| Back | 9-12 (rows + pullovers) | 8-12 | ✅ |
+| Chest | 5-8 (floor press + push-ups) | 6-10 | Add Day C push-ups |
+| Shoulders | 2-5 (press + lateral raises) | 6-10 | Add lateral raises on Day C |
+| Hamstrings/Glutes | 6-8 (RDLs + glute bridges + lunges) | 6-10 | ✅ |
+| Biceps | 3 (EZ bar curls) | 6-8 | Add dumbbell curls on Day C |
+| Triceps | 2-5 (extensions + floor press indirect) | 6-8 | Add Day C push-ups |
 | Core | 6 (McGill Big 3) | 6-10 | ✅ |
 
 ---
 
-## 4. Training Program — Phase 2
-### Weeks 13-24: Upper/Lower 4x/Week
+## 3. Boxing for Conditioning
 
-Once you've built technique and base strength, transition to a 4-day split for more volume.
+Boxing is a **phenomenal** tool for your situation:
+- 🔥 High calorie burn (400-600 kcal/30 min heavy bag work)
+- 💪 Builds shoulders, back, and core endurance
+- 🧠 Stress relief and mental sharpness
+- ❤️ Excellent HIIT cardio alternative to running (no knee impact if you focus on upper body)
 
-| Day | Focus |
-|-----|-------|
-| Monday | Upper (Push focus) |
-| Tuesday | Lower (Quad focus) |
-| Thursday | Upper (Pull focus) |
-| Friday | Lower (Hamstring/Glute focus) |
+### Boxing Protocol — 2x/Week (Non-Lifting Days)
 
-Details to be programmed at the end of Phase 1 based on progress data.
+#### Session Structure (30-40 min total)
+| Block | Time | Content |
+|-------|------|---------|
+| **Warm-up** | 5 min | Shadow boxing (light), arm circles, torso twists, jump rope (if no knee pain) or high knees |
+| **Technique** | 5 min | 1-2 combos (jab-cross), focus on hip rotation and weight transfer |
+| **Bag Work** | 15-20 min | Rounds: 3 min work / 1 min rest × 4-5 rounds |
+| **Conditioning** | 5 min | Push-up ladder: 10-9-8-7-6-5-4-3-2-1 with 10s rest between |
+| **Cool-down** | 5 min | Shadow boxing (slow), stretch shoulders, chest, forearms |
+
+### Bag Round Content (Progressive)
+| Week | Rounds | Round Content | Focus |
+|------|--------|---------------|-------|
+| 1-2 | 3 × 3min | Jab only. Jab-jab-cross. All light. | Technique, rhythm |
+| 3-4 | 4 × 3min | Add hooks. 1-2-3 (jab-cross-hook). | Hip rotation |
+| 5-8 | 4 × 3min | Add combinations. 1-2-3-2. Double jab. | Speed + power |
+| 9-12 | 5 × 3min | Full combos. Power rounds. | Conditioning |
+
+### Boxing Tips for 130 kg
+- **Footwear:** Good trainers with lateral support. Never box barefoot on hard floor.
+- **Wrap hands properly** — protect your wrists and knuckles. Learn to wrap.
+- **Don't overexert in Round 1** — pace yourself. Heart rate will spike fast.
+- **Breathe out on every punch** — sharp exhale. Don't hold your breath.
+- **Shadow box between rounds** — keeps muscles warm and reinforces technique.
 
 ---
 
-## 5. Cardio & Daily Activity
+## 4. Cardio & Daily Activity
 
 ### Phase 1 Protocol
 
-| Activity | Frequency | Duration | Intensity |
-|----------|-----------|----------|-----------|
-| **Walking** | Daily | 20-30 min (build to 45+) | Moderate (can hold conversation) |
-| **Swimming** (if accessible) | 1-2x/week | 20-30 min | Moderate |
-| **Cycling** (if accessible) | 1-2x/week | 20-30 min | Moderate |
+| Activity | Frequency | Duration | Notes |
+|----------|-----------|----------|-------|
+| **Walking** | Daily | 20-30 min → build to 45+ | Moderate pace. Post-meal walks are golden. |
+| **Boxing** | 2x/week | 30-40 min | See boxing protocol above |
+| **Swimming** (if accessible) | Optional 1x/week | 20-30 min | Best zero-impact cardio available |
 
 ### Step Target Progression
-| Week | Daily Steps | Weekly Steps |
-|------|------------|-------------|
-| 1-2 | 5,000 | 35,000 |
-| 3-4 | 6,000 | 42,000 |
-| 5-8 | 7,000 | 49,000 |
-| 9-12 | 8,000 | 56,000 |
-| 13-24 | 9,000-10,000 | 63,000-70,000 |
-
-### Zone 2 Cardio (Add Week 8+)
-Once walking feels easy, add 2x/week Zone 2 sessions (60-70% max HR, conversational pace):
-- Stationary bike: 30-45 min
-- Brisk walking on incline treadmill: 30-45 min
-- Swimming: 30-45 min
-
-**Target:** 150+ min/week Zone 2 by Week 12, building toward 180+ min.
+| Week | Daily Steps |
+|------|------------|
+| 1-2 | 5,000 |
+| 3-4 | 6,000 |
+| 5-8 | 7,000 |
+| 9-12 | 8,000 |
+| 13-24 | 9,000-10,000 |
 
 ### What to AVOID at 130 kg
 - ❌ Running/jogging (7-8x bodyweight on knees per step)
-- ❌ Jumping exercises (box jumps, jump rope — save for <100 kg)
+- ❌ Jumping (box jumps, burpees with jumps — save for <100 kg)
 - ❌ Stair climbing for cardio (too much knee load initially)
+
+### Post-Meal Walks (Start Day 1)
+10-15 min after each main meal → reduces blood glucose spikes 15-30% + adds 30-45 min easy movement.
 
 ---
 
-## 6. Mobility & Prehab Routine
+## 5. Mobility & Prehab Routine
 
-### Daily Mobility (10 Minutes)
-Do every morning or evening. Consistency > duration.
+### Daily Mobility (10 Minutes, Every Morning or Evening)
 
-| Time | Exercise | Target | Source |
-|------|----------|--------|--------|
-| 2 min | **Ankle dorsiflexion** — wall stretch, knee-to-wall | Ankles | Squat University |
-| 2 min | **Kneeling hip flexor stretch** — 30s per side, 2 rounds | Hips | Squat University |
-| 2 min | **Cat-cow** — 10 slow reps | Thoracic spine | FRC / Yoga |
-| 2 min | **Doorframe chest stretch** — 30s per side | Shoulders/Chest | The Ready State |
-| 2 min | **CARs** — 1 slow circle per direction per joint (neck, shoulders, hips, ankles) | Full body | FRC / Dr. Andreo Spina |
-
-### McGill Big 3 (Done as Part of Training Warm-Up)
-Already programmed in the workouts above. 3x/week minimum.
+| Time | Exercise | Target |
+|------|----------|--------|
+| 2 min | **Ankle dorsiflexion** — wall stretch, knee-to-wall | Ankles |
+| 2 min | **Kneeling hip flexor stretch** — 30s/side × 2 | Hips |
+| 2 min | **Cat-cow** — 10 slow reps | Thoracic spine |
+| 2 min | **Doorframe chest stretch** — 30s/side | Shoulders/Chest |
+| 2 min | **CARs** — slow joint circles (neck, shoulders, hips, ankles) | Full body |
 
 ### Warm-Up Before Every Training Session (8-10 min)
-1. 5 min brisk walk (Raise)
-2. 10 leg swings each direction ( Mobilise)
+1. 5 min brisk walk or shadow boxing (Raise)
+2. 10 arm circles each direction (Mobilise)
 3. 10 glute bridges (Activate)
-4. 2 ramp-up sets of first exercise at 50% and 75% working weight (Potentiate)
+4. 2 ramp-up sets of first exercise at 50% then 75% weight (Potentiate)
 
 ### Cool-Down Post-Workout (5 min)
 1. 5 min easy walking
-2. Foam roll tight areas: quads, lats, upper back — 30-60s each
-3. **Static stretching ONLY post-workout** — 30s holds for worked muscles
+2. Foam roll or stretch: quads, lats, chest, hamstrings — 30-60s each
+3. Static stretching ONLY post-workout — 30s holds
 
 ---
 
-## 7. Sleep & Recovery Protocol
+## 6. Sleep & Recovery Protocol
 
 ### Sleep Schedule
-| Element | Target | Why |
-|---------|--------|-----|
-| **Bedtime** | 10:30 PM | Allows 7.5-8.5h before 6:30 AM wake |
-| **Wake time** | 6:30 AM (consistent, even weekends) | Circadian entrainment |
-| **Bedroom temp** | 18-20°C | Core temp must drop ~1°C for deep sleep |
-| **Screen cutoff** | 9:45 PM (45 min before bed) | Blue light suppresses melatonin |
-| **Last caffeine** | 12:30 PM (8h+ before bed) | Caffeine has 12h quarter-life |
-| **Last large meal** | 9:00 PM | Digestion disrupts deep sleep |
+| Element | Target |
+|---------|--------|
+| **Bedtime** | 10:30 PM |
+| **Wake time** | 6:30 AM (consistent) |
+| **Bedroom temp** | 18-20°C |
+| **Screen cutoff** | 9:45 PM |
+| **Last caffeine** | 12:30 PM |
+| **Last large meal** | 9:00 PM |
 
-### Sleep Optimization Stack
-- **Morning:** View sunlight 5-10 min within 30-60 min of waking (circadian anchor)
-- **Evening:** Magnesium glycinate 300mg + Apigenin 50mg, 30-60 min before bed
-- **Environment:** Blackout curtains, white noise fan, phone in airplane mode
-- **If waking in night:** Use NSDR (Yoga Nidra) 10-20 min protocol instead of phone scrolling
+### Sleep Stack
+- **Morning:** Sunlight 5-10 min within 30-60 min of waking
+- **Evening:** Magnesium glycinate 300mg + Apigenin 50mg
+- **Environment:** Blackout curtains, white noise, phone on airplane mode
+- **Night waking:** NSDR (Yoga Nidra) 10-20 min instead of phone
 
 ### Deload Weeks
-Every 4th week:
-- Reduce training volume ~40-50% (same exercises, fewer sets)
-- Maintain intensity (same weight, just fewer reps/sets)
-- Purpose: dissipate accumulated fatigue, allow supercompensation
-- This is PREVENTIVE, not corrective — don't wait until you feel burned out
+Every 4th week: reduce training volume ~40-50% (same exercises, fewer sets, same weight). Preventive, not corrective.
 
 ---
 
-## 8. Supplement Protocol
+## 7. Supplement Protocol
 
-### Tier 1: Strong Evidence, Take Daily
-| Supplement | Dose | Timing | Cost (India) | Why |
-|-----------|------|--------|-------------|-----|
-| **Whey Protein** | 1-2 scoops (24-48g protein) | 1 scoop pre-workout, 1 scoop as needed | ₹2,000-3,000/month | Hit protein target conveniently |
-| **Creatine Monohydrate** | 5g daily | Any time, with food | ₹500-800/month | +5-15% strength, cognitive benefits, most researched supplement |
-| **Caffeine** | 100-200mg | 90-120 min after waking, pre-workout | ₹200/month | +5-10% performance, focus |
+### Tier 1: Daily Essentials
+| Supplement | Dose | Timing | Cost (India) |
+|-----------|------|--------|-------------|
+| **Whey Protein** | 1-2 scoops | Pre-workout + as needed | ₹2,000-3,000/mo |
+| **Creatine Monohydrate** | 5g daily | Any time with food | ₹500-800/mo |
+| **Caffeine** | 100-200mg | 90-120 min after waking | ₹200/mo |
 
-### Tier 2: Moderate Evidence, Recommended
-| Supplement | Dose | Timing | Cost (India) | Why |
-|-----------|------|--------|-------------|-----|
-| **Vitamin D3** | 2,000-4,000 IU | With breakfast | ₹300-500/month | 40-60% deficiency rate; supports testosterone, bone health |
-| **Magnesium Glycinate** | 300mg | Before bed | ₹500-800/month | Sleep, recovery, 50% deficiency rate |
-| **Omega-3 (Fish Oil)** | 2-3g EPA+DHA | With a meal | ₹800-1,200/month | Reduces inflammation, supports brain/heart health |
-| **Zinc** | 15-30mg | With dinner | ₹200-300/month | Testosterone support if deficient |
+### Tier 2: Recommended
+| Supplement | Dose | Timing | Cost (India) |
+|-----------|------|--------|-------------|
+| **Vitamin D3** | 2,000-4,000 IU | With breakfast | ₹300-500/mo |
+| **Magnesium Glycinate** | 300mg | Before bed | ₹500-800/mo |
+| **Omega-3 Fish Oil** | 2-3g EPA+DHA | With a meal | ₹800-1,200/mo |
+| **Zinc** | 15-30mg | With dinner | ₹200-300/mo |
 
-### Tier 3: Optional / Situation-Specific
-| Supplement | Dose | When | Why |
-|-----------|------|------|-----|
-| Ashwagandha (KSM-66) | 300-600mg | Morning | Stress/cortisol reduction during intense phases |
-| L-Theanine | 200mg | With caffeine | Smooths caffeine jitters, calm focus |
-| Casein Protein | 30-40g | Before bed | +22% overnight muscle protein synthesis |
-| Tart Cherry Extract | 480mg | Post-workout | DOMS reduction during high-volume phases |
+### Skip
+- ❌ BCAAs, fat burners, test boosters, detox teas
 
-### Skip These (Weak Evidence or Overpriced)
-- ❌ BCAAs (if you eat enough protein, they're useless)
-- ❌ Fat burners (caffeine + underdosed ingredients + marketing)
-- ❌ Testosterone boosters (tribulus, fenugreek — weak evidence)
-- ❌ Detox teas / cleanses
+**Total monthly cost: ~₹4,500-6,800/month**
 
 ---
 
-## 9. Biohacking Add-Ons
+## 8. Biohacking Add-Ons
 
-These are **optional accelerators**, not requirements. Start with nutrition + training + sleep first. Add these once the basics are dialed in (Week 4+).
+Start these once nutrition + training + sleep are dialed in (Week 4+).
 
-### Cold Exposure (Week 4+)
-- **Protocol:** End morning shower with 30-60 seconds of cold water (as cold as possible)
-- **Progress:** Build to 2-3 min cold only showers, 2-4x/week
-- **Benefits:** +250% dopamine, reduced inflammation, brown fat activation
-- **⚠️ Rule:** Never within 1 hour post-workout (blunts hypertrophy)
-
-### Sauna (If Accessible)
-- **Protocol:** 15-20 min at 80°C+, 3-4x/week
-- **Benefits:** 40% reduced all-cause mortality (4-7x/week users), growth hormone boost, cardiovascular health
-- **Alternative:** Hot bath (38-40°C) for 20+ min if no sauna access
-
-### Morning Sunlight (Start Day 1)
-- **Protocol:** 5-10 min outdoors within 30 min of waking, no sunglasses
-- **Benefits:** Circadian entrainment, cortisol/dopamine pulse, better evening sleep
-- **Cost:** Free
-
-### Breathwork (Start Day 1)
-- **Physiological sigh:** Double inhale through nose + long exhale through mouth. 1-3 cycles when stressed. Fastest stress relief.
-- **Box breathing 4-4-4-4:** 5 min before training for focus and nervous system regulation
-- **Nasal breathing:** During all cardio and daily life (not during max effort lifts)
-
-### Post-Meal Walks (Start Day 1)
-- 10-15 min walk after each main meal
-- Reduces blood glucose spikes by 15-30%
-- Adds 30-45 min of easy movement to your day
+| Protocol | What | When | Benefit |
+|----------|------|------|---------|
+| **Morning sunlight** | 5-10 min outdoors within 30 min of waking | Day 1 | Circadian, sleep, energy |
+| **Cold shower finish** | 30-60 sec cold at end of shower, 2-4x/week | Week 4+ | Dopamine, recovery, fat loss |
+| **Physiological sigh** | Double inhale nose + long exhale mouth, 1-3 cycles | When stressed | Fastest stress relief |
+| **Post-meal walks** | 10-15 min after meals | Day 1 | Blood glucose control |
+| **Sauna/hot bath** | 20+ min, 3-4x/week | If accessible | Longevity, GH boost |
 
 ---
 
-## 10. Progress Tracking System
+## 9. Progress Tracking System
 
-### Why the Scale Lies During Recomp
-At 130 kg with beginner muscle gains, you might lose 3 kg of fat and gain 1 kg of muscle in a month. The scale shows -2 kg and you feel disappointed. **Don't fall for this.**
+### Weekly (Sunday Morning)
+| Metric | How |
+|--------|-----|
+| **Weight** | Same scale, after bathroom, before water |
+| **Waist** | Tape at navel, relaxed exhale |
+| **Chest** | Tape at nipple line |
+| **Hip** | Widest point |
+| **Photos** | Front, side, back — same lighting |
 
-### Weekly Tracking (Sunday Morning)
-| Metric | How | Target |
-|--------|-----|--------|
-| **Weight** | Same scale, after bathroom, before water/food | Trend over 2 weeks, not single readings |
-| **Waist circumference** | Tape at navel, relaxed exhale | Should decrease steadily |
-| **Chest circumference** | Tape at nipple line | May increase (muscle) or stay same |
-| **Hip circumference** | Widest point | Should decrease |
-| **Progress photos** | Front, side, back — same lighting, same pose | Visual changes > scale |
+### Monthly
+| Metric | What to Look For |
+|--------|-----------------|
+| **Strength (workout log)** | Reps/weight going up = muscle growing |
+| **Measurements** (thigh, arm, neck) | Arms/thighs may grow, waist shrinks |
+| **Boxing rounds** | More rounds or faster combos = cardio improving |
+| **How clothes fit** | Looser waist = fat loss |
 
-### Monthly Tracking
-| Metric | How Often | What to Look For |
-|--------|----------|-----------------|
-| **Strength (workout log)** | Every session | Reps/weight going up = muscle growing |
-| **Measurements** (thigh, arm, neck) | Monthly | Arm/thigh may grow, waist should shrink |
-| **Blood pressure** | Monthly at pharmacy | Should trend down with weight loss |
-| **How clothes fit** | Biweekly | Looser waist = fat loss regardless of scale |
-
-### Red Flags (Adjust If These Happen)
-- Strength plateau >2 weeks → Add 200 kcal (you may be under-eating)
-- Weight loss >1.5 kg/week → Slow down (muscle loss risk)
-- Persistent fatigue/poor sleep → Take a deload week immediately
-- Joint pain → Reduce load, check technique, add mobility work
+### Red Flags
+- Strength plateau >2 weeks → Add 200 kcal
+- Weight loss >1.5 kg/week → Slow down
+- Persistent fatigue → Deload week
+- Joint pain → Reduce load, check technique, add mobility
 
 ---
 
-## 11. Weekly Schedule Summary
+## 10. Weekly Schedule Summary
 
-### Phase 1 Typical Week (Weeks 1-4)
+### Phase 1 Typical Week
 
-| Day | Morning | Afternoon | Evening |
-|-----|---------|-----------|---------|
-| **Mon** | ☀️ Sunlight + mobility (10 min) | **Workout A** (45 min) | Post-meal walk |
-| **Tue** | ☀️ Sunlight + mobility | **Workout B** (45 min) | Post-meal walk |
-| **Wed** | ☀️ Sunlight + mobility | Walk 20-30 min | Post-meal walk |
-| **Thu** | ☀️ Sunlight + mobility | **Workout A** (45 min) | Post-meal walk |
-| **Fri** | ☀️ Sunlight + mobility | **Workout B** (45 min) | Post-meal walk |
-| **Sat** | ☀️ Sunlight + mobility | Walk 30 min + optional Day C | Meal prep |
-| **Sun** | Sleep in | Walk 30 min | 📸 Measurements + photos + plan week |
+| Day | AM | PM | Evening |
+|-----|----|----|---------|
+| **Mon** | ☀️ Sunlight + 10-min mobility | **Workout A** (barbell/dumbbell, 45 min) | Walk + dinner |
+| **Tue** | ☀️ Sunlight + mobility | **🥊 Boxing** (30-40 min) | Walk + dinner |
+| **Wed** | ☀️ Sunlight + mobility | **Workout B** (barbell/dumbbell, 45 min) | Walk + dinner |
+| **Thu** | ☀️ Sunlight + mobility | **Workout A** (45 min) | Walk + dinner |
+| **Fri** | ☀️ Sunlight + mobility | **🥊 Boxing** (30-40 min) | Walk + dinner |
+| **Sat** | ☀️ Sunlight + mobility | **Workout B** OR Day C (45 min) | Meal prep |
+| **Sun** | Sleep in + 📸 measurements + photos | Walk 30 min | Plan week + relax |
 
 ### Daily Constants
 - 180-200g protein across 4 meals
 - 5+ liters water
 - 5,000+ steps (build weekly)
-- 10-min morning mobility routine
+- 10-min morning mobility
 - Sunlight within 1 hour of waking
 - No caffeine after 12:30 PM
 - Screens off 45 min before bed
@@ -401,44 +349,45 @@ At 130 kg with beginner muscle gains, you might lose 3 kg of fat and gain 1 kg o
 
 ---
 
-## 12. Milestone Roadmap
+## 11. Milestone Roadmap
 
-### 12-Week Targets (End of Phase 1)
-| Metric | Start | 12-Week Target |
-|--------|-------|----------------|
+### 12-Week Targets
+| Metric | Start | Target |
+|--------|-------|--------|
 | Weight | 130 kg | 118-122 kg |
 | Waist | Measure now | -8 to -12 cm |
 | Strength | Baseline | +30-50% on all lifts |
+| Boxing | 3 rounds × 3 min | 5 rounds × 3 min with combos |
 | Daily steps | ~3,000 | 8,000+ |
-| Sleep | ? | 7.5+ hours consistently |
+| Sleep | ? | 7.5+ hours |
 
-### 24-Week Targets (End of Phase 2)
-| Metric | Target |
-|--------|--------|
-| Weight | 105-110 kg |
-| Waist | -15 to -20 cm from start |
-| First unassisted pull-up | (Aim for this!) |
-| 10,000 daily steps | Consistent |
+### 24-Week Targets
+| Target |
+|--------|
+| Weight: 105-110 kg |
+| First unassisted pull-up (get bands!) |
+| 10,000 daily steps |
+| Boxing: 6+ rounds with power |
 
 ### 48-Week Vision
-| Metric | Target |
-|--------|--------|
-| Weight | 95-100 kg |
-| BMI | ~29-31 (overweight, no longer obese) |
-| Full mobility | Pain-free daily movement |
-| Athletic foundation | Ready for intermediate programming |
+| Target |
+|--------|
+| Weight: 95-100 kg |
+| BMI: ~29-31 (overweight, no longer obese) |
+| Pain-free daily movement |
+| Solid boxing fundamentals |
 
 ---
 
-### First Action Items (Do This Week)
-1. ✅ Buy a food scale and kitchen scale (₹200-300 each)
-2. ✅ Download MyFitnessPal (free version is fine)
-3. ✅ Buy supplements: Whey protein, creatine, vitamin D3, magnesium glycinate
-4. ✅ Find a gym (or set up home equipment: adjustable dumbbells + bench minimum)
-5. ✅ Take starting measurements + photos
-6. ✅ Start the 10-min morning mobility routine tomorrow
-7. ✅ Start hitting 5,000 steps/day immediately
+### First Action Items (This Week)
+1. ✅ Buy: food scale, MyFitnessPal (free), yoga mat, foam roller, resistance/pull-up bands
+2. ✅ Order: Whey protein, creatine, vitamin D3, magnesium glycinate
+3. ✅ Test your equipment: Check dumbbell weights, practice barbell setup
+4. ✅ Take starting measurements + photos
+5. ✅ Start morning mobility routine + 5,000 steps/day
+6. ✅ Shadow box 10 min to practice form (before hitting the bag)
+7. ✅ Log your food for 3 days to see where your calories are actually at
 
 ---
 
-*This plan is based on 315+ evidence-based facts from sources including Stronger By Science, Examine.com, Renaissance Periodization, Jeff Nippard, Peter Attia, Huberman Lab, Squat University, FRC, PubMed meta-analyses (2024-2025), Cochrane reviews, WHO, NIDDK, and CDC. See research/facts-database.{md,json} for source citations.*
+*Based on 315+ evidence-based facts from Stronger By Science, Examine.com, Renaissance Periodization, Jeff Nippard, Peter Attia, Huberman Lab, Squat University, FRC, PubMed (2024-2025), Cochrane, WHO, NIDDK. See research/ files for citations.*
