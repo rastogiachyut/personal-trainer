@@ -1,0 +1,472 @@
+[
+  {
+    "id": "BFR-001",
+    "category": "advanced-training",
+    "subcategory": "blood-flow-restriction",
+    "fact": "BFR combined with low-load resistance training (20-30% 1RM) produces significantly greater hypertrophy (SMD=0.39) and strength (SMD=0.61) than low-load training alone.",
+    "evidence_rating": "strong",
+    "sources": ["Oborn et al., Sports Med Health Sci, 2025 (PMID: 41496806)"],
+    "practical_application": "Use elastic cuffs at 40-50% arterial occlusion pressure with light weights (15-30% 1RM) for joint-sparing hypertrophy work.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "BFR-002",
+    "category": "advanced-training",
+    "subcategory": "blood-flow-restriction",
+    "fact": "BFR does NOT provide additional benefit when combined with high-load training (≥60% 1RM). Hypertrophy and strength were not superior to conventional heavy training.",
+    "evidence_rating": "strong",
+    "sources": ["Mckee et al., J Strength Cond Res, 2026 (PMID: 42223143)", "Oborn et al., 2025 (PMID: 41496806)"],
+    "practical_application": "Don't add BFR to heavy sets. Reserve BFR for light-weight accessory work or deload sessions.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "BFR-003",
+    "category": "advanced-training",
+    "subcategory": "blood-flow-restriction",
+    "fact": "BFR improves aerobic fitness (SMD=0.50), vascular health (SMD=0.45), blood pressure (SMD=0.46), and muscular power (SMD=0.56) beyond low-load exercise alone.",
+    "evidence_rating": "strong",
+    "sources": ["Oborn et al., Sports Med Health Sci, 2025 (PMID: 41496806)"],
+    "practical_application": "Walking or light cycling with BFR cuffs can improve cardiovascular health without high-impact activity.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "BFR-004",
+    "category": "advanced-training",
+    "subcategory": "blood-flow-restriction",
+    "fact": "Standard BFR hypertrophy protocol: 4 sets (30-15-15-15 reps), 20-30% 1RM, 30s rest between sets, 40-50% arterial occlusion pressure.",
+    "evidence_rating": "moderate",
+    "sources": ["Patterson et al., Front Physiol, 2019 (consensus)", "Yang et al., J Hum Kinet, 2025 (PMID: 41766807)"],
+    "practical_application": "Leg extension example: 20% 1RM, 30 reps, rest 30s, 3×15 reps with 30s rest. Intense burn by set 2.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "BFR-005",
+    "category": "advanced-training",
+    "subcategory": "blood-flow-restriction",
+    "fact": "BFR has no effect on physical function, pain, or speed. Its primary value is hypertrophy and strength at low loads — not a magic bullet.",
+    "evidence_rating": "strong",
+    "sources": ["Oborn et al., Sports Med Health Sci, 2025 (PMID: 41496806)"],
+    "practical_application": "Use BFR as one tool, not a replacement for progressive overload or functional movement.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "BFR-006",
+    "category": "advanced-training",
+    "subcategory": "blood-flow-restriction",
+    "fact": "BFR is safe across diverse populations including older adults, rehabilitation patients, and athletes, with minimal adverse events across 265+ studies.",
+    "evidence_rating": "strong",
+    "sources": ["Oborn et al., 2025 (PMID: 41496806)", "Machado et al., 2026 (PMID: 42367229)"],
+    "practical_application": "Safe for 130 kg beginner with proper cuff pressure. Start conservatively and build tolerance.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ECC-001",
+    "category": "advanced-training",
+    "subcategory": "eccentric-tempo",
+    "fact": "Repetition durations between 0.5 and 8 seconds produce similar hypertrophy when sets are taken to failure. Very slow (>10s per rep) is inferior.",
+    "evidence_rating": "strong",
+    "sources": ["Schoenfeld et al., Sports Med, 2015 (PMID: 25601394)"],
+    "practical_application": "A controlled 2-3s eccentric is sufficient. Don't do super-slow reps. Use 3-1-1-0 tempo for compound lifts.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ECC-002",
+    "category": "advanced-training",
+    "subcategory": "eccentric-tempo",
+    "fact": "Eccentric phase generates greater mechanical tension per motor unit than concentric. ~2s controlled eccentric is recommended for optimal hypertrophy.",
+    "evidence_rating": "moderate",
+    "sources": ["Krzysztofik et al., Int J Environ Res Public Health, 2019 (PMID: 31817252)"],
+    "practical_application": "Focus on controlling the lowering phase on ALL exercises. Take 3s to descend on squats, pause 1s, drive up.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ECC-003",
+    "category": "advanced-training",
+    "subcategory": "eccentric-tempo",
+    "fact": "Eccentric-oriented training is particularly effective for tendon health, muscle hypertrophy, and rehabilitation.",
+    "evidence_rating": "strong",
+    "sources": ["Žigmund et al., Medicina, 2026 (PMID: 42356122)", "Handford et al., Strength Cond J, 2023"],
+    "practical_application": "Eccentric-focused lowering protects joints by controlling load descent, especially on squats, lunges, presses.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ECC-004",
+    "category": "advanced-training",
+    "subcategory": "eccentric-tempo",
+    "fact": "Tempo notation (e.g., 3-1-1-0) is valid: eccentric-pause-concentric-pause. 2-3s eccentrics are optimal for hypertrophy without excess fatigue.",
+    "evidence_rating": "moderate",
+    "sources": ["Schoenfeld et al., 2015 (PMID: 25601394)", "Krzysztofik et al., 2019 (PMID: 31817252)"],
+    "practical_application": "Program tempo in workout logs. Compounds: 3-1-1-0. Isolation: 2-0-2-0. Strength: 2-0-1-0.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "ECC-005",
+    "category": "advanced-training",
+    "subcategory": "eccentric-tempo",
+    "fact": "Accentuated eccentric loading (heavier on eccentric than concentric, e.g., 110%/60%) may enhance hypertrophy beyond traditional loading.",
+    "evidence_rating": "moderate",
+    "sources": ["Krzysztofik et al., 2019 (PMID: 31817252)", "Chae et al., J Strength Cond Res, 2024 (PMID: 38090980)"],
+    "practical_application": "Advanced technique — NOT for beginners. Requires partner/equipment. File away for 6+ months out.",
+    "relevance_to_achyut": "low"
+  },
+  {
+    "id": "LP-001",
+    "category": "advanced-training",
+    "subcategory": "lengthened-partials",
+    "fact": "Lengthened partial repetitions produce similar hypertrophy and strength-endurance as full ROM training in trained individuals over 8 weeks.",
+    "evidence_rating": "strong",
+    "sources": ["Wolf et al., PeerJ, 2025 (PMID: 39959841)"],
+    "practical_application": "Full ROM not required for hypertrophy. For joint-discomfort exercises, partial ROM in stretched position is equally effective.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "LP-002",
+    "category": "advanced-training",
+    "subcategory": "lengthened-partials",
+    "fact": "Adding lengthened partials BEYOND momentary failure produces ~43% more gastrocnemius hypertrophy than training to failure alone (9.6% vs 6.7%, BF=13.3).",
+    "evidence_rating": "strong",
+    "sources": ["Larsen et al., Front Psychol, 2025 (PMID: 39995432)"],
+    "practical_application": "After reaching failure, continue with partial reps in the stretched position until you can't move the weight.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "LP-003",
+    "category": "advanced-training",
+    "subcategory": "lengthened-partials",
+    "fact": "In volume-equated conditions, lengthened partials produce the same hypertrophy as full-ROM but with greater per-set efficiency (0.16% vs 0.08% per set).",
+    "evidence_rating": "strong",
+    "sources": ["Goli et al., Int J Exerc Sci, 2026 (PMID: 42006449)"],
+    "practical_application": "Time-efficient: half the sets with lengthened partials + partials beyond failure = same result.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "LP-004",
+    "category": "advanced-training",
+    "subcategory": "lengthened-partials",
+    "fact": "Moderate-intensity training with partial ROM at long muscle lengths elicits similar hypertrophy and architectural adaptations as high-intensity full-ROM.",
+    "evidence_rating": "strong",
+    "sources": ["McMahon et al., J Strength Cond Res, 2026 (PMID: 42392615)"],
+    "practical_application": "At 130 kg, 60-65% 1RM with partial ROM in stretched positions builds muscle while reducing joint stress.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "LP-005",
+    "category": "advanced-training",
+    "subcategory": "lengthened-partials",
+    "fact": "Trainees should emphasize the stretched position during RT, either via full ROM or lengthened partials. Stretch-mediated hypertrophy is a primary growth driver.",
+    "evidence_rating": "moderate",
+    "sources": ["Wolf et al., 2025 (PMID: 39959841)", "Goli et al., 2026 (PMID: 42006449)", "Larsen et al., 2025 (PMID: 39995432)"],
+    "practical_application": "Prioritize the deep stretch at the bottom of every exercise — that's where the growth stimulus is.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "MR-001",
+    "category": "advanced-training",
+    "subcategory": "myo-reps-rest-pause",
+    "fact": "Myo-reps produce similar hypertrophy and strength as traditional straight sets despite ~30% less volume load and shorter session duration.",
+    "evidence_rating": "strong",
+    "sources": ["Bradshaw et al., J Strength Cond Res, 2026 (PMID: 42112925)"],
+    "practical_application": "Activation set of 12-15 reps to near failure, then 3-4 mini sets of 3-5 reps with 15-20s rest. Same growth, less time.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "MR-002",
+    "category": "advanced-training",
+    "subcategory": "myo-reps-rest-pause",
+    "fact": "Myo-reps showed no significant differences in muscle excitation (EMG) or barbell velocity compared to traditional sets.",
+    "evidence_rating": "moderate",
+    "sources": ["Bradshaw et al., J Strength Cond Res, 2026 (PMID: 42112925)"],
+    "practical_application": "Muscle activation is equivalent — you're not cheating by using Myo-reps for accessory work.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "MR-003",
+    "category": "advanced-training",
+    "subcategory": "myo-reps-rest-pause",
+    "fact": "Rest-pause and drop sets produce comparable lean tissue and strength adaptations when incorporated into progressive overload programs.",
+    "evidence_rating": "strong",
+    "sources": ["Vargas-Molina et al., Scand J Med Sci Sports, 2026 (PMID: 42340141)"],
+    "practical_application": "Choose either rest-pause or drop sets — both work equally well. Rest-pause is simpler (no weight changes).",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "MR-004",
+    "category": "advanced-training",
+    "subcategory": "myo-reps-rest-pause",
+    "fact": "Myo-reps protocol: 1 activation set (12-15 reps near failure) + 3-4 mini sets (3-5 reps, 10-15s rest). Total ~3 min vs ~8 min traditional.",
+    "evidence_rating": "moderate",
+    "sources": ["Bradshaw et al., 2026 (PMID: 42112925)", "Krzysztofik et al., 2019 (PMID: 31817252)"],
+    "practical_application": "Use for isolation exercises on busy days. DB curl: 15 to near failure, 15s rest, 4 reps, 15s, 4 reps, 15s, 4 reps. Done.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "MR-005",
+    "category": "advanced-training",
+    "subcategory": "myo-reps-rest-pause",
+    "fact": "Sarcoplasma stimulating training and drop sets provide time-efficient solutions to increase metabolic stress for hypertrophy.",
+    "evidence_rating": "moderate",
+    "sources": ["Krzysztofik et al., 2019 (PMID: 31817252)"],
+    "practical_application": "Use Myo-reps/drop sets for the last exercise of each muscle group to maximize metabolic stress.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "CS-001",
+    "category": "advanced-training",
+    "subcategory": "cluster-sets",
+    "fact": "Cluster sets produce equal strength, power, velocity, hypertrophy, and endurance adaptations as traditional sets with less intra-set fatigue.",
+    "evidence_rating": "strong",
+    "sources": ["Davies et al., Sports Med, 2021 (PMID: 33475986)"],
+    "practical_application": "Cluster sets allow higher quality reps (more power, better form) while getting same results. Safer for beginners.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "CS-002",
+    "category": "advanced-training",
+    "subcategory": "cluster-sets",
+    "fact": "Cluster configuration (e.g., 4×(2 reps + 30s rest) vs 4×8 continuous) maintains barbell velocity and power output throughout the set.",
+    "evidence_rating": "strong",
+    "sources": ["Nagatani et al., J Sports Sci, 2026 (PMID: 41133971)", "Marshall et al., Sports Med, 2021 (PMID: 33666895)"],
+    "practical_application": "For heavy compounds: 2 reps, rack, 30s rest, repeat 4× = 8 total reps with better form on every rep.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "CS-003",
+    "category": "advanced-training",
+    "subcategory": "cluster-sets",
+    "fact": "Cluster sets achieve equivalent adaptations regardless of volume, cluster model, training status, body part, or exercise type.",
+    "evidence_rating": "strong",
+    "sources": ["Davies et al., Sports Med, 2021 (PMID: 33475986)"],
+    "practical_application": "Can be applied to any exercise — machines, free weights, bodyweight. Leg press: 4 reps + 20s rest × 2 clusters.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "CS-004",
+    "category": "advanced-training",
+    "subcategory": "cluster-sets",
+    "fact": "Cluster sets can acutely increase concentric bar velocity, suggesting potential power benefits.",
+    "evidence_rating": "moderate",
+    "sources": ["Cornejo-Daza et al., 2024 (PMID: 38780903)", "Salvador et al., 2020 (PMID: 31703023)"],
+    "practical_application": "If power development becomes a goal, cluster sets with 15-20s intra-set rest maintain explosive rep quality.",
+    "relevance_to_achyut": "low"
+  },
+  {
+    "id": "CS-005",
+    "category": "advanced-training",
+    "subcategory": "cluster-sets",
+    "fact": "High-volume cluster sets produce similar adaptations as lower-volume traditional sets, making clusters volume-efficient.",
+    "evidence_rating": "moderate",
+    "sources": ["Davies et al., J Sports Med Phys Fitness, 2022 (PMID: 35112815)"],
+    "practical_application": "3 cluster sets of 8 (with intra-set rest) match 5 traditional sets of 8. Less reps, same outcome.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "PE-001",
+    "category": "advanced-training",
+    "subcategory": "pre-post-exhaustion",
+    "fact": "Current evidence does NOT support a benefit to pre-exhaustion vs traditional RT for chronic improvements in strength, hypertrophy, or body composition.",
+    "evidence_rating": "moderate",
+    "sources": ["Trindade et al., Int J Exerc Sci, 2022 (PMID: 35516415)"],
+    "practical_application": "Don't use pre-exhaustion expecting MORE hypertrophy. Not superior. Use for variety or time efficiency.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "PE-002",
+    "category": "advanced-training",
+    "subcategory": "pre-post-exhaustion",
+    "fact": "Pre-exhaustion decreases total training volume while maintaining similar strength and hypertrophy results (55% vastus lateralis thickness increase with lower load).",
+    "evidence_rating": "strong",
+    "sources": ["Trindade et al., Front Physiol, 2019 (PMID: 31824336)"],
+    "practical_application": "Leg extensions to near failure FIRST, then squats with less total volume needed. Less joint load for same muscle.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "PE-003",
+    "category": "advanced-training",
+    "subcategory": "pre-post-exhaustion",
+    "fact": "Pre-exhaustion does NOT increase target muscle activation during the compound exercise. May even decrease synergist activation.",
+    "evidence_rating": "moderate",
+    "sources": ["Fujita et al., J Hum Kinet, 2022 (PMID: 36157003)", "Golas et al., J Strength Cond Res, 2017 (PMID: 27984499)"],
+    "practical_application": "The 'targeting' theory of PE is not supported. Just do exercises properly.",
+    "relevance_to_achyut": "low"
+  },
+  {
+    "id": "PE-004",
+    "category": "advanced-training",
+    "subcategory": "pre-post-exhaustion",
+    "fact": "Post-exhaustion (isolation AFTER compound) is valid for increasing metabolic stress and time efficiency as supersets.",
+    "evidence_rating": "moderate",
+    "sources": ["Krzysztofik et al., 2019 (PMID: 31817252)"],
+    "practical_application": "Bench press → immediately DB flyes. Squats → immediately leg extensions. Safer than pre-exhaustion for beginners.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "PE-005",
+    "category": "advanced-training",
+    "subcategory": "pre-post-exhaustion",
+    "fact": "Exercise order significantly affects adaptations — muscles trained first show greater gains. Pre-exhaustion alters this hierarchy.",
+    "evidence_rating": "strong",
+    "sources": ["Nunes et al., Eur J Sport Sci, 2021 (PMID: 32077380)"],
+    "practical_application": "Prioritize compounds FIRST. Use post-exhaustion supersets (compound→isolation) for safety.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "PE-006",
+    "category": "advanced-training",
+    "subcategory": "pre-post-exhaustion",
+    "fact": "Agonist-antagonist supersets (bench+row) and upper-lower body supersets reduce session duration ~50% while maintaining quality.",
+    "evidence_rating": "moderate",
+    "sources": ["Krzysztofik et al., 2019 (PMID: 31817252)"],
+    "practical_application": "Pair opposing muscles: bench+row, leg ext+leg curl, bicep+tricep. Rest 90s between supersets. Saves ~40% time.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ISO-001",
+    "category": "advanced-training",
+    "subcategory": "isometric-training",
+    "fact": "Isometric training produces angle-specific strength gains with ~15° transfer in either direction (strength angle specificity principle).",
+    "evidence_rating": "moderate",
+    "sources": ["Rice & Nimphius, Front Sports Act Living, 2020 (PMID: 33345041)", "Alegre et al., Eur J Appl Physiol, 2014"],
+    "practical_application": "Hold at your specific sticking point to strengthen it. Bench press sticking point: hold bar at that position 15-30s.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "ISO-002",
+    "category": "advanced-training",
+    "subcategory": "isometric-training",
+    "fact": "Isometric training induces tendon remodeling, muscle hypertrophy, greater maximal strength, improved rate of force development, and enhanced dynamic performance.",
+    "evidence_rating": "moderate",
+    "sources": ["Rice & Nimphius, Front Sports Act Living, 2020 (PMID: 33345041)"],
+    "practical_application": "Wall sits 30-60s build quad strength AND patellar tendon resilience. Planks build core + lumbar stability.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ISO-003",
+    "category": "advanced-training",
+    "subcategory": "isometric-training",
+    "fact": "Combined isometric pre-exhaustion with low-load isotonic contractions produces acute responses comparable to higher-intensity training.",
+    "evidence_rating": "moderate",
+    "sources": ["Sugano et al., Eur J Appl Physiol, 2026 (PMID: 42371067)"],
+    "practical_application": "Wall sit 45s, then immediately 12 bodyweight squats. High muscle activation with minimal joint loading.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ISO-004",
+    "category": "advanced-training",
+    "subcategory": "isometric-training",
+    "fact": "Overcoming isometrics (pushing against immovable object) produce neural drive adaptations that can increase strength 5-15% at the trained angle.",
+    "evidence_rating": "moderate",
+    "sources": ["Rice & Nimphius, 2020 (PMID: 33345041)"],
+    "practical_application": "Push barbell against safety pins at sticking point, 5-6 sets of 6-10s max effort. Best in deload weeks.",
+    "relevance_to_achyut": "low"
+  },
+  {
+    "id": "ISO-005",
+    "category": "advanced-training",
+    "subcategory": "isometric-training",
+    "fact": "Isometric training at long muscle lengths produces greater hypertrophy than at short muscle lengths.",
+    "evidence_rating": "moderate",
+    "sources": ["Akagi et al., J Appl Physiol, 2020", "Alegre et al., 2014 (PMID: 25099962)"],
+    "practical_application": "Choose stretched positions for isometric holds: bottom of split squat, bottom of push-up.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "ISO-006",
+    "category": "advanced-training",
+    "subcategory": "isometric-training",
+    "fact": "Resistance training increases Achilles tendon cross-sectional area; resistance-trained individuals have significantly larger tendon CSA.",
+    "evidence_rating": "moderate",
+    "sources": ["Comstock et al., J Strength Cond Res, 2025 (PMID: 39495303)"],
+    "practical_application": "Progressive resistance training builds tendon strength, improving durability and reducing injury risk at 130 kg.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ISO-007",
+    "category": "advanced-training",
+    "subcategory": "isometric-training",
+    "fact": "24 weeks of strength training alters musculotendinous stiffness — tendons adapt to loading at any age.",
+    "evidence_rating": "moderate",
+    "sources": ["Ochala et al., 2005 (PMID: 15702341)", "Létocart et al., 2024 (PMID: 38649478)"],
+    "practical_application": "Tendons are adaptable tissue. Consistent progressive loading strengthens them regardless of starting point.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "INT-001",
+    "category": "advanced-training",
+    "subcategory": "integration",
+    "fact": "The three mechanisms of hypertrophy are mechanical tension (primary), metabolic stress, and muscle damage. Advanced techniques target these differentially.",
+    "evidence_rating": "strong",
+    "sources": ["Krzysztofik et al., 2019 (PMID: 31817252)", "Schoenfeld, J Strength Cond Res, 2010"],
+    "practical_application": "Rotate techniques: heavy compounds for tension, BFR/isolation for metabolic stress, controlled eccentrics for damage.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "INT-002",
+    "category": "advanced-training",
+    "subcategory": "integration",
+    "fact": "Advanced techniques are NOT necessary for beginners — progressive overload on basic exercises drives the majority of adaptations. Use as plateau-breakers.",
+    "evidence_rating": "strong",
+    "sources": ["Krzysztofik et al., 2019 (PMID: 31817252)"],
+    "practical_application": "80% effort on basic progressive overload (squat, bench, row, press, hinge). 20% on 1-2 advanced techniques.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "INT-003",
+    "category": "advanced-training",
+    "subcategory": "integration",
+    "fact": "Training volume (total hard sets per muscle group per week) remains the strongest driver of hypertrophy. Advanced techniques just manipulate how volume is accumulated.",
+    "evidence_rating": "strong",
+    "sources": ["Multiple systematic reviews; Schoenfeld et al., various; Davies et al., 2021 (PMID: 33475986)"],
+    "practical_application": "Track 10-20 weekly sets per muscle. Never sacrifice total volume for a fancy technique.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "INT-004",
+    "category": "advanced-training",
+    "subcategory": "integration",
+    "fact": "For time-efficient training: Myo-reps (~30% less volume), agonist-antagonist supersets (~50% time reduction), cluster sets, and post-exhaustion supersets all have evidence support.",
+    "evidence_rating": "moderate",
+    "sources": ["Bradshaw et al., 2026 (PMID: 42112925)", "Krzysztofik et al., 2019 (PMID: 31817252)", "Davies et al., 2022 (PMID: 35112815)"],
+    "practical_application": "Time-efficient template: 3 compound supersets (agonist-antagonist) + 2 Myo-rep isolation exercises = full body in ~30 min.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "INT-005",
+    "category": "advanced-training",
+    "subcategory": "integration",
+    "fact": "Lengthened partials and BFR are the two techniques with strongest NEW evidence (2024-2026) suggesting benefits BEYOND traditional training for specific applications.",
+    "evidence_rating": "moderate",
+    "sources": ["Larsen et al., 2025 (PMID: 39995432)", "Wolf et al., 2025 (PMID: 39959841)", "Oborn et al., 2025 (PMID: 41496806)"],
+    "practical_application": "Prioritize: BFR for joint-sparing hypertrophy, lengthened partials for stretch-mediated growth. Both reduce mechanical stress.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "INT-006",
+    "category": "advanced-training",
+    "subcategory": "integration",
+    "fact": "Progressive overload strategies (rest-pause vs drop sets) produce comparable lean tissue gains (~1.2-1.4 kg/8wk) and strength improvements (9-12 kg bench 1RM) when volume is equated.",
+    "evidence_rating": "strong",
+    "sources": ["Vargas-Molina et al., Scand J Med Sci Sports, 2026 (PMID: 42340141)"],
+    "practical_application": "Don't agonize over which intensity technique. Pick one that fits schedule, apply progressive overload consistently.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "INT-007",
+    "category": "advanced-training",
+    "subcategory": "integration",
+    "fact": "Combined isometric + isotonic protocols are emerging as potent for simultaneously building strength, tendon resilience, and muscle mass at long muscle lengths.",
+    "evidence_rating": "weak",
+    "sources": ["Sugano et al., Eur J Appl Physiol, 2026 (PMID: 42371067)"],
+    "practical_application": "Add isometric holds: pause 2s at bottom of each squat, hold 2s at bottom of bench press.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "INT-008",
+    "category": "advanced-training",
+    "subcategory": "integration",
+    "fact": "Moderate-intensity training with partial ROM at long muscle lengths produces similar hypertrophy as high-intensity full-ROM — viable for those who can't tolerate heavy loads or full ROM.",
+    "evidence_rating": "strong",
+    "sources": ["McMahon et al., J Strength Cond Res, 2026 (PMID: 42392615)"],
+    "practical_application": "At 130 kg, if full-depth squats cause discomfort, partial ROM in bottom-mid range at moderate intensity builds same muscle.",
+    "relevance_to_achyut": "high"
+  }
+]
