@@ -1,0 +1,434 @@
+{
+  "metadata": {
+    "title": "Nutrition Optimization — Facts Database",
+    "created": "2026-07-07",
+    "totalFacts": 47,
+    "sources": [
+      "Layman DK, Frontiers in Nutrition, 2024 (cited by 31)",
+      "Wilkinson et al., Physiological Reports, 2023 (cited by 55)",
+      "Casuso & Goossens, Nutrients, 2025 (meta-analysis, cited by 6)",
+      "Lak et al., Frontiers in Nutrition, 2024 (RCT, cited by 17)",
+      "Vieira et al., IJSNEM, 2025 (RCT, cited by 6)",
+      "Vieira et al., J Bodywork Mov Ther, 2025 (meta-analysis)",
+      "Triki et al., IJSPP, 2023 (cited by 28)",
+      "Simon et al., Alcohol Research: Current Reviews, 2023 (96 papers reviewed)",
+      "Bourgeois et al., Handbook of Substance Misuse, 2022",
+      "Meza et al., Alcohol and Alcoholism, 2022 (cited by 151)",
+      "Wachsmuth et al., Nutrients, 2022 (RCT, cited by 54)",
+      "Roth et al., European Journal of Applied Physiology, 2022 (cited by 33)",
+      "Goldman et al., Nutrients, 2024 (cited by 10)",
+      "Morton et al., BJSM, 2018 (meta-analysis, 49 studies)"
+    ],
+    "purpose": "Evidence-based nutrition optimization for 130 kg beginner recomp in Ghaziabad, India"
+  },
+  "topics": {
+    "protein_pacing_mps": {
+      "facts": [
+        {
+          "id": 1,
+          "finding": "Older adults (>60y) require ≥2.8g leucine (~30g protein) per meal to stimulate MPS. Younger adults (<30y) show near-linear MPS response to protein content with no strict leucine threshold.",
+          "evidence": "strong",
+          "source": "Layman DK, Frontiers in Nutrition, 2024",
+          "application": "At 28y, total per-meal protein (30-40g) is sufficient. No need to obsess over leucine thresholds.",
+          "relevance": "high"
+        },
+        {
+          "id": 2,
+          "finding": "Post-meal MPS anabolic response lasts 2-3 hours. Single large protein dinner is suboptimal. 4-5 meals spaced 3-4h apart maximizes total daily MPS.",
+          "evidence": "strong",
+          "source": "Layman DK, 2024; Wilkinson et al., 2023",
+          "application": "4-5 meals of 35-45g protein each, spaced 3-4h apart.",
+          "relevance": "high"
+        },
+        {
+          "id": 3,
+          "finding": "Total daily protein intake is the most important dietary factor for lean body mass. At ≥1.6 g/kg/day, distribution and quality matter less.",
+          "evidence": "strong",
+          "source": "Layman DK, 2024; Morton et al., 2018",
+          "application": "Hit ≥160g/day consistently first, then optimize distribution.",
+          "relevance": "high"
+        },
+        {
+          "id": 4,
+          "finding": "Dose-dependent association between dietary leucine and post-exercise MPS. Relationship plateaus at higher doses.",
+          "evidence": "strong",
+          "source": "Wilkinson et al., Physiological Reports, 2023",
+          "application": "Ensure 2-3g leucine per major meal (~30-40g quality protein).",
+          "relevance": "medium"
+        },
+        {
+          "id": 5,
+          "finding": "Plant-based diets can supply enough protein and leucine to maximize hypertrophy if ~2g leucine/meal threshold is met through combining.",
+          "evidence": "moderate",
+          "source": "Goldman et al., Nutrients, 2024",
+          "application": "Soya chunks + paneer + Greek yogurt for vegetarian days.",
+          "relevance": "high"
+        },
+        {
+          "id": 6,
+          "finding": "Balanced protein distribution (4-5 evenly spaced feedings of 30-40g) maximizes post-prandial MPS vs skewed distribution.",
+          "evidence": "moderate",
+          "source": "Lak et al., Frontiers in Nutrition, 2024",
+          "application": "Breakfast 40g, Lunch 40g, Snack 30g, Dinner 50g, Pre-bed 30g = ~190g.",
+          "relevance": "high"
+        },
+        {
+          "id": 7,
+          "finding": "Protein quality matters less at higher total intakes (≥1.6g/kg/day). Vegan and omnivorous high-protein diets produce comparable myofibrillar protein synthesis.",
+          "evidence": "moderate",
+          "source": "Layman DK, 2024; Monteyne et al., J Nutrition, 2023",
+          "application": "Vary protein sources across the day; don't stress about combining at every meal.",
+          "relevance": "medium"
+        }
+      ]
+    },
+    "nutrient_timing": {
+      "facts": [
+        {
+          "id": 8,
+          "finding": "The 30-minute 'anabolic window' is a myth. Meta-analysis shows protein timing around exercise does not influence adaptations when total daily protein is matched.",
+          "evidence": "strong",
+          "source": "Casuso & Goossens, Nutrients, 2025",
+          "application": "Don't stress about immediate post-workout shakes. Hit daily protein.",
+          "relevance": "high"
+        },
+        {
+          "id": 9,
+          "finding": "8-week RCT: protein immediately before/after vs 3h before/after = no significant difference in gains. Both groups improved equally.",
+          "evidence": "strong",
+          "source": "Lak et al., Frontiers in Nutrition, 2024",
+          "application": "Train and eat when convenient.",
+          "relevance": "high"
+        },
+        {
+          "id": 10,
+          "finding": "Prior meta-analyses suggesting timing matters were limited by inactive comparator designs (control got no protein at all).",
+          "evidence": "strong",
+          "source": "Lak et al., 2024; Schoenfeld et al., 2013",
+          "application": "Supplement industry timing claims are based on flawed studies.",
+          "relevance": "medium"
+        },
+        {
+          "id": 11,
+          "finding": "Anabolic window is wider (~4-6h) than thought. Modest benefit to protein within hours post-training, especially if fasted or pre-workout meal was >4h prior.",
+          "evidence": "moderate",
+          "source": "Deane et al., Frontiers in Nutrition, 2024",
+          "application": "If training fasted, eat within 1-2h post-workout.",
+          "relevance": "medium"
+        },
+        {
+          "id": 12,
+          "finding": "Daily protein threshold for maximizing hypertrophy: ~1.62 g/kg bodyweight/day. Beyond this, diminishing returns.",
+          "evidence": "strong",
+          "source": "Morton et al., BJSM, 2018 (49 studies)",
+          "application": "Target 1.6g/kg of lean/ideal mass = ~180-200g for Achyut.",
+          "relevance": "high"
+        }
+      ]
+    },
+    "carb_cycling": {
+      "facts": [
+        {
+          "id": 13,
+          "finding": "No direct meta-analysis evidence that carb cycling is superior to consistent caloric intake for body recomposition. Supported by tradition, not RCTs.",
+          "evidence": "weak",
+          "source": "Valentyna, 2025; Wachsmuth et al., 2022",
+          "application": "For beginners, consistent moderate deficit is simpler and equally effective.",
+          "relevance": "low"
+        },
+        {
+          "id": 14,
+          "finding": "High-carb diets better maintain exercise performance vs low-carb, but body composition changes are similar when protein/calories matched.",
+          "evidence": "strong",
+          "source": "Wachsmuth et al., Nutrients, 2022 (RCT)",
+          "application": "Keep carbs moderate-to-high on training days for performance.",
+          "relevance": "high"
+        },
+        {
+          "id": 15,
+          "finding": "Multi-component programs (IF + carb cycling + exercise) improve body composition, but unclear which component drives results.",
+          "evidence": "moderate",
+          "source": "Ottinger et al., mHealth, 2025",
+          "application": "Overall approach works; carb cycling specifically may not add value.",
+          "relevance": "low"
+        },
+        {
+          "id": 16,
+          "finding": "Key factors for lean mass sparing during caloric restriction: protein ≥1.6g/kg, resistance training volume, moderate deficit. Carb manipulation is secondary.",
+          "evidence": "strong",
+          "source": "Roth et al., EJAP, 2022",
+          "application": "Focus on protein + training + moderate deficit, not carb timing.",
+          "relevance": "high"
+        },
+        {
+          "id": 17,
+          "finding": "True recomposition (simultaneous fat loss + lean gain) is achievable in beginners and overweight individuals. Carb cycling not required.",
+          "evidence": "strong",
+          "source": "Baranauskas et al., 2023; Fernandes, 2023",
+          "application": "As 130 kg beginner, recomposition is very achievable with fundamentals.",
+          "relevance": "high"
+        }
+      ]
+    },
+    "sodium_electrolytes": {
+      "facts": [
+        {
+          "id": 18,
+          "finding": "Sodium sweat loss: 500-2000mg/hour depending on intensity and heat. At 1L/hour sweat rate, ~2% total body sodium lost per hour.",
+          "evidence": "strong",
+          "source": "Minson & Halliwill, 2023 textbook",
+          "application": "300-500mg sodium pre-workout for sessions >60 min.",
+          "relevance": "medium"
+        },
+        {
+          "id": 19,
+          "finding": "Pre-workout sodium loading (500-1000mg in 500-750ml water, 60-90 min pre) enhances plasma volume and pump.",
+          "evidence": "moderate",
+          "source": "Blow et al., 2025; ISSN position stands",
+          "application": "1/4 tsp salt in 500ml water before training, especially in Ghaziabad heat.",
+          "relevance": "medium"
+        },
+        {
+          "id": 20,
+          "finding": "Exercise-associated muscle cramping is primarily from muscle fatigue/neuromuscular issues, NOT dehydration/electrolyte imbalance (though sodium can contribute in prolonged heat exercise).",
+          "evidence": "strong",
+          "source": "Minson & Halliwill, 2023",
+          "application": "Address cramping with warm-up and technique, not just salt.",
+          "relevance": "medium"
+        },
+        {
+          "id": 21,
+          "finding": "Co-transport of water + sodium enhances hydration more than plain water during exercise.",
+          "evidence": "strong",
+          "source": "Liang et al., Nutrients, 2024",
+          "application": "Add salt + glucose to water for long sessions (ORS principle).",
+          "relevance": "low"
+        },
+        {
+          "id": 22,
+          "finding": "ISSN recommends 300-600mg sodium/hour for exercise >1 hour. For <60 min sessions, normal dietary sodium is sufficient.",
+          "evidence": "strong",
+          "source": "ISSN, ACSM, NATA consensus statements",
+          "application": "Pre-workout salt optional for 45-60 min lifting. Indian food is well-salted.",
+          "relevance": "medium"
+        }
+      ]
+    },
+    "fasted_vs_fed": {
+      "facts": [
+        {
+          "id": 23,
+          "finding": "Meta-analysis: fasted vs fed resistance training produces similar gains in fat-free mass, hypertrophy, and strength when total daily nutrition matched.",
+          "evidence": "strong",
+          "source": "Vieira et al., J Bodywork Mov Ther, 2025",
+          "application": "Fasted training is fine if mornings work best.",
+          "relevance": "high"
+        },
+        {
+          "id": 24,
+          "finding": "RCT: fasted vs fed resistance training = similar hypertrophy and strength gains. Fasted did NOT impair muscle growth.",
+          "evidence": "strong",
+          "source": "Vieira et al., IJSNEM, 2025",
+          "application": "Train when consistent. Eat protein-rich meal after.",
+          "relevance": "high"
+        },
+        {
+          "id": 25,
+          "finding": "Ramadan fasting study: both fasted and fed groups maintained strength and hypertrophy.",
+          "evidence": "moderate",
+          "source": "Triki et al., IJSPP, 2023",
+          "application": "Training during fasting is safe and effective.",
+          "relevance": "low"
+        },
+        {
+          "id": 26,
+          "finding": "Exercise enhances anabolic sensitivity to protein feeding for up to 24h. Fasted training has modest advantage to fed state for acute MPS.",
+          "evidence": "moderate",
+          "source": "Camera, Sports Medicine, 2022",
+          "application": "If training fasted, eat high-protein meal within 1-2h post-workout.",
+          "relevance": "medium"
+        }
+      ]
+    },
+    "alcohol_mps": {
+      "facts": [
+        {
+          "id": 27,
+          "finding": "Both acute and chronic alcohol decrease MPS and increase protein degradation via mTORC1 pathway inhibition.",
+          "evidence": "strong",
+          "source": "Simon et al., Alcohol Research: Current Reviews, 2023",
+          "application": "Minimize or eliminate alcohol during serious training phases.",
+          "relevance": "high"
+        },
+        {
+          "id": 28,
+          "finding": "Single binge (BAC ≥0.08, ~4-5 drinks) can cause acute myopathy and impairs MPS for 24h+.",
+          "evidence": "strong",
+          "source": "Simon et al., 2023",
+          "application": "Binge drinking post-workout is worst-case for muscle growth.",
+          "relevance": "high"
+        },
+        {
+          "id": 29,
+          "finding": "40-60% of chronic heavy drinkers develop alcohol-related myopathy. Chronic use increases breakdown via UPP/atrogenes.",
+          "evidence": "strong",
+          "source": "Simon et al., 2023; Meza et al., 2022",
+          "application": "Regular heavy drinking (3-4+ drinks/day) undermines all fitness goals.",
+          "relevance": "high"
+        },
+        {
+          "id": 30,
+          "finding": "Alcohol impairs muscle mitochondrial function, reducing ATP production and training performance.",
+          "evidence": "strong",
+          "source": "Simon et al., 2023; Dominguez et al., 2024",
+          "application": "Avoid alcohol 24h before heavy training sessions.",
+          "relevance": "high"
+        },
+        {
+          "id": 31,
+          "finding": "Post-exercise alcohol (1.0g ethanol/kg, ~5-6 drinks) significantly delays strength recovery. Even 0.5g/kg may impair recovery.",
+          "evidence": "moderate",
+          "source": "Bourgeois et al., 2022",
+          "application": "Keep to 1-2 drinks max if socializing post-workout.",
+          "relevance": "high"
+        },
+        {
+          "id": 32,
+          "finding": "Abstinence improves muscle mass/function, but muscles are NOT fully restored to normal — some damage irreversible.",
+          "evidence": "moderate",
+          "source": "Simon et al., 2023",
+          "application": "The sooner you cut back, the better.",
+          "relevance": "medium"
+        },
+        {
+          "id": 33,
+          "finding": "Alcohol's effect on MPS is dose-dependent: 1-2 drinks minimal impact, ≥0.5g/kg causes significant MPS suppression (24-37% reduction).",
+          "evidence": "moderate",
+          "source": "Bourgeois et al., 2022; Simon et al., 2023",
+          "application": "1-2 occasional drinks with protein is fine. Binge drinking is the problem.",
+          "relevance": "high"
+        }
+      ]
+    },
+    "indian_diet": {
+      "facts": [
+        {
+          "id": 34,
+          "finding": "Soya chunks: highest protein-per-rupee in India. ~52g protein/100g dry. Cost: ~₹0.15-0.20/g protein.",
+          "evidence": "strong",
+          "source": "IFCT 2017; market pricing Ghaziabad 2026",
+          "application": "50-100g soya chunks daily as protein base. 100g dry = 52g protein for ~₹10-15.",
+          "relevance": "high"
+        },
+        {
+          "id": 35,
+          "finding": "Whey protein concentrate: ₹1.5-2.5/g protein (Indian brands). 30g scoop = ~24g protein.",
+          "evidence": "strong",
+          "source": "Market analysis Amazon India/Flipkart 2025-2026",
+          "application": "2 scoops/day (48g protein) costs ~₹100-120/day.",
+          "relevance": "high"
+        },
+        {
+          "id": 36,
+          "finding": "Paneer: ~18g protein + ~20g fat/100g = 260+ kcal. NOT cost-effective for protein during recomp. Low-fat paneer/Greek yogurt better.",
+          "evidence": "strong",
+          "source": "IFCT 2017; USDA",
+          "application": "Use paneer for flavor, not primary protein. Greek yogurt (hung curd) = 10g protein/100g at 60 kcal.",
+          "relevance": "high"
+        },
+        {
+          "id": 37,
+          "finding": "Eggs: ~6g protein each at ₹0.8-1.0/g protein (₹7-8/egg). 6-egg omelette = 36g protein for ~₹42-48.",
+          "evidence": "strong",
+          "source": "Market pricing Ghaziabad 2026; IFCT 2017",
+          "application": "4-6 whole eggs for breakfast with bread and vegetables.",
+          "relevance": "high"
+        },
+        {
+          "id": 38,
+          "finding": "Chicken breast: ~31g protein, 3.6g fat/100g (165 kcal). Cost: ~₹1.5-2.0/g protein at ₹250-300/kg.",
+          "evidence": "strong",
+          "source": "IFCT 2017; market pricing Ghaziabad 2026",
+          "application": "250g chicken breast = 77g protein for 412 kcal. Ideal dinner on training days.",
+          "relevance": "high"
+        },
+        {
+          "id": 39,
+          "finding": "Indian breakfast foods (poha, upma, idli) are traditionally low protein (5-8g/serving). Modifications can reach 25-35g.",
+          "evidence": "moderate",
+          "source": "Recipe analysis from IFCT 2017",
+          "application": "High-protein poha: add 50g soya chunks + whey. High-protein cheela: 100g besan + 2 eggs.",
+          "relevance": "high"
+        },
+        {
+          "id": 40,
+          "finding": "Vegetarian Indian diet can achieve 180g+ protein/day under 2,200 kcal using whey, soya chunks, Greek yogurt, and strategic food choices.",
+          "evidence": "moderate",
+          "source": "Calculated from IFCT 2017",
+          "application": "Cost: ~₹200-250/day fully vegetarian.",
+          "relevance": "high"
+        },
+        {
+          "id": 41,
+          "finding": "Lentils/legumes: poor protein-per-calorie. 200g cooked dal = only 14-18g protein for 230+ kcal. Not primary protein sources during recomp.",
+          "evidence": "strong",
+          "source": "IFCT 2017; USDA",
+          "application": "Eat dal for fiber/micronutrients, not as main protein source.",
+          "relevance": "medium"
+        }
+      ]
+    },
+    "cross_topic": {
+      "facts": [
+        {
+          "id": 42,
+          "finding": "Hierarchy for recomposition: 1) Progressive resistance training, 2) Total protein ≥1.6g/kg, 3) Slight caloric deficit, 4) Sleep 7-9h, 5) Protein distribution, 6) Nutrient timing, 7) Carb cycling, 8) Supplements.",
+          "evidence": "strong",
+          "source": "Synthesized from Roth 2022, Morton 2018, Layman 2024, Lak 2024",
+          "application": "Don't optimize #6-8 until #1-4 are consistent for weeks.",
+          "relevance": "high"
+        },
+        {
+          "id": 43,
+          "finding": "ISSN recommends 20-40g protein per meal, 4-5x daily, spaced 3-4h, total 1.4-2.0 g/kg/day.",
+          "evidence": "strong",
+          "source": "Jäger et al., JISSN Position Stand, 2017",
+          "application": "Master template: 4 meals × 40g + 1 snack × 20g = 180g/day.",
+          "relevance": "high"
+        },
+        {
+          "id": 44,
+          "finding": "Protein + carb together post-exercise does not enhance MPS beyond protein alone when daily totals matched.",
+          "evidence": "moderate",
+          "source": "Staples et al.; Casuso & Goossens, 2025",
+          "application": "Don't worry about specific carb:protein ratio post-workout.",
+          "relevance": "medium"
+        },
+        {
+          "id": 45,
+          "finding": "Creatine monohydrate (3-5g/day) is the most evidence-backed supplement for lean mass and strength.",
+          "evidence": "strong",
+          "source": "ISSN position stands; hundreds of RCTs",
+          "application": "5g daily, any time. No loading needed. ~₹300-500/month in India.",
+          "relevance": "high"
+        },
+        {
+          "id": 46,
+          "finding": "Caffeine (3-6mg/kg, 30-60 min pre-workout) reliably improves resistance training performance.",
+          "evidence": "strong",
+          "source": "Grgic et al., multiple meta-analyses",
+          "application": "Strong black coffee 45 min before training. Skip if training late evening.",
+          "relevance": "medium"
+        },
+        {
+          "id": 47,
+          "finding": "Sleep deprivation (≤5.5h) reduces MPS, increases cortisol, and impairs recovery. Even one night of poor sleep can reduce performance 5-10%.",
+          "evidence": "strong",
+          "source": "Dattilo et al., 2011; multiple 2022-2025 confirmations",
+          "application": "7-9h sleep is non-negotiable for recomp.",
+          "relevance": "high"
+        }
+      ]
+    }
+  }
+}
