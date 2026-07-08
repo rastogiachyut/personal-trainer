@@ -64,3 +64,18 @@ Goal: Muscle building (130 kg → recomp)
 - Bicep curls: tried 10 kg (6 reps), dropped to 7.5 kg (10 reps) — good strategy
 - Deadlift: added 5 kg plates vs rod-only last time
 - 3-day gap since last session, well-rested
+
+---
+
+## Session 4 — Jul 9, 2026 (Thu, Home Workout)
+
+### Warm-Up
+*(Self-directed light movements, dynamic stretches)*
+
+### Workout (with 4 kg dumbbells)
+| Exercise | Weight | Sets x Reps | Notes |
+|----------|--------|-------------|-------|
+| Dumbbell Bicep Curls (with supination) | 4 kg/hand | 3 x 10 | Turning wrist 90 degrees after each 3x set |
+| Dumbbell Lateral Raise (T-pose) | 4 kg/hand | 3 x 10 | Lifted till shoulder level |
+| Dumbbell Shoulder Press | 4 kg/hand | 3 x 10 | |
+
