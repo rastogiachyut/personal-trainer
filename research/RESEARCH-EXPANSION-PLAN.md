@@ -260,15 +260,17 @@
 - [ ] Compile → `research/facts-recovery-science.md/json`
 - [ ] Commit + push
 
-### Sprint 4 (Week of Jul 28 - Aug 3) — Workout Hacks & Equipment
-- [ ] Research supersets, micro-loading, tempo (3-4 sources, 10-15 facts)
-- [ ] Research cable machine optimization (3 sources, 5-7 facts)
-- [ ] Research mind-muscle connection (3 sources, 5 facts)
-- [ ] Research bodyweight progressions (3 sources, 5-7 facts)
-- [ ] Compile → `research/facts-workout-hacks.md/json`
-- [ ] Commit + push
+### Sprint 4 (Week of Jul 13) — Workout Hacks & Equipment ✅
+- [x] Research supersets, micro-loading, tempo (3 meta-analyses, 10 facts)
+- [x] Research cable machine optimization (1 EMG study, 5 facts)
+- [x] Research mind-muscle connection (1 RCT, 5 facts)
+- [x] Research bodyweight progressions (coaching consensus, 5 facts)
+- [x] Research lengthened partials & ROM optimization (4 studies, 8 facts)
+- [x] Research breathing/Valsalva, grip strength, equipment selection (8 facts)
+- [x] Compile → `research/facts-workout-hacks.md/json` (52 facts)
+- [x] Commit + push
 
-### Sprint 5 (Week of Aug 4-10) — Supplements & Hormones
+### Sprint 5 (Week of Jul 14-20) — Supplements & Hormones
 - [ ] Deep dive on each Tier 1 supplement with latest 2025-2026 research
 - [ ] Research testosterone optimization through lifestyle (3-4 sources, 7-10 facts)
 - [ ] Research adaptogens (Ashwagandha, Rhodiola) for training (3 sources, 5 facts)
