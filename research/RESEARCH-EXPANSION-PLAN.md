@@ -270,13 +270,20 @@
 - [x] Compile → `research/facts-workout-hacks.md/json` (52 facts)
 - [x] Commit + push
 
-### Sprint 5 (Week of Jul 14-20) — Supplements & Hormones
-- [ ] Deep dive on each Tier 1 supplement with latest 2025-2026 research
-- [ ] Research testosterone optimization through lifestyle (3-4 sources, 7-10 facts)
-- [ ] Research adaptogens (Ashwagandha, Rhodiola) for training (3 sources, 5 facts)
-- [ ] India-specific supplement cost optimization
-- [ ] Compile → `research/facts-supplements-india.md/json` + `research/facts-hormonal-optimization.md/json`
-- [ ] Commit + push
+### Sprint 5 (Week of Jul 14-20) — Supplements & Hormones ✅
+- [x] Deep dive on each Tier 1 supplement with latest 2025-2026 research
+- [x] Research testosterone optimization through lifestyle (10 facts)
+- [x] Research cortisol management (8 facts)
+- [x] Research growth hormone optimization (4 facts)
+- [x] Research insulin sensitivity improvement (5 facts)
+- [x] Research thyroid health during caloric deficit (4 facts)
+- [x] Research adaptogens (Ashwagandha KSM-66) for training
+- [x] India-specific supplement cost optimization (₹/day analysis)
+- [x] Supplement avoid list (BCAAs, fat burners, test boosters, iron)
+- [x] Compile → `research/facts-supplements-india.md/json` (18 facts) + `research/facts-hormonal-optimization.md/json` (33 facts)
+- [x] Commit + push
+
+**Total Sprint 5 output: 51 facts across 4 files**
 
 ### Sprint 6 (Week of Aug 11-17) — Psychology, Longevity & Emerging Tech
 - [ ] Research behavioral psychology for fitness adherence (3-4 sources, 10 facts)
