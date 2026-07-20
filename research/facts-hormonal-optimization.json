@@ -1,0 +1,382 @@
+{
+  "category": "hormonal-optimization",
+  "fact_count": 33,
+  "facts": [
+    {
+      "id": "HORM-001",
+      "category": "testosterone",
+      "fact": "Resistance training causes short-term increases in testosterone. Compound movements produce larger acute testosterone responses than isolation exercises.",
+      "evidence_rating": "strong",
+      "sources": [
+        "2020 literature review (PMC7739287)",
+        "HIIT studies (PMC8156527)"
+      ],
+      "practical_application": "Prioritize compound lifts at 70-85% 1RM at the start of workouts.",
+      "relevance_to_achyut": "HIGH"
+    },
+    {
+      "id": "HORM-002",
+      "category": "testosterone",
+      "fact": "Prolonged caloric restriction disrupts testosterone production. Moderate deficits (300-500 kcal) preserve testosterone better than aggressive deficits.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Pubmed 32643144",
+        "Sage Journals 02601060221083079"
+      ],
+      "practical_application": "Keep deficit at 300-500 kcal max. Include refeed days every 5-7 days.",
+      "relevance_to_achyut": "CRITICAL"
+    },
+    {
+      "id": "HORM-003",
+      "category": "testosterone",
+      "fact": "At BMI >30, body fat is the primary suppressor of testosterone through aromatization. Losing 5-10% body weight can increase testosterone 15-30%.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Wiley 7523996",
+        "ScienceDirect S2666168321001002"
+      ],
+      "practical_application": "Focus on sustained gradual fat loss rather than testosterone supplements.",
+      "relevance_to_achyut": "CRITICAL"
+    },
+    {
+      "id": "HORM-004",
+      "category": "testosterone",
+      "fact": "Testosterone is primarily produced during REM and deep sleep. Sleeping 5 hours instead of 8 can reduce testosterone by 10-15%. Sleep apnea dramatically suppresses testosterone.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Pubmed 30225799"
+      ],
+      "practical_application": "Prioritize 7-9 hours quality sleep. Get sleep study if OSA suspected.",
+      "relevance_to_achyut": "CRITICAL"
+    },
+    {
+      "id": "HORM-005",
+      "category": "testosterone",
+      "fact": "Low vitamin D is linked to low testosterone. Supplementation raises testosterone in deficient men but not in those with normal levels.",
+      "evidence_rating": "moderate",
+      "sources": [
+        "PMC7752519",
+        "PMC10518189"
+      ],
+      "practical_application": "Test 25(OH)D. If below 30 ng/mL, supplement 2000-4000 IU D3 daily.",
+      "relevance_to_achyut": "HIGH"
+    },
+    {
+      "id": "HORM-006",
+      "category": "testosterone",
+      "fact": "Zinc supplementation increases testosterone only in zinc-deficient individuals. Extra zinc beyond adequacy does not boost testosterone further.",
+      "evidence_rating": "moderate",
+      "sources": [
+        "Pubmed 34311679",
+        "Tandfonline review"
+      ],
+      "practical_application": "Test before supplementing. 15-30 mg/day max if deficient.",
+      "relevance_to_achyut": "MODERATE"
+    },
+    {
+      "id": "HORM-007",
+      "category": "testosterone",
+      "fact": "Diets very low in fat (<20% of calories) decrease testosterone. Moderate fat intake of 25-35% of calories is optimal.",
+      "evidence_rating": "moderate",
+      "sources": [
+        "ScienceDirect S0960076021000716"
+      ],
+      "practical_application": "Include eggs, nuts, ghee, olive oil. Aim for 0.8-1g fat per kg body weight.",
+      "relevance_to_achyut": "MODERATE"
+    },
+    {
+      "id": "HORM-008",
+      "category": "testosterone",
+      "fact": "Testosterone drops within 30 minutes of alcohol consumption. 3+ drinks suppresses testosterone for 24+ hours. Chronic heavy drinking causes testicular atrophy.",
+      "evidence_rating": "strong",
+      "sources": [
+        "PMC9708857",
+        "PMC6571549"
+      ],
+      "practical_application": "Limit to 1-2 drinks, 1-2 times per week max.",
+      "relevance_to_achyut": "MODERATE"
+    },
+    {
+      "id": "HORM-009",
+      "category": "testosterone",
+      "fact": "Magnesium binds to SHBG, increasing free testosterone bioavailability. 50-60% of adults are magnesium deficient.",
+      "evidence_rating": "moderate",
+      "sources": [
+        "Magnesium-SHBG interaction studies"
+      ],
+      "practical_application": "200-400 mg magnesium glycinate in the evening.",
+      "relevance_to_achyut": "HIGH"
+    },
+    {
+      "id": "HORM-010",
+      "category": "testosterone",
+      "fact": "Cortisol and testosterone operate on a seesaw mechanism. Chronic stress keeps cortisol elevated, continuously suppressing testosterone.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Frontiers in Molecular Biosciences 2019"
+      ],
+      "practical_application": "Manage stress, sleep, and recovery. Reduce training volume if overtrained.",
+      "relevance_to_achyut": "CRITICAL"
+    },
+    {
+      "id": "HORM-011",
+      "category": "cortisol",
+      "fact": "Chronic sleep disruption is the strongest lifestyle predictor of elevated cortisol. Sleep apnea causes repeated nocturnal cortisol spikes.",
+      "evidence_rating": "strong",
+      "sources": [
+        "PMC7202382",
+        "NBK589670"
+      ],
+      "practical_application": "Treat sleep apnea. Maintain consistent sleep/wake times.",
+      "relevance_to_achyut": "CRITICAL"
+    },
+    {
+      "id": "HORM-012",
+      "category": "cortisol",
+      "fact": "Intense exercise acutely raises cortisol but it drops below baseline hours later. Moderate exercise lowers cortisol. Overtraining keeps cortisol elevated.",
+      "evidence_rating": "strong",
+      "sources": [
+        "ScienceDirect S0306453021002109"
+      ],
+      "practical_application": "150-200 min/week low-to-moderate intensity. Avoid excessive HIIT.",
+      "relevance_to_achyut": "HIGH"
+    },
+    {
+      "id": "HORM-013",
+      "category": "cortisol",
+      "fact": "Mindfulness-based stress reduction and deep breathing activate the parasympathetic nervous system, lowering cortisol within minutes.",
+      "evidence_rating": "strong",
+      "sources": [
+        "PMC9884344",
+        "PMC6137615",
+        "PMC6125057"
+      ],
+      "practical_application": "5-10 min box breathing (4-4-4-4) daily, post-workout or before bed.",
+      "relevance_to_achyut": "MODERATE"
+    },
+    {
+      "id": "HORM-014",
+      "category": "cortisol",
+      "fact": "Ashwagandha KSM-66 at 300-600mg/day reduces cortisol by 14-28% over 8 weeks. Also reduces stress, anxiety, and may increase testosterone.",
+      "evidence_rating": "strong",
+      "sources": [
+        "PMC6979308",
+        "PMC6750292",
+        "NIH ODS Ashwagandha"
+      ],
+      "practical_application": "300-600mg KSM-66 in evening. 8-12 weeks on, 4 weeks off.",
+      "relevance_to_achyut": "HIGH"
+    },
+    {
+      "id": "HORM-015",
+      "category": "cortisol",
+      "fact": "High added sugar intake elevates cortisol and blunts natural stress response.",
+      "evidence_rating": "moderate",
+      "sources": [
+        "PMC6893582"
+      ],
+      "practical_application": "Minimize added sugars.",
+      "relevance_to_achyut": "MODERATE"
+    },
+    {
+      "id": "HORM-016",
+      "category": "cortisol",
+      "fact": "Dark chocolate (>70% cacao) flavonoids buffer stress reactivity in adrenal glands, lowering cortisol release.",
+      "evidence_rating": "moderate",
+      "sources": [
+        "PMC6616509"
+      ],
+      "practical_application": "20-30g of 70%+ dark chocolate daily as evening treat.",
+      "relevance_to_achyut": "LOW"
+    },
+    {
+      "id": "HORM-017",
+      "category": "cortisol",
+      "fact": "High omega-3 blood levels are associated with lower cortisol and inflammation. Fish oil 1-3g EPA+DHA may reduce cortisol.",
+      "evidence_rating": "moderate",
+      "sources": [
+        "ScienceDirect S0306453018302117 - 2724 participant cohort"
+      ],
+      "practical_application": "1-2g combined EPA+DHA daily.",
+      "relevance_to_achyut": "MODERATE"
+    },
+    {
+      "id": "HORM-018",
+      "category": "cortisol",
+      "fact": "Even mild dehydration temporarily increases cortisol. During exercise, dehydration amplifies cortisol response.",
+      "evidence_rating": "moderate",
+      "sources": [
+        "PMC6168646"
+      ],
+      "practical_application": "3-4 liters water daily at 130 kg body weight.",
+      "relevance_to_achyut": "MODERATE"
+    },
+    {
+      "id": "HORM-019",
+      "category": "growth-hormone",
+      "fact": "70-80% of growth hormone is secreted during Stage 3 deep sleep. Disrupted sleep destroys GH production.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Sleep endocrinology literature"
+      ],
+      "practical_application": "Cool room, dark, no screens 60 min before bed, consistent schedule.",
+      "relevance_to_achyut": "CRITICAL"
+    },
+    {
+      "id": "HORM-020",
+      "category": "growth-hormone",
+      "fact": "Growth hormone increases 2-5x during 12-16 hour fasting. This mobilizes fat for energy.",
+      "evidence_rating": "strong",
+      "sources": [
+        "IF research - Varady, Mattson"
+      ],
+      "practical_application": "12-14 hour overnight fast naturally boosts GH.",
+      "relevance_to_achyut": "MODERATE"
+    },
+    {
+      "id": "HORM-021",
+      "category": "growth-hormone",
+      "fact": "Exercise above lactate threshold triggers significant GH pulse within 30-60 min post-exercise. Dose-dependent on intensity.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Exercise endocrinology literature"
+      ],
+      "practical_application": "Heavy compound lifts at 6-8 RM range trigger GH release.",
+      "relevance_to_achyut": "MODERATE"
+    },
+    {
+      "id": "HORM-022",
+      "category": "growth-hormone",
+      "fact": "Arginine and glutamine supplementation have minimal and transient GH effects. Not worth supplementing for GH purposes.",
+      "evidence_rating": "weak",
+      "sources": [
+        "Amino acid-GH research"
+      ],
+      "practical_application": "Do not waste money on GH boosters. Sleep and exercise are far more effective.",
+      "relevance_to_achyut": "LOW"
+    },
+    {
+      "id": "HORM-023",
+      "category": "insulin-sensitivity",
+      "fact": "Resistance training dramatically improves insulin sensitivity via GLUT4 translocation. A single session improves sensitivity for 24-48 hours.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Exercise-insulin resistance literature"
+      ],
+      "practical_application": "Consistent resistance training 3x/week.",
+      "relevance_to_achyut": "CRITICAL"
+    },
+    {
+      "id": "HORM-024",
+      "category": "insulin-sensitivity",
+      "fact": "10-15 minute post-meal walks reduce postprandial glucose spikes by 20-30%. Contracting muscles pull glucose independent of insulin.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Diabetes care post-meal walking RCTs"
+      ],
+      "practical_application": "Walk 10-15 min after largest meals.",
+      "relevance_to_achyut": "HIGH"
+    },
+    {
+      "id": "HORM-025",
+      "category": "insulin-sensitivity",
+      "fact": "Visceral fat produces inflammatory cytokines causing insulin resistance. Exercise preferentially reduces visceral fat. Visceral fat responds quickly to exercise.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Exercise-visceral fat meta-analyses"
+      ],
+      "practical_application": "Exercise + caloric deficit superior to diet alone for metabolic syndrome.",
+      "relevance_to_achyut": "CRITICAL"
+    },
+    {
+      "id": "HORM-026",
+      "category": "insulin-sensitivity",
+      "fact": "Replacing refined carbs with complex carbs improves insulin sensitivity even at same total carb intake. Minimum 25-30g fiber/day needed.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Glycemic index research"
+      ],
+      "practical_application": "Choose whole grains, lentils, vegetables over white rice and maida.",
+      "relevance_to_achyut": "HIGH"
+    },
+    {
+      "id": "HORM-027",
+      "category": "insulin-sensitivity",
+      "fact": "A single night of 4-hour sleep reduces insulin sensitivity by 30-50%. Chronic partial sleep deprivation replicates this.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Spiegel et al. sleep-deprivation insulin clamp studies"
+      ],
+      "practical_application": "Consistent 7-9 hours quality sleep is non-negotiable for metabolic health.",
+      "relevance_to_achyut": "CRITICAL"
+    },
+    {
+      "id": "HORM-028",
+      "category": "thyroid",
+      "fact": "Within 1-2 weeks of caloric restriction, T3 drops significantly and reverse T3 increases. This is the primary mechanism behind metabolic adaptation.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Caloric restriction-thyroid literature",
+        "Minnesota Starvation Experiment"
+      ],
+      "practical_application": "Include refeed days at maintenance every 5-7 days.",
+      "relevance_to_achyut": "HIGH"
+    },
+    {
+      "id": "HORM-029",
+      "category": "thyroid",
+      "fact": "Very low carb diets (<50g/day) further suppress T3. Keeping carbs at 150-200g/day during deficit protects thyroid function.",
+      "evidence_rating": "moderate",
+      "sources": [
+        "Low-carb-thyroid research"
+      ],
+      "practical_application": "Do not go very low carb during recomp. 150-180g/day is optimal.",
+      "relevance_to_achyut": "HIGH"
+    },
+    {
+      "id": "HORM-030",
+      "category": "thyroid",
+      "fact": "Reverse dieting (gradually increasing calories by 100-150/week post-cut) may help restore thyroid function and metabolic rate.",
+      "evidence_rating": "moderate",
+      "sources": [
+        "Bodybuilding metabolic adaptation research"
+      ],
+      "practical_application": "When reaching goal body fat, add 100-150 cal/week over 4-6 weeks.",
+      "relevance_to_achyut": "LOW (future reference)"
+    },
+    {
+      "id": "HORM-031",
+      "category": "thyroid",
+      "fact": "Thyroid requires iodine and selenium. Iodized salt generally provides adequate iodine. 2-3 Brazil nuts provide full daily selenium.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Thyroid nutrition literature"
+      ],
+      "practical_application": "Use iodized salt. Do not over-supplement iodine.",
+      "relevance_to_achyut": "LOW"
+    },
+    {
+      "id": "HORM-032",
+      "category": "alcohol",
+      "fact": "Alcohol increases cortisol, disrupts sleep architecture (reduces deep sleep 20-40%), decreases GH, impairs protein synthesis 24+ hours, and provides 7 kcal/g of empty calories.",
+      "evidence_rating": "strong",
+      "sources": [
+        "PMC9708857",
+        "PMC6571549"
+      ],
+      "practical_application": "Minimize alcohol entirely during active fat loss.",
+      "relevance_to_achyut": "MODERATE"
+    },
+    {
+      "id": "HORM-033",
+      "category": "protocol",
+      "fact": "Priority hierarchy for hormone optimization at BMI 40: Tier 1 (sleep study/OSA treatment, resistance training, 300-500 kcal deficit, post-meal walks, 7-9h sleep). Tier 2 (Vitamin D3, Magnesium, Ashwagandha, Fish oil, increase carbs to 150-180g). Avoid: test boosters, arginine, iron, very low carb, aggressive deficits.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Synthesis of all hormonal research"
+      ],
+      "practical_application": "Follow the tiered protocol.",
+      "relevance_to_achyut": "CRITICAL - actionable summary"
+    }
+  ]
+}

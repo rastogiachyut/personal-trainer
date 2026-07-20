@@ -1,0 +1,212 @@
+{
+  "category": "supplements-india",
+  "fact_count": 18,
+  "facts": [
+    {
+      "id": "SUP-001",
+      "category": "creatine",
+      "fact": "Creatine monohydrate increases strength 5-15%, training volume 8-20%, lean mass 1-3kg over 8-12 weeks. Loading: 20g/day for 5-7 days or 3-5g/day (saturation in 4 weeks). No cycling needed.",
+      "evidence_rating": "strong",
+      "sources": [
+        "PMC5469049",
+        "PMC8949037",
+        "PMC7871530"
+      ],
+      "practical_application": "5g daily, indefinitely. MuscleBlaze \u20b94-6/day.",
+      "relevance_to_achyut": "CRITICAL"
+    },
+    {
+      "id": "SUP-002",
+      "category": "protein",
+      "fact": "Whey protein has BV=104, highest of any source. 25-30g triggers maximal MPS (leucine threshold ~2.5-3g). Isolate > concentrate for lactose sensitivity.",
+      "evidence_rating": "strong",
+      "sources": [
+        "ISSN position stands"
+      ],
+      "practical_application": "Nakpro Platinum \u20b930-40/serving for 25g protein.",
+      "relevance_to_achyut": "HIGH"
+    },
+    {
+      "id": "SUP-003",
+      "category": "vitamin-d",
+      "fact": "70-90% of Indians are vitamin D deficient. D3 supplementation at 2000-4000 IU/day raises levels. Take with fat-containing meal. Test 25(OH)D before and after.",
+      "evidence_rating": "strong",
+      "sources": [
+        "PMC7752519",
+        "ICMR data"
+      ],
+      "practical_application": "Weekly 60K IU capsule if deficient, then 1000-2000 IU daily. \u20b91-2/day.",
+      "relevance_to_achyut": "HIGH"
+    },
+    {
+      "id": "SUP-004",
+      "category": "magnesium",
+      "fact": "Magnesium involved in 300+ enzymes. 50-60% deficient. Glycinate form best for absorption and sleep. 200-400mg evening dose improves sleep quality.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Magnesium-SHBG research",
+        "sleep RCTs"
+      ],
+      "practical_application": "Carbamide Forte Magnesium Glycinate \u20b97-10/day.",
+      "relevance_to_achyut": "HIGH"
+    },
+    {
+      "id": "SUP-005",
+      "category": "fish-oil",
+      "fact": "Omega-3 (EPA+DHA) reduces cortisol, inflammation, improves insulin sensitivity. Cohort of 2724 showed high omega-3 = lower cortisol.",
+      "evidence_rating": "strong",
+      "sources": [
+        "ScienceDirect omega-3-cortisol cohort",
+        "ISSN fish oil position stand"
+      ],
+      "practical_application": "HealthKart Triple Strength 2 caps/day for 1g EPA+DHA. \u20b98-12/day.",
+      "relevance_to_achyut": "HIGH"
+    },
+    {
+      "id": "SUP-006",
+      "category": "ashwagandha",
+      "fact": "KSM-66 at 300-600mg/day reduces cortisol 14-28%, reduces stress/anxiety, may increase testosterone 14-25% in stressed men, improves sleep, enhances strength gains.",
+      "evidence_rating": "strong",
+      "sources": [
+        "PMC6979308",
+        "PMC6438434",
+        "PMC6750292"
+      ],
+      "practical_application": "MuscleBlaze/Carbamide KSM-66 \u20b98-12/day. Evening dose.",
+      "relevance_to_achyut": "CRITICAL"
+    },
+    {
+      "id": "SUP-007",
+      "category": "caffeine",
+      "fact": "3-6 mg/kg pre-workout improves strength 5-8%, endurance 4-10%. Tolerance builds in 1-2 weeks. At 130kg: 400-780mg (start with 200mg).",
+      "evidence_rating": "strong",
+      "sources": [
+        "ISSN caffeine position stand"
+      ],
+      "practical_application": "Caffeine tablets \u20b92-3/dose or 2 cups black coffee. Training days only.",
+      "relevance_to_achyut": "MODERATE"
+    },
+    {
+      "id": "SUP-008",
+      "category": "citrulline",
+      "fact": "L-Citrulline 6-8g pre-workout improves blood flow, pump, high-rep performance. Superior to arginine (bypasses liver first-pass).",
+      "evidence_rating": "moderate",
+      "sources": [
+        "Citrulline-NO-performance studies"
+      ],
+      "practical_application": "\u20b935-60 per dose. Optional.",
+      "relevance_to_achyut": "LOW-MODERATE"
+    },
+    {
+      "id": "SUP-009",
+      "category": "multivitamin",
+      "fact": "Multivitamins fill gaps in restrictive diets. Avoid iron (Achyut ferritin is HIGH). Look for methylated folate and B12.",
+      "evidence_rating": "moderate",
+      "sources": [
+        "Multivitamin meta-analyses"
+      ],
+      "practical_application": "MuscleBlaze \u20b910-17/day if needed.",
+      "relevance_to_achyut": "LOW-MODERATE"
+    },
+    {
+      "id": "SUP-010",
+      "category": "b12",
+      "fact": "B12 deficiency is 40-70% prevalent in India due to vegetarian patterns. Causes fatigue, numbness, anemia. Vegans must supplement.",
+      "evidence_rating": "strong",
+      "sources": [
+        "ICMR B12 studies"
+      ],
+      "practical_application": "Methylcobalamin 1500mcg \u20b95-10/tablet.",
+      "relevance_to_achyut": "MODERATE"
+    },
+    {
+      "id": "SUP-011",
+      "category": "beta-alanine",
+      "fact": "Beta-alanine increases muscle carnosine, buffering lactic acid. Effective for 8-15+ rep sets. Less useful for low-rep strength.",
+      "evidence_rating": "moderate",
+      "sources": [
+        "ISSN beta-alanine position stand"
+      ],
+      "practical_application": "3.2-6.4g daily. Optional.",
+      "relevance_to_achyut": "LOW"
+    },
+    {
+      "id": "SUP-012",
+      "category": "theanine",
+      "fact": "L-Theanine 100-200mg promotes relaxed alertness. Smooths caffeine jitters. May improve sleep.",
+      "evidence_rating": "moderate",
+      "sources": [
+        "L-theanine-caffeine studies"
+      ],
+      "practical_application": "\u20b9500-800. Optional.",
+      "relevance_to_achyut": "LOW"
+    },
+    {
+      "id": "SUP-013",
+      "category": "digestive",
+      "fact": "Digestive enzymes help break down large protein meals. Probiotics support gut-brain axis. Papaya (papain) and pineapple (bromelain) are natural enzymes.",
+      "evidence_rating": "moderate",
+      "sources": [
+        "Probiotic-gut-brain research"
+      ],
+      "practical_application": "Eat papaya/pineapple with protein meals. Probiotic curd daily.",
+      "relevance_to_achyut": "LOW-MODERATE"
+    },
+    {
+      "id": "SUP-014",
+      "category": "avoid",
+      "fact": "Testosterone boosters (Tribulus, Fenugreek, Tongkat Ali) do NOT increase testosterone beyond normal ranges in healthy men. Save money.",
+      "evidence_rating": "weak",
+      "sources": [
+        "Cochrane-style reviews on test boosters"
+      ],
+      "practical_application": "Do not buy. Fat loss is the real testosterone booster.",
+      "relevance_to_achyut": "HIGH - saves money"
+    },
+    {
+      "id": "SUP-015",
+      "category": "avoid",
+      "fact": "BCAAs are redundant when consuming adequate protein (1.6g/kg+). Whey protein is 25% BCAA by weight.",
+      "evidence_rating": "weak",
+      "sources": [
+        "Scofeldt & Aragon meta-analysis"
+      ],
+      "practical_application": "Do not buy if hitting protein target.",
+      "relevance_to_achyut": "HIGH - saves money"
+    },
+    {
+      "id": "SUP-016",
+      "category": "avoid",
+      "fact": "Fat burners (L-Carnitine, CLA, Garcinia) show no significant fat loss in meta-analyses.",
+      "evidence_rating": "weak",
+      "sources": [
+        "Cochrane reviews of fat burners"
+      ],
+      "practical_application": "Caloric deficit + training is 100x more effective.",
+      "relevance_to_achyut": "HIGH - saves money"
+    },
+    {
+      "id": "SUP-017",
+      "category": "avoid",
+      "fact": "Iron supplements are CONTRAINDICATED given high ferritin. Excess iron is pro-oxidant and worsens oxidative stress and liver damage.",
+      "evidence_rating": "strong",
+      "sources": [
+        "Iron overload literature"
+      ],
+      "practical_application": "No iron supplements, no iron-containing multivitamins.",
+      "relevance_to_achyut": "CRITICAL - safety warning"
+    },
+    {
+      "id": "SUP-018",
+      "category": "deficiencies",
+      "fact": "Common Indian dietary deficiencies: Vitamin D (70-90%), B12 (40-70%), Zinc (20-30%), Magnesium (50-60%), Omega-3 (60-80%). Iron should NOT be supplemented given high ferritin.",
+      "evidence_rating": "strong",
+      "sources": [
+        "ICMR dietary surveys",
+        "NNMB data"
+      ],
+      "practical_application": "Get tested for D3, B12, zinc, magnesium. Correct deficiencies.",
+      "relevance_to_achyut": "HIGH"
+    }
+  ]
+}
