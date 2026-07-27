@@ -285,12 +285,15 @@
 
 **Total Sprint 5 output: 51 facts across 4 files**
 
-### Sprint 6 (Week of Aug 11-17) — Psychology, Longevity & Emerging Tech
-- [ ] Research behavioral psychology for fitness adherence (3-4 sources, 10 facts)
-- [ ] Research VO2 max / Zone 2 training compatibility with hypertrophy (3 sources, 7 facts)
-- [ ] Research wearables for training auto-regulation (3 sources, 5 facts)
-- [ ] Compile → `research/facts-psychology-behavior.md/json` + `research/facts-longevity-exercise.md/json`
-- [ ] Commit + push
+### Sprint 6 (Week of Jul 27) — Psychology, Longevity & Emerging Tech ✅
+- [x] Research behavioral psychology for fitness adherence (22 facts: implementation intentions, habit formation, identity, weekend effect, motivation decay, social support, mental frameworks)
+- [x] Research VO2 max / Zone 2 training compatibility with hypertrophy (21 facts: VO2 max mortality, Zone 2 protocols, strength for longevity, concurrent training 2022 meta-analysis update, inflammation management)
+- [x] Research wearables for training auto-regulation (12 facts: HRV monitoring, sleep tracking, readiness scores, CGMs, practical tech stacks)
+- [x] Enriched with 2022 Schumann meta-analysis (43 studies, 1,090 subjects) confirming interference effect is negligible
+- [x] Compile → `research/facts-psychology-behavior.md/json` (22 facts) + `research/facts-longevity-exercise.md/json` (21 facts) + `research/facts-wearables-tech.md/json` (12 facts)
+- [x] Commit + push
+
+**Total Sprint 6 output: 55 facts across 3 files**
 
 ### Final Sprint (Week of Aug 18-24) — Integration
 - [ ] Review all new facts for quality and relevance
