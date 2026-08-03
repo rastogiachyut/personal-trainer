@@ -295,7 +295,24 @@
 
 **Total Sprint 6 output: 55 facts across 3 files**
 
-### Final Sprint (Week of Aug 18-24) — Integration
+### Sprint 7 (Week of Aug 3) — Calisthenics & Bodyweight Progression ✅
+- [x] Research push-up progression system with biomechanical loading data (Suprak et al. JSCR — 64-75% BW distribution)
+- [x] Research pull-up progression with muscle activation profiling (Urbanczyk, Dickie, Ronai & Scibek)
+- [x] Research dip progression from bench dips to ring dips
+- [x] Research squat & lunge progressions for high body weight
+- [x] Research core training beyond planks (dynamic progression: dead bugs → dragon flag → L-sit)
+- [x] Research skill-based calisthenics (handstand, L-sit, muscle-up, front lever, planche)
+- [x] Research FRC (Functional Range Conditioning) — CARs, PAILs/RAILs for active mobility
+- [x] Research bodyweight vs weight training evidence base
+- [x] Research travel/home workout protocols (hotel room zero-equipment workout)
+- [x] Research high body weight safety considerations (joint stress, tendon adaptation timeline)
+- [x] Research isometric exercise & blood pressure (BJSM 270-trial meta-analysis — wall sits/planks lower BP most effectively)
+- [x] Compile → `research/facts-calisthenics.md/json` (38 facts)
+- [x] Commit + push
+
+**Total Sprint 7 output: 38 facts across 2 files**
+
+### Final Sprint (Week of Aug 18-24) — Integration ⬜ NEXT
 - [ ] Review all new facts for quality and relevance
 - [ ] Update `workout-generation-principles.md` with new applicable principles
 - [ ] Update `THE-PLAN.md` with new hacks integrated into Day A/B/C workouts
@@ -306,10 +323,10 @@
 
 ## 📈 Expected Output
 
-| Asset | Current | After Expansion |
-|-------|---------|----------------|
-| Total facts | 315+ | **500-600+** |
-| Fact databases | 3 | **10-12** |
+| Asset | Original | After Sprint 7 | After Final Sprint (Target) |
+|-------|----------|---------------|---------------------------|
+| Total facts | 315+ | **510+** | **510+ (refined)** |
+| Fact databases | 3 | **12** | **12 + INDEX.md** |
 | Research guides | 2 (33KB + 42KB) | **2 + 8-10 new fact files** |
 | Workout principles | 12 | **12-15** (updated with new findings) |
 | Source list | 20 | **30-35** |
