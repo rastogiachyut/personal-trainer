@@ -1,0 +1,344 @@
+[
+  {
+    "id": "CAL-001",
+    "category": "bodyweight-vs-weights",
+    "fact": "Bodyweight resistance training can produce meaningful muscle hypertrophy and strength gains when exercises are performed with sufficient intensity (proximity to failure), controlled tempo, and progressive overload via leverage changes rather than load changes.",
+    "evidence_rating": "strong",
+    "sources": ["ACSM Position Stand on Resistance Training (2022)", "Biomechanical research"],
+    "practical_application": "Bodyweight training is NOT inferior to weight training for muscle growth — it requires different progression methods (leverage, tempo, unilateral variations).",
+    "relevance_to_achyut": "HIGH — validates calisthenics as a real training modality"
+  },
+  {
+    "id": "CAL-002",
+    "category": "bodyweight-vs-weights",
+    "fact": "Weight training's primary advantage over bodyweight training is precise load incrementality — you can add 1.25 kg to a barbell, but not easily to a push-up.",
+    "evidence_rating": "moderate",
+    "sources": ["Coaching consensus", "Resistance training literature"],
+    "practical_application": "For precise hypertrophy, weight training is more efficient. For skill acquisition, travel fitness, and joint health, calisthenics excels. Combine both.",
+    "relevance_to_achyut": "HIGH — supports hybrid training approach"
+  },
+  {
+    "id": "CAL-003",
+    "category": "bodyweight-vs-weights",
+    "fact": "Bodyweight exercises are predominantly closed-chain, which activates more stabilizer muscles and closely mimics natural movement patterns compared to open-chain machine exercises.",
+    "evidence_rating": "strong",
+    "sources": ["Multiple EMG studies", "Exercise science textbooks"],
+    "practical_application": "Push-ups activate more serratus anterior and core than bench press. Pull-ups engage more stabilizers than lat pulldowns.",
+    "relevance_to_achyut": "MODERATE — supports including bodyweight exercises in a weight-training program"
+  },
+  {
+    "id": "CAL-004",
+    "category": "bodyweight-vs-weights",
+    "fact": "Bodyweight exercises typically involve multiple muscle groups simultaneously and require greater stabilization, resulting in higher caloric expenditure per minute compared to isolated machine exercises (3.5-8.0 METs depending on intensity).",
+    "evidence_rating": "moderate",
+    "sources": ["MET studies", "Calisthenics metabolic research"],
+    "practical_application": "Replacing some weighted isolation exercises with bodyweight compound movements can increase total energy expenditure during a cutting phase.",
+    "relevance_to_achyut": "HIGH for recomp goal"
+  },
+  {
+    "id": "CAL-005",
+    "category": "push-up",
+    "fact": "A standard push-up forces the upper body to support approximately 64-70% of total body weight in the up position and 70-75% in the down position. At 130 kg, that is ~83-97 kg of load.",
+    "evidence_rating": "strong",
+    "sources": ["Suprak et al., Journal of Strength & Conditioning Research"],
+    "practical_application": "Start at whichever progression allows 8-12 clean reps. Move to next harder variation at 3x15.",
+    "relevance_to_achyut": "CRITICAL — explains why push-ups are hard at 130 kg"
+  },
+  {
+    "id": "CAL-006",
+    "category": "push-up",
+    "fact": "Push-up difficulty can be systematically progressed through body positioning changes: wall (~40-50% BW) → incline (~50-60%) → knee (~54-62%) → standard (~64-70%) → decline (~70-75%) → diamond → archer → one-arm → planche.",
+    "evidence_rating": "strong",
+    "sources": ["Biomechanical analysis", "Calisthenics coaching consensus"],
+    "practical_application": "Advancement rule: move to next level when current reaches 3x15 with perfect form. For Achyut: likely starting at knee/incline. Goal: 3x10 standard by ~110 kg.",
+    "relevance_to_achyut": "CRITICAL — clear progression milestones tied to body weight"
+  },
+  {
+    "id": "CAL-007",
+    "category": "push-up",
+    "fact": "Hand placement significantly alters push-up muscle activation: wide = more chest, narrow/diamond = more triceps, decline (feet elevated) = upper chest and anterior deltoids.",
+    "evidence_rating": "moderate",
+    "sources": ["Cogley et al., JSCR — EMG studies on push-up variations"],
+    "practical_application": "Use different push-up variations to target different muscle groups, similar to bench press angles.",
+    "relevance_to_achyut": "MODERATE — workout variety and targeted development"
+  },
+  {
+    "id": "CAL-008",
+    "category": "push-up",
+    "fact": "Push-up bars or parallettes increase range of motion by 5-10 cm, allowing deeper descent and greater muscle stretch — enhancing hypertrophy based on the lengthened partials principle.",
+    "evidence_rating": "moderate",
+    "sources": ["Biomechanical reasoning consistent with lengthened partial research"],
+    "practical_application": "Use push-up bars once standard push-ups become easy. Dumbbells work as makeshift handles.",
+    "relevance_to_achyut": "MODERATE — optimization once standard push-ups mastered"
+  },
+  {
+    "id": "CAL-009",
+    "category": "pull-up",
+    "fact": "Pull-ups primarily target the latissimus dorsi with significant activation of biceps, brachialis, trapezius, rhomboids, infraspinatus, teres major, and core. Activation sequence: traps/infraspinatus at bottom → lats/biceps in middle → triceps/subscapularis at top.",
+    "evidence_rating": "strong",
+    "sources": ["Urbanczyk et al. EMG studies", "Dickie et al. 2017", "Ronai & Scibek 2014"],
+    "practical_application": "The pull-up is arguably the single best upper-body bodyweight exercise and cannot be fully replicated by machines.",
+    "relevance_to_achyut": "CRITICAL — gold standard of upper-body pulling strength"
+  },
+  {
+    "id": "CAL-010",
+    "category": "pull-up",
+    "fact": "At 130 kg, a pull-up requires pulling ~100% of body weight — equivalent to a 130 kg lat pulldown. A first unassisted pull-up is realistic at approximately 105-110 kg body weight.",
+    "evidence_rating": "strong",
+    "sources": ["Physics of bodyweight training", "Strength standards"],
+    "practical_application": "Don't expect a full pull-up at 130 kg. DO train the progression path. Every 5 kg lost makes pull-ups ~5% easier.",
+    "relevance_to_achyut": "CRITICAL — sets realistic expectations and motivation"
+  },
+  {
+    "id": "CAL-011",
+    "category": "pull-up",
+    "fact": "Pull-up progression: dead hangs → active hangs → scapular pull-ups → band-assisted → negative pull-ups (3-5 sec lowering) → full pull-ups → weighted → muscle-ups → one-arm.",
+    "evidence_rating": "strong",
+    "sources": ["Calisthenics coaching consensus", "Ronai & Scibek 2014, Strength & Conditioning Journal"],
+    "practical_application": "For Achyut: dead hangs → scapular pull-ups → band-assisted. Negative-only training (jump up, lower slowly) is extremely effective, 3x5, 2-3x/week.",
+    "relevance_to_achyut": "CRITICAL — exact progression path"
+  },
+  {
+    "id": "CAL-012",
+    "category": "pull-up",
+    "fact": "A grip 20-50% wider than shoulder width is biomechanically optimal and freely chosen. Excessively wide grips increase injury risk. Shoulder-width pronated grip has lowest impingement risk.",
+    "evidence_rating": "moderate",
+    "sources": ["Ortega et al.", "Prinold et al. shoulder impingement study"],
+    "practical_application": "Use shoulder-width to moderately wide grip. Switch to neutral grip if shoulders feel strained.",
+    "relevance_to_achyut": "HIGH — shoulder safety"
+  },
+  {
+    "id": "CAL-013",
+    "category": "pull-up",
+    "fact": "Kipping pull-ups (using body swing momentum) have lower upper-body muscle activation and higher injury risk than strict pull-ups. Strict pull-ups are superior for muscle building.",
+    "evidence_rating": "moderate",
+    "sources": ["EMG comparison studies", "CrossFit injury literature"],
+    "practical_application": "Always perform pull-ups with strict form for maximum muscle activation and minimum injury risk.",
+    "relevance_to_achyut": "HIGH — prevents injury and maximizes stimulus"
+  },
+  {
+    "id": "CAL-014",
+    "category": "squat",
+    "fact": "Bodyweight squat targets quadriceps femoris, gluteus maximus, adductor magnus, and soleus with isometric stabilization from erector spinae and abdominals. At 130 kg, it is significant resistance.",
+    "evidence_rating": "strong",
+    "sources": ["ACSM exercise library", "Biomechanics research"],
+    "practical_application": "Bodyweight squats at 130 kg are effective leg exercise on their own. 3x15-20 is solid working volume.",
+    "relevance_to_achyut": "HIGH — legit leg training at high body weight"
+  },
+  {
+    "id": "CAL-015",
+    "category": "squat",
+    "fact": "Squat progression: assisted squats → bodyweight full squats → tempo squats (3-4 sec descent) → Bulgarian split squats → pistol squat progression → jump squats.",
+    "evidence_rating": "moderate",
+    "sources": ["Calisthenics coaching consensus"],
+    "practical_application": "Progress to Bulgarian split squats once bodyweight squats reach 3x20. Wait until <100 kg for pistol squats due to knee stress.",
+    "relevance_to_achyut": "HIGH — clear leg progression"
+  },
+  {
+    "id": "CAL-016",
+    "category": "squat",
+    "fact": "Lunges are a unilateral compound leg exercise training quads, glutes, and hamstrings while challenging balance and core stability. Reverse lunges place less shear force on the patellar tendon than forward lunges.",
+    "evidence_rating": "strong",
+    "sources": ["General exercise science consensus"],
+    "practical_application": "At 130 kg: reverse lunges, 3x10/leg. Pair with bodyweight squats for comprehensive leg development.",
+    "relevance_to_achyut": "HIGH — practical and accessible"
+  },
+  {
+    "id": "CAL-017",
+    "category": "dip",
+    "fact": "Dips target triceps brachii, pectoralis major, and anterior deltoids with rhomboid stabilization. Close-grip = triceps emphasis; wide-grip = chest emphasis. Dips are the pushing equivalent of pull-ups.",
+    "evidence_rating": "strong",
+    "sources": ["exrx.net muscle activation data", "Wikipedia biomechanics"],
+    "practical_application": "At 130 kg: start with bench dips. Parallel bar dips come as strength improves and weight decreases.",
+    "relevance_to_achyut": "HIGH — completes upper-body pushing matrix"
+  },
+  {
+    "id": "CAL-018",
+    "category": "dip",
+    "fact": "Dip progression: bench dips (feet on floor) → bench dips (feet elevated) → assisted parallel bar dips → parallel bar dips → weighted dips → ring dips → Russian dips → straight bar dips.",
+    "evidence_rating": "moderate",
+    "sources": ["Calisthenics coaching consensus", "King of the Gym reference"],
+    "practical_application": "Start with bench dips at home. Goal: parallel bar dips by ~110 kg body weight.",
+    "relevance_to_achyut": "HIGH — clear progression from accessible to advanced"
+  },
+  {
+    "id": "CAL-019",
+    "category": "core",
+    "fact": "The plank is an isometric exercise that builds core endurance but does NOT build visible ab muscle (hypertrophy) because it lacks dynamic contraction. Once you can hold 60+ seconds, additional time yields diminishing returns.",
+    "evidence_rating": "strong",
+    "sources": ["British Journal of Sports Medicine meta-analysis (270 trials)", "Harvard Health"],
+    "practical_application": "Use planks for base endurance (3x45-60s), then progress to dynamic exercises for ab development.",
+    "relevance_to_achyut": "MODERATE — necessary but not sufficient"
+  },
+  {
+    "id": "CAL-020",
+    "category": "core",
+    "fact": "For visible ab development, dynamic progression is needed: dead bugs → planks → hollow body holds → lying leg raises → hanging knee raises → ab wheel rollouts → hanging straight leg raises → dragon flag → L-sit → front lever.",
+    "evidence_rating": "moderate",
+    "sources": ["Gymnastics training literature", "Core exercise EMG studies"],
+    "practical_application": "Treat abs like any other muscle: 8-15 reps, progressive overload, controlled tempo. Start with dead bugs + planks.",
+    "relevance_to_achyut": "HIGH — complete ab development roadmap"
+  },
+  {
+    "id": "CAL-021",
+    "category": "core",
+    "fact": "The hollow body hold is a gymnastics fundamental building deep core strength (transverse abdominis + rectus abdominis). It is the foundation for all advanced calisthenics skills (L-sit, front lever, planche, muscle-up).",
+    "evidence_rating": "moderate",
+    "sources": ["Gymnastics training methodology"],
+    "practical_application": "Add 3x20-30s hollow body holds to every workout. Progress from tuck hold to full extension.",
+    "relevance_to_achyut": "HIGH — foundational for skill progression"
+  },
+  {
+    "id": "CAL-022",
+    "category": "travel-home",
+    "fact": "Bodyweight exercises can maintain muscle mass during gym breaks with 2 sessions/week, 3-4 sets per muscle group, taken to 1-3 RIR. Maintenance requires less volume than building.",
+    "evidence_rating": "strong",
+    "sources": ["Detraining literature", "ACSM maintenance guidelines"],
+    "practical_application": "During travel: 3 sessions/week of push-ups, rows (table/band), squats, lunges, planks. 3-4 sets each to near-failure.",
+    "relevance_to_achyut": "CRITICAL — ensures continuity during disruptions"
+  },
+  {
+    "id": "CAL-023",
+    "category": "travel-home",
+    "fact": "A full-body bodyweight workout can be done in a hotel room with zero equipment in under 25 minutes using two circuits of push-ups, lunges, planks, pike push-ups, glute bridges, and dead bugs.",
+    "evidence_rating": "moderate",
+    "sources": ["Coaching consensus", "Program design principles"],
+    "practical_application": "Save this protocol for travel days. Apply progressive overload via slow tempo, pauses, reduced rest, or harder variations.",
+    "relevance_to_achyut": "HIGH — practical continuity tool"
+  },
+  {
+    "id": "CAL-024",
+    "category": "travel-home",
+    "fact": "Resistance bands (~₹500-1000), doorway pull-up bar (~₹800-1500), push-up bars (~₹500-1200), and ab wheel (~₹300-500) can create a complete home/travel gym covering 80% of commercial gym bodyweight training for under ₹3000 total.",
+    "evidence_rating": "moderate",
+    "sources": ["Equipment cost analysis (India market)"],
+    "practical_application": "These four items are the highest cost-to-benefit ratio investments for home calisthenics training.",
+    "relevance_to_achyut": "HIGH — low-cost, high-impact investments"
+  },
+  {
+    "id": "CAL-025",
+    "category": "skill",
+    "fact": "The handstand builds exceptional shoulder strength, balance, and core stability. Progression: wall plank → wall walk-up → wall-assisted hold → pike push-ups → kick-up to wall → freestanding. Timeline: 3-6 months for wall-assisted, 1-2 years for freestanding.",
+    "evidence_rating": "moderate",
+    "sources": ["Gymnastics coaching methodology"],
+    "practical_application": "Long-term goal. Start with wall planks now — they build shoulder strength complementing weight training.",
+    "relevance_to_achyut": "MODERATE — aspirational goal with real training benefits"
+  },
+  {
+    "id": "CAL-026",
+    "category": "skill",
+    "fact": "The L-sit requires exceptional core, hip flexor, and triceps strength. Progression: tuck L-sit → one-leg extended → full L-sit → V-sit. Even 10 seconds is a good starting point; build to 30s over months.",
+    "evidence_rating": "moderate",
+    "sources": ["Gymnastics training literature"],
+    "practical_application": "Start with tuck holds on floor or push-up bars. L-sit demands active compression (hamstring flexibility + core strength).",
+    "relevance_to_achyut": "MODERATE — excellent multi-quality developer"
+  },
+  {
+    "id": "CAL-027",
+    "category": "skill",
+    "fact": "The muscle-up combines a pull-up with a dip. Prerequisites: 8-10 strict pull-ups AND 8-10 strict dips. Progression: explosive pull-ups → negative muscle-ups → band-assisted → kipping → strict. Timeline: 6-12 months after meeting prerequisites.",
+    "evidence_rating": "moderate",
+    "sources": ["Walker et al. 2023, Int. J. Exercise Science 16(1)", "Calisthenics coaching"],
+    "practical_application": "Long-term aspirational goal. Realistic after <105 kg body weight + 10 pull-ups + 10 dips.",
+    "relevance_to_achyut": "LOW short-term, HIGH long-term motivation"
+  },
+  {
+    "id": "CAL-028",
+    "category": "skill",
+    "fact": "Front lever and planche are elite calisthenics skills requiring 2-4 years of specific training. Progression involves tuck → advanced tuck → single-leg → straddle → full positions.",
+    "evidence_rating": "weak",
+    "sources": ["Calisthenics community consensus"],
+    "practical_application": "Inspiration for long-term training. The progressions (tuck holds) are excellent exercises independently.",
+    "relevance_to_achyut": "LOW short-term, aspirational"
+  },
+  {
+    "id": "CAL-029",
+    "category": "frc-mobility",
+    "fact": "Functional Range Conditioning (FRC), developed by Dr. Andreo Spina, expands active ranges of motion (usable mobility) rather than passive flexibility. It involves CARs, PAILs/RAILs, and end-range isometric holds.",
+    "evidence_rating": "moderate",
+    "sources": ["Dr. Andreo Spina — FRC system", "Clinical practice in PT and sports performance"],
+    "practical_application": "Add 5-10 minutes of CARs to daily warm-up. Focus on shoulders, hips, wrists, spine. Active ROM matters more than passive for performance.",
+    "relevance_to_achyut": "HIGH — active mobility is the missing link in most programs"
+  },
+  {
+    "id": "CAL-030",
+    "category": "frc-mobility",
+    "fact": "CARs (Controlled Articular Rotations) involve moving a joint through its fullest range slowly with maximum muscular tension, as if pushing through thick resistance. Daily practice takes 5 minutes.",
+    "evidence_rating": "moderate",
+    "sources": ["FRC methodology"],
+    "practical_application": "Shoulder CARs, hip CARs, spine CARs, wrist CARs — 3 reps per direction. Key cue: move as if through thick mud.",
+    "relevance_to_achyut": "HIGH — practical, quick, high-impact, especially for wrists and shoulders"
+  },
+  {
+    "id": "CAL-031",
+    "category": "frc-mobility",
+    "fact": "PAILs (Progressive Angular Isometric Loading) and RAILs (Regressive Angular Isometric Loading) use isometric contractions at end-range to expand usable mobility. PAIL: stretched muscle contracts 15s building to max. RAIL: antagonist pulls deeper 10s.",
+    "evidence_rating": "weak",
+    "sources": ["FRC methodology", "Emerging mobility research"],
+    "practical_application": "Use for specific restricted areas (hip flexors, shoulders, hamstrings). 2-3 sets per muscle group, 2-3x/week.",
+    "relevance_to_achyut": "MODERATE — advanced technique for targeted improvement"
+  },
+  {
+    "id": "CAL-032",
+    "category": "integration",
+    "fact": "Combining weight training with calisthenics produces superior results to either alone — weights provide precise overload, bodyweight adds closed-chain stabilization, skill acquisition, and variety.",
+    "evidence_rating": "strong",
+    "sources": ["General training principles", "Athlete programming consensus"],
+    "practical_application": "Primary compounds: barbell. Accessories: bodyweight (push-ups, dips, pull-ups). Warm-up: CARs + mobility. Travel: full bodyweight protocol.",
+    "relevance_to_achyut": "HIGH — optimal training philosophy"
+  },
+  {
+    "id": "CAL-033",
+    "category": "integration",
+    "fact": "Bodyweight exercises as warm-up activators before heavy lifting improve performance and reduce injury risk. Push-ups before bench, pull-ups before rows, bodyweight squats before barbell squats.",
+    "evidence_rating": "moderate",
+    "sources": ["Warm-up activation literature"],
+    "practical_application": "Use bodyweight movements as warm-up activation sets before every weighted compound lift.",
+    "relevance_to_achyut": "HIGH — immediately applicable"
+  },
+  {
+    "id": "CAL-034",
+    "category": "high-bw-safety",
+    "fact": "Bodyweight exercises at 130 kg place significant joint stress — wrists (push-ups: ~83-97 kg load), shoulders (pull-ups/dips: ~full BW), and knees (squats: 3-7x BW compressive force on patellofemoral joint). Joint tissue adapts slower than muscle.",
+    "evidence_rating": "strong",
+    "sources": ["Joint biomechanics research", "Tendon physiology"],
+    "practical_application": "Progress slowly. Use push-up bars for neutral wrists. If joints hurt, regress the exercise. Stay at each progression level 2-4 weeks minimum.",
+    "relevance_to_achyut": "CRITICAL — injury prevention at high body weight"
+  },
+  {
+    "id": "CAL-035",
+    "category": "high-bw-safety",
+    "fact": "For bodyweight exercises, losing body weight creates automatic progressive overload — each kg lost makes exercises proportionally easier. Going from 130 to 120 kg makes push-ups ~6 kg lighter.",
+    "evidence_rating": "strong",
+    "sources": ["Physics of bodyweight training"],
+    "practical_application": "Frame weight loss as skill acquisition: 'At 110 kg I'll do my first pull-up. At 100 kg I'll do 5.' Every kg lost is a direct calisthenics upgrade.",
+    "relevance_to_achyut": "CRITICAL — powerful motivation strategy"
+  },
+  {
+    "id": "CAL-036",
+    "category": "high-bw-safety",
+    "fact": "Tendons and ligaments adapt to loading much more slowly than muscles — 6-12 months for significant structural adaptation vs 4-8 weeks for visible muscle growth. This creates a window where enthusiasm outpaces structural readiness.",
+    "evidence_rating": "strong",
+    "sources": ["Tendon physiology research", "Bauhaus et al. reviews"],
+    "practical_application": "Even if muscles feel ready, don't jump 2-3 progression levels ahead. Patience is a safety tool.",
+    "relevance_to_achyut": "HIGH — prevents classic beginner injury cycle"
+  },
+  {
+    "id": "CAL-037",
+    "category": "health-bonus",
+    "fact": "A BJSM meta-analysis of 270 trials found isometric exercises (wall sits, planks) are the MOST effective exercise type for reducing resting blood pressure — more than aerobic, dynamic resistance, or HIIT. Systolic BP reduced ~8.24 mmHg, diastolic ~4 mmHg.",
+    "evidence_rating": "strong",
+    "sources": ["Edwards et al. 2023, British Journal of Sports Medicine (270 trials)"],
+    "practical_application": "At BMI 40 with hypertension risk, wall sits and planks have direct cardiovascular health benefits beyond muscle building.",
+    "relevance_to_achyut": "HIGH — direct health benefit for risk profile"
+  },
+  {
+    "id": "CAL-038",
+    "category": "health-bonus",
+    "fact": "The wall sit is a simple isometric exercise that builds leg endurance, improves knee joint health (isometric at 90° builds tendon/ligament strength without dynamic shear), and lowers blood pressure. Protocol: 4x2-min holds with 2-min rest, 3x/week.",
+    "evidence_rating": "moderate",
+    "sources": ["BJSM meta-analysis", "Knee rehabilitation literature"],
+    "practical_application": "Add 3x60s wall sits to end of leg workouts. Progress to single-leg. Only 24 min/week for BP benefits per studies.",
+    "relevance_to_achyut": "HIGH — simple, accessible, multiple benefits"
+  }
+]
