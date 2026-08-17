@@ -266,4 +266,148 @@ When generating a workout for Achyut, the system:
 | 15 | Examine.com | Supplement evidence (creatine, protein, caffeine, vitamin D, magnesium) |
 
 **Full source list:** `research/SOURCE-PLAN.md`
-**Fact databases:** `research/facts-database.md` (150 facts), `research/facts-body-hacking.md` (113 facts), `research/facts-flexibility.md` (52 facts)
+**Fact databases:** See `research/INDEX.md` for the complete master index of all 12+ fact databases (500+ facts)
+
+---
+
+## 13. Superset Integration for Time Efficiency (Sprint 4 Research)
+
+**Principle:** Use agonist-antagonist supersets to cut session duration ~50% while maintaining — or even increasing — total training volume.
+
+**Research basis:**
+- 2025 meta-analysis (Zhang et al., Sports Med, 19 studies, n=313) shows supersets produce identical hypertrophy (SMD = -0.05), strength (SMD = 0.10), and muscle activation (SMD = 0.01) compared to traditional sets
+- Agonist-antagonist supersets actually INCREASE total rep volume (SMD = 0.68) due to reciprocal inhibition — working the antagonist rests the agonist
+- Similar-biomechanical supersets (two exercises for same muscle) REDUCE volume (SMD = -1.08) — avoid these
+- Supersets double as metabolic conditioning: higher lactate, energy expenditure, and heart rate
+
+**Application:**
+- Pair opposing movements: bench press + row, lat pulldown + overhead press, leg extension + leg curl
+- Start with 2-3 superset pairs per session, not all exercises
+- Use on isolation work (curls + pushdowns) as finishers
+- Source: `research/facts-workout-hacks.md` (WH-001 to WH-010)
+
+---
+
+## 14. Lengthened Partials & ROM Optimization (Sprint 4 Research)
+
+**Principle:** When mobility or joint constraints limit full ROM, training at long muscle lengths (stretched position partials) is NOT inferior to full ROM for hypertrophy. Use this to work around mobility limitations safely.
+
+**Research basis:**
+- Wolf et al. 2025 RCT (8 weeks, 30 trained participants) — lengthened partials produce similar hypertrophy to full ROM (Bayes factors 0.16-0.30 supporting equivalence)
+- 2024 studies show training muscles at long lengths may produce SUPERIOR hypertrophy in some exercises (especially hamstrings, pecs)
+- At 130 kg, squat/deadlift mobility may be limited — partials from the bottom position are a valid alternative, not a compromise
+
+**Application:**
+- If Achyut can't achieve full depth on squats due to mobility or knee comfort, deep partial squats are hypertrophy-equivalent
+- For Romanian deadlifts, emphasize the bottom stretched position — this is where maximal hypertrophy stimulus occurs
+- Source: `research/facts-workout-hacks.md` (WH-011 to WH-018)
+
+---
+
+## 15. Eccentric Tempo Control (Sprint 4 Research)
+
+**Principle:** Control the eccentric (lowering) phase for ~2-3 seconds on all exercises. This is the single biggest technique improvement for beginners — most novices drop weights.
+
+**Research basis:**
+- Schoenfeld 2015 meta-analysis: rep durations 0.5-8s produce similar hypertrophy when taken to failure, but >10s reps are inferior
+- Krztofik et al. 2019: ~2s controlled eccentric maximizes hypertrophy while avoiding excessive muscle damage
+- Eccentric training is particularly effective for tendon health and joint protection — critical at 130 kg
+- Žigmund et al. 2026: eccentric-oriented training improves tendon health and muscle morphology
+
+**Application:**
+- Standard tempo: 3-1-1-0 (3s eccentric, 1s bottom pause, 1s concentric, no top pause) for compound lifts
+- For isolation work: 2-0-1-0 (faster tempo, more pump)
+- Don't go super-slow (>5s) — reduces total volume without extra benefit
+- Source: `research/facts-advanced-training.md` (Facts 7-10); `research/facts-workout-hacks.md` (WH-009)
+
+---
+
+## 16. Zone 2 Cardio Integration for Longevity + Recomp (Sprint 6 Research)
+
+**Principle:** Add 2-3 sessions of Zone 2 cardio (30-45 min brisk walking) per week alongside resistance training. This builds cardiovascular fitness (the #1 mortality predictor) with minimal interference to hypertrophy.
+
+**Research basis:**
+- VO2 max is the single strongest predictor of all-cause mortality — stronger than smoking, diabetes, or obesity (Mandsager et al. 2018, JAMA, 122,007 patients)
+- "Fat but fit" (overweight + good fitness) has LOWER mortality than "normal weight but unfit"
+- Schumann 2022 meta-analysis (43 studies, 1,090 subjects): concurrent training (cardio + lifting) interference effect is negligible — you can build muscle AND cardio simultaneously
+- Zone 2 improves insulin sensitivity independently of weight loss — directly addresses metabolic syndrome
+- At 130 kg, brisk walking IS Zone 2 — no running needed
+
+**Application:**
+- 2-3 × 30-45 min brisk walks per week on non-lifting days or after lifting sessions
+- Talk test: if you can hold a conversation, you're in Zone 2
+- This is NOT optional for longevity — cardiorespiratory fitness matters as much as strength
+- Source: `research/facts-longevity-exercise.md` (LON-001 to LON-007)
+
+---
+
+## 17. BFR Training for Joint-Friendly Hypertrophy (Sprint 1/4 Research)
+
+**Principle:** Blood Flow Restriction (BFR) with light loads (20-30% 1RM) produces hypertrophy equivalent to heavy training. Use as an accessory tool for joint-friendly muscle growth, especially during deload weeks or when joints need a break.
+
+**Research basis:**
+- Oborn et al. 2025 (umbrella review of 47 meta-analyses, 265 studies): BFR + low load significantly greater hypertrophy (SMD = 0.39) and strength (SMD = 0.61) vs low load alone
+- BFR protocol: 30 reps set 1, 15 reps sets 2-4, at 20-30% 1RM, 30s rest, cuff at 40-50% arterial occlusion pressure
+- BFR does NOT add benefit to heavy training (≥60% 1RM) — use only with light loads
+- BFR also improves aerobic fitness, vascular health, and blood pressure
+
+**Application:**
+- Use BFR bands on light accessory work (leg extensions, arm curls, calf raises) during deload weeks
+- Can use knee wraps or elastic cuffs — doesn't need specialized equipment
+- Walking with BFR cuffs can serve as low-impact cardio at 130 kg
+- Source: `research/facts-advanced-training.md` (Facts 1-6)
+
+---
+
+## 18. Micro-Loading for Upper Body Progression (Sprint 4 Research)
+
+**Principle:** Use 1.25 kg plates (or fractional plates) for upper body lifts where 5 kg jumps are too large. This prevents stalling and enables consistent progressive overload.
+
+**Research basis:**
+- Small incremental loading sustains progressive overload trajectory (RP, strength training literature)
+- Upper body exercises (curls, lateral raises, overhead press) have smaller strength increments than lower body — 2.5 kg jumps are often too much
+- Micro-loading is especially important for isolation exercises where the absolute load is low (e.g., going from 7.5 kg to 10 kg curls is a 33% jump)
+
+**Application:**
+- Get 1.25 kg plates (or 0.5/1 kg fractional plates) for Club Viva sessions
+- Use for: DB curls, lateral raises, tricep pushdowns, overhead press
+- If stuck at a weight for 2+ sessions, try micro-loading instead of forcing a bigger jump
+- Source: `research/facts-workout-hacks.md` (Gym Efficiency Hacks)
+
+---
+
+## 19. Behavioral Consistency Systems (Sprint 6 Research)
+
+**Principle:** Long-term success depends more on adherence systems than on optimal programming. Use implementation intentions, identity-based habits, and the weekend protocol to maintain consistency.
+
+**Research basis:**
+- Gollwitzer & Sheeran 2006 meta-analysis (94 studies): "if-then" plans increase exercise adherence 2-3x (d = 0.65)
+- Lally et al. 2010: habits take average 66 days to form (range 18-254); exercise habits closer to 90+ days
+- Weekend effect: adults consume 200-300 extra kcal/day on weekends avg — plan for it
+- Motivation decay is predictable: Weeks 3-4 (novelty wears off), Months 2-3 (results slow), Month 6 (plateau)
+
+**Application:**
+- Schedule gym sessions as non-negotiable calendar events with specific if-then plans
+- Track streaks — don't break the chain (Seinfeld method)
+- Expect motivation dips at Weeks 3-4 and Months 2-3 — pre-plan coping responses
+- Identity shift: "I am a person who lifts" > "I'm trying to lose weight"
+- Source: `research/facts-psychology-behavior.md` (PSY-001 to PSY-022)
+
+---
+
+## 20. Calisthenics as Complementary Training (Sprint 7 Research)
+
+**Principle:** Bodyweight exercises complement gym training — especially for travel days, gym breaks, and as warm-up activation. At 130 kg, calisthenics difficulty decreases as body weight drops, creating automatic progressive overload.
+
+**Research basis:**
+- Bodyweight training produces genuine hypertrophy when taken close to failure (RIR 0-3) — ACSM 2022 Position Stand
+- Closed-chain exercises (push-ups, pull-ups) activate more stabilizer muscles than open-chain machine equivalents
+- At 130 kg, push-ups at ~64-75% body weight load; as weight drops to 100 kg, the absolute load decreases, but relative difficulty also decreases — a dual benefit
+- Isometric exercises (wall sits, planks) are the most effective exercise type for lowering blood pressure (BJSM 270-trial meta-analysis)
+
+**Application:**
+- Warm-up: include push-up progression (wall → incline → knee → standard) as activation before bench/chest work
+- Travel: zero-equipment hotel room workout (push-ups, squats, plank, glute bridges)
+- Dead hangs for grip strength progression (start with 10s holds)
+- Wall sits for blood pressure management (isometric protocol: 4 × 2 min holds)
+- Source: `research/facts-calisthenics.md` (CAL-001 to CAL-038)

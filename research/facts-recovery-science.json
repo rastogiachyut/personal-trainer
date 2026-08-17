@@ -1,0 +1,332 @@
+[
+  {
+    "id": "RS-001",
+    "category": "recovery-science",
+    "subcategory": "oversleeping",
+    "fact": "Normal adult sleep need is 7-9 hours. Athletes in training may legitimately need 8-10 hours. Consistently sleeping more than 9 hours is considered clinical oversleeping, and 10+ hours with persistent daytime sleepiness requires medical evaluation.",
+    "evidence_rating": "strong",
+    "sources": ["Sleep Foundation", "ACSM"],
+    "practical_application": "Sleeping 12-14 hours is NOT a normal response to beginner training. Anything beyond 10 hours consistently signals a medical issue like sleep apnea, nutrient deficiency, or thyroid dysfunction.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "RS-002",
+    "category": "recovery-science",
+    "subcategory": "oversleeping",
+    "fact": "1-2 extra hours of sleep for the first few days after starting exercise is normal adaptation. However, sleeping more than 10 hours after the first week, or oversleeping persisting beyond 1-2 weeks, is pathological. Key differentiator: if extra sleep makes you feel rested it is normal; if you sleep 14 hours and still feel exhausted, something is wrong.",
+    "evidence_rating": "strong",
+    "sources": ["Sleep Foundation", "AASM"],
+    "practical_application": "Sleeping 14 hours and still being tired means the sleep is not restorative, pointing to poor sleep quality (apnea) or a severe energy deficit.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "RS-003",
+    "category": "recovery-science",
+    "subcategory": "oversleeping",
+    "fact": "Caloric deficit combined with new resistance training creates an energy crash. New training creates novel muscle damage requiring extra protein synthesis (costing ~20-25% of protein calories just processing). At 100-130g carbs/day with training, glycogen stores will be suboptimal, causing perceived starvation and extreme lethargy.",
+    "evidence_rating": "strong",
+    "sources": ["ACSM Position Stand"],
+    "practical_application": "Increasing carbs to 150-180g while maintaining total calories (reducing fat slightly) would likely improve energy significantly.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "RS-004",
+    "category": "recovery-science",
+    "subcategory": "sleep-quality",
+    "fact": "Sleep architecture (time in deep/REM sleep) matters more than total time in bed. Poor sleep quality means 14 hours of sleep can deliver less restorative benefit than 7 hours of high-quality sleep. Indicators of poor quality: waking unrefreshed, morning headaches, daytime sleepiness, brain fog.",
+    "evidence_rating": "strong",
+    "sources": ["Mayo Clinic", "Sleep Foundation"],
+    "practical_application": "The goal is not to sleep MORE but to sleep BETTER. 14 hours of fragmented, apnea-disrupted sleep is worse than 7 hours of uninterrupted deep sleep.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "RS-005",
+    "category": "recovery-science",
+    "subcategory": "oversleeping",
+    "fact": "Medical conditions that cause oversleeping and fatigue include: sleep apnea (#1 cause in overweight individuals), hypothyroidism, iron deficiency anemia, vitamin D deficiency, depression (atypical presentation with hypersomnia), and chronic fatigue syndrome.",
+    "evidence_rating": "strong",
+    "sources": ["Sleep Foundation", "Mayo Clinic"],
+    "practical_application": "At BMI 40 with oversleeping and fatigue, sleep apnea should be the leading hypothesis. Blood tests should also screen for thyroid, iron, and vitamin D.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "RS-006",
+    "category": "recovery-science",
+    "subcategory": "sleep-apnea",
+    "fact": "At BMI greater than 35, OSA prevalence is estimated at 50-80% in adults. At BMI greater than 40, risk increases to 80-90%. Men are 2-3x more likely to have OSA than women. The combination of BMI 40 + male + age 33+ represents very high OSA risk.",
+    "evidence_rating": "strong",
+    "sources": ["Multiple studies", "Mayo Clinic"],
+    "practical_application": "At these statistics, OSA should be considered the DEFAULT assumption until ruled out by a sleep study, not a remote possibility.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "RS-007",
+    "category": "recovery-science",
+    "subcategory": "sleep-apnea",
+    "fact": "OSA symptoms include: loud snoring, observed breathing stops during sleep, gasping for air, awakening with dry mouth, morning headaches, difficulty staying asleep, excessive daytime sleepiness, trouble paying attention, and irritability.",
+    "evidence_rating": "strong",
+    "sources": ["Mayo Clinic"],
+    "practical_application": "Key symptoms for screening: excessive daytime sleepiness despite long sleep, and morning fatigue. Ask family/roommates about snoring and breathing pauses.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "RS-008",
+    "category": "recovery-science",
+    "subcategory": "sleep-apnea",
+    "fact": "The STOP-Bang questionnaire is a validated 8-question OSA screening tool. Scoring: 0-2 low risk, 3-4 moderate risk, 5-8 high risk for moderate-to-severe OSA. At BMI 40, male gender, likely snoring, tiredness, and large neck circumference, the score is typically 5-6 (HIGH RISK).",
+    "evidence_rating": "strong",
+    "sources": ["Sleep Foundation"],
+    "practical_application": "Achyut's likely STOP-Bang score of 5-6 places him in HIGH RISK category. This warrants an immediate sleep study referral.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "RS-009",
+    "category": "recovery-science",
+    "subcategory": "sleep-apnea",
+    "fact": "If OSA is suspected: see a doctor/pulmonologist/sleep specialist for a sleep study (polysomnography). Home sleep studies are now available. Weight loss of even 10% body weight can significantly reduce OSA severity. If diagnosed, CPAP therapy dramatically improves sleep quality and energy within days to weeks.",
+    "evidence_rating": "strong",
+    "sources": ["Mayo Clinic", "AASM Guidelines"],
+    "practical_application": "This is the SINGLE MOST IMPACTFUL action Achyut can take. If OSA is present and treated, energy levels will transform within 1-2 weeks of CPAP therapy.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "RS-010",
+    "category": "recovery-science",
+    "subcategory": "sleep-apnea",
+    "fact": "Untreated OSA causes: severe daytime fatigue, cardiovascular problems (high blood pressure, heart attack, stroke, atrial fibrillation), type 2 diabetes via insulin resistance, metabolic syndrome, and non-alcoholic fatty liver disease.",
+    "evidence_rating": "strong",
+    "sources": ["Mayo Clinic"],
+    "practical_application": "Untreated OSA is not just about fatigue — it has serious long-term cardiovascular and metabolic consequences that compound with obesity.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-011",
+    "category": "recovery-science",
+    "subcategory": "doms",
+    "fact": "DOMS (Delayed Onset Muscle Soreness) is muscle pain beginning 12-24 hours after exercise, peaking at 48-72 hours, resolving in 5-7 days. It is NOT caused by lactic acid (debunked myth) but by microscopic muscle fiber damage and inflammatory response. Primarily caused by eccentric exercise. Worst in beginners due to the repeated bout effect.",
+    "evidence_rating": "strong",
+    "sources": ["Healthline", "ScienceDirect"],
+    "practical_application": "Achyut's DOMS is normal for week 1-2 of training and will diminish significantly over the next 2-3 weeks.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-012",
+    "category": "recovery-science",
+    "subcategory": "doms",
+    "fact": "DOMS timeline for beginners: onset 12-24h post-exercise, peak 48-72h, duration 5-7 days (up to 7-10 days in completely sedentary individuals). After 2-4 weeks of consistent training, DOMS becomes minimal.",
+    "evidence_rating": "strong",
+    "sources": ["Healthline"],
+    "practical_application": "If DOMS lasts more than 7 days or is debilitating, that is a red flag. If peaking at day 2-3 and gradually improving, that is normal.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-013",
+    "category": "recovery-science",
+    "subcategory": "doms",
+    "fact": "Evidence-based DOMS treatments: STRONG evidence for active recovery (light exercise), sports massage, cold water immersion (10-15 min in 50-59°F water, though may blunt hypertrophy if overused), and time. MODERATE evidence for tart cherry juice, curcumin/turmeric, post-exercise protein (20-40g), vitamin D, omega-3s, and creatine. WEAK evidence for static stretching (does NOT prevent/reduce DOMS), NSAIDs (blunt muscle protein synthesis), and foam rolling.",
+    "evidence_rating": "strong",
+    "sources": ["2020 meta-analysis on massage", "PMC11012564", "PMC7228568", "PMC9896520"],
+    "practical_application": "Use active recovery, massage, and adequate protein for evidence-based DOMS management. Don't rely on stretching or NSAIDs.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-014",
+    "category": "recovery-science",
+    "subcategory": "doms",
+    "fact": "To reduce DOMS for next session: thorough warm-up (5-10 min light cardio + dynamic stretches + warm-up sets), control eccentrics (3-4 second lowering), progressive overload pacing (no more than 10% weight increase per week as beginner), train each muscle group 2x/week, and stay within 8-12 working sets per muscle group per week.",
+    "evidence_rating": "strong",
+    "sources": ["ACSM Position Stand"],
+    "practical_application": "Start lighter than you think you need to. Train each muscle 2x/week rather than destroying it 1x/week.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-015",
+    "category": "recovery-science",
+    "subcategory": "sleep-hygiene",
+    "fact": "Evidence-based sleep hygiene protocol: consistent sleep/wake times, cool room (60-67°F / 15-19°C), dark room (blackout curtains or eye mask), no screens 60 min before bed, no caffeine after 2 PM (6-hour half-life), no large meals 2-3 hours before bed, morning sunlight exposure (10-15 min within 30 min of waking), and limit naps to 30 min before 3 PM.",
+    "evidence_rating": "strong",
+    "sources": ["Sleep Foundation"],
+    "practical_application": "Implement all of these simultaneously for maximum effect. The two highest-impact items are consistent wake time and morning sunlight exposure.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-016",
+    "category": "recovery-science",
+    "subcategory": "overtraining",
+    "fact": "Signs of overtraining vs normal beginner fatigue: Normal = 8-10h sleep feeling rested, DOMS peaking 48-72h and resolving in 5-7 days, mild fatigue but progressing. Overtraining = 10+ hours sleep still tired, DOMS persisting more than 7 days or worsening, performance plateau/regression, elevated resting HR (5-10 bpm above normal), reduced libido, frequent illness.",
+    "evidence_rating": "strong",
+    "sources": ["ACSM Position Stand"],
+    "practical_application": "Monitor resting heart rate daily. If consistently elevated by 5+ bpm above normal, take a deload or rest day.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-017",
+    "category": "recovery-science",
+    "subcategory": "active-recovery",
+    "fact": "Optimal active recovery: 20-40 minutes of low-intensity activity (walking, easy cycling, swimming) on rest days, at Zone 1 intensity (can hold conversation, HR below 60% max). For someone at 130 kg, walking 15-30 minutes at comfortable pace is ideal. Swimming is excellent due to zero joint stress. Avoid high-intensity cardio or additional strength training on recovery days.",
+    "evidence_rating": "moderate",
+    "sources": ["ACSM"],
+    "practical_application": "1-2 active recovery sessions between training days. Yoga/mobility for 10-15 minutes on rest days is also beneficial.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-018",
+    "category": "recovery-science",
+    "subcategory": "recovery-tools",
+    "fact": "Foam rolling protocol: 1-3 minutes per muscle group, daily or post-workout. Moderate pressure (uncomfortable but not painful). Slow rolls along muscle belly, pause on tender spots 20-30 seconds. Limited evidence for DOMS reduction but effective for short-term mobility improvement and perceived tightness relief.",
+    "evidence_rating": "moderate",
+    "sources": ["ACSM"],
+    "practical_application": "Key areas for beginners: quads, hamstrings, calves, upper back, lats. Use as a mobility tool, not a DOMS cure.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "RS-019",
+    "category": "recovery-science",
+    "subcategory": "deload",
+    "fact": "Deload weeks involve reducing training volume to 50-60% and intensity to 50-60% of working weights every 4-8 weeks. Not needed for beginners in the first 4-6 weeks. Signs you need a deload: performance plateau, persistent fatigue, sleep disruption, elevated resting heart rate.",
+    "evidence_rating": "strong",
+    "sources": ["ACSM Position Stand"],
+    "practical_application": "After 4-6 weeks of consistent training, plan a deload every 6-8 weeks. Reduce weight to 50-60%, reduce sets by 50%, maintain exercise selection.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "RS-020",
+    "category": "recovery-science",
+    "subcategory": "nutrition-fatigue",
+    "fact": "At 130 kg, 33M, sedentary + 3x/week training, TDEE is approximately 2500-2700 kcal. A 2000-2200 kcal intake creates a 300-700 kcal/day deficit (moderate and appropriate for weight loss). However, the new training stimulus increases energy demands beyond what formulas account for. Consider increasing to 2300-2400 kcal for the first 2-3 weeks while the body adapts.",
+    "evidence_rating": "moderate",
+    "sources": ["Mifflin-St Jeor equation"],
+    "practical_application": "The deficit may be functionally too large given the training stress. Temporary calorie increase during adaptation is smart, not weak.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "RS-021",
+    "category": "recovery-science",
+    "subcategory": "nutrition-fatigue",
+    "fact": "At 100-130g carbs/day with training, muscle glycogen will be suboptimal. The brain alone needs ~130g glucose/day. ACSM recommends 3-5g/kg body weight for athletes. For someone at 130 kg in caloric deficit, a realistic target is 150-200g/day. Symptoms of low carb intake: fatigue, brain fog, poor workout performance, excessive sleep need, sugar cravings.",
+    "evidence_rating": "strong",
+    "sources": ["ACSM"],
+    "practical_application": "Increasing carbs from 100-130g to 150-180g (adding ~80-200 kcal) would likely improve energy dramatically. Reduce fat slightly to compensate.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "RS-022",
+    "category": "recovery-science",
+    "subcategory": "nutrition-fatigue",
+    "fact": "Optimal protein for muscle protein synthesis in caloric deficit is 1.6-2.2g/kg body weight per day. At 130 kg this is 208-286g/day. Using lean body mass (~80 kg estimated), it is 128-176g/day. Protein timing matters: 20-40g per meal, 4-5 meals, every 3-4 hours. Pre-sleep protein (30-40g casein) improves overnight muscle protein synthesis.",
+    "evidence_rating": "strong",
+    "sources": ["ACSM", "Multiple meta-analyses"],
+    "practical_application": "Split protein across 4-5 meals. Add 30-40g casein or Greek yogurt before bed for overnight recovery.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-023",
+    "category": "recovery-science",
+    "subcategory": "nutrient-deficiencies",
+    "fact": "Iron deficiency is the most common nutritional deficiency worldwide and a leading cause of fatigue. Symptoms: fatigue, weakness, pale skin, shortness of breath, cold hands/feet, poor exercise tolerance. Test via serum ferritin, hemoglobin, CBC. Vitamin D deficiency is HIGH risk in obese individuals (sequestered in adipose tissue), causing fatigue, muscle weakness, and poor immune function. Test via 25(OH)D blood test; supplement 2000-4000 IU/day if deficient.",
+    "evidence_rating": "strong",
+    "sources": ["Mayo Clinic", "Multiple studies"],
+    "practical_application": "Request bloodwork: CBC, ferritin, 25(OH) vitamin D, B12, TSH, magnesium. Supplement vitamin D3 (2000-4000 IU/day) and iron if deficient.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "RS-024",
+    "category": "recovery-science",
+    "subcategory": "nutrient-deficiencies",
+    "fact": "Magnesium deficiency (common in caloric deficit and exercise) causes fatigue, muscle cramps, poor sleep, and headaches. Supplement 200-400mg magnesium glycinate or citrate before bed to improve sleep quality. B12 deficiency (risk for vegetarians) causes fatigue, weakness, tingling, brain fog. Zinc deficiency causes poor recovery, reduced immunity, hair loss.",
+    "evidence_rating": "moderate",
+    "sources": ["Examine.com", "NIH Office of Dietary Supplements"],
+    "practical_application": "Start magnesium glycinate (200-400mg before bed) for sleep quality. Test B12 and zinc if symptoms persist.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-025",
+    "category": "recovery-science",
+    "subcategory": "hydration",
+    "fact": "Dehydration of just 2% body weight causes noticeable fatigue, reduced exercise performance, and cognitive impairment. At 130 kg, 2% equals 2.6 liters of fluid deficit. Daily water target should be at least 3-4 liters/day for someone at 130 kg training 3x/week in Indian climate. Electrolytes (sodium, potassium, magnesium) are important in Indian heat.",
+    "evidence_rating": "strong",
+    "sources": ["Multiple studies", "ACSM"],
+    "practical_application": "Aim for 3-4 liters of water/day. Add a pinch of salt or electrolyte packet to 1 liter. Monitor urine color (pale yellow is good).",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-026",
+    "category": "recovery-science",
+    "subcategory": "hrv-monitoring",
+    "fact": "HRV (Heart Rate Variability) measures the variance in time between successive heartbeats. High HRV indicates parasympathetic (recovery) dominance and readiness to perform. Low HRV indicates sympathetic (stress) dominance and fatigue. It is the most accessible objective metric for recovery status, measured in milliseconds using RMSSD.",
+    "evidence_rating": "strong",
+    "sources": ["WHOOP", "Multiple studies"],
+    "practical_application": "Track HRV daily to objectively measure recovery status rather than relying on subjective feeling alone.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-027",
+    "category": "recovery-science",
+    "subcategory": "hrv-monitoring",
+    "fact": "Average HRV for 30-35 year olds is approximately 45-85 ms (RMSSD). HRV is highly individual; comparing to others is less useful than tracking personal trends. A 10-15% drop from personal baseline indicates incomplete recovery.",
+    "evidence_rating": "strong",
+    "sources": ["WHOOP data"],
+    "practical_application": "Establish your personal baseline over 1-2 weeks, then use daily readings relative to that baseline.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-028",
+    "category": "recovery-science",
+    "subcategory": "hrv-monitoring",
+    "fact": "HRV is lowered by: training too hard/frequently, poor sleep, alcohol (can suppress HRV for up to 5 days), poor nutrition/caloric deficit stress, dehydration, illness (drops 1-2 days before symptoms), stress, travel/jet lag, and overtraining (sustained low HRV over multiple days is a red flag).",
+    "evidence_rating": "strong",
+    "sources": ["WHOOP", "Multiple studies"],
+    "practical_application": "Avoid alcohol entirely during training adaptation phase. Monitor HRV trends to catch overtraining before it becomes severe.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-029",
+    "category": "recovery-science",
+    "subcategory": "hrv-monitoring",
+    "fact": "HRV-based training auto-regulation: If HRV is within normal range, proceed with planned training. If 10%+ below baseline, reduce intensity/volume or do active recovery. If 20%+ below baseline, take a rest day. A downward trend over 3-5 days warrants a deload or extra rest day. An upward trend over weeks indicates improving fitness.",
+    "evidence_rating": "strong",
+    "sources": ["Multiple studies"],
+    "practical_application": "Use HRV daily to decide whether to train hard, train light, or rest. This prevents overtraining and optimizes recovery.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-030",
+    "category": "recovery-science",
+    "subcategory": "hrv-monitoring",
+    "fact": "Accessible HRV measurement options in India: Welltory (free, phone camera-based), HRV4Training (~₹500, phone camera, well-validated), Elite HRV (free app, requires chest strap for best accuracy), Google Fit/Apple Health (if wearable available). Best budget option is phone camera-based apps. Best accuracy is chest strap (Polar H10 ~₹8,000) + Elite HRV.",
+    "evidence_rating": "moderate",
+    "sources": ["WHOOP", "App comparisons"],
+    "practical_application": "Start with a free phone camera app (Welltory) to establish baseline trends before investing in hardware.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "RS-031",
+    "category": "recovery-science",
+    "subcategory": "cortisol",
+    "fact": "Cortisol is the body's primary stress hormone. Normal pattern: peaks 30-40 minutes after waking (cortisol awakening response), then gradually declines to lowest levels at night. 50-60% of daily cortisol is released within 30-40 minutes of waking.",
+    "evidence_rating": "strong",
+    "sources": ["Healthline", "NCBI"],
+    "practical_application": "Disrupted cortisol rhythm (elevated at night) prevents deep sleep and causes non-restorative sleep patterns.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "RS-032",
+    "category": "recovery-science",
+    "subcategory": "cortisol",
+    "fact": "New training causes acute cortisol spikes (normal and beneficial). However, caloric deficit + new training without adequate recovery leads to chronically elevated cortisol. Symptoms: fatigue despite sleeping, poor sleep quality, visceral fat retention, increased appetite, irritability, difficulty concentrating, reduced immunity. Elevated evening cortisol prevents deep sleep onset, meaning more light sleep and less deep/REM sleep.",
+    "evidence_rating": "strong",
+    "sources": ["Healthline", "Multiple studies"],
+    "practical_application": "This may explain the 12-14 hours of non-restorative sleep — the body stays in alert mode even during sleep due to elevated cortisol.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "RS-033",
+    "category": "recovery-science",
+    "subcategory": "cortisol",
+    "fact": "Cortisol management strategies: morning sunlight exposure (10-15 min within 30 min of waking resets circadian rhythm), training in morning/afternoon (not within 3 hours of bedtime), adequate carbohydrates (low carb increases cortisol), stress reduction (meditation, deep breathing 10-20 min/day), consistent meal timing, limiting caffeine (max 2-3 cups, none after 2 PM), social connection, and cold exposure.",
+    "evidence_rating": "strong",
+    "sources": ["Healthline", "NCBI"],
+    "practical_application": "Train earlier in the day, eat enough carbs, get morning sunlight, and avoid evening caffeine to normalize cortisol rhythm.",
+    "relevance_to_achyut": "high"
+  }
+]

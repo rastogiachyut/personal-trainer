@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ID-001",
+    "category": "indian-diet",
+    "subcategory": "cost-analysis",
+    "fact": "Soya chunks (Nutrela, dry) provide 52g protein per 100g at just ₹0.50-0.58 per gram of protein — the cheapest protein source available in India. They contain 345 kcal/100g with 15.1g protein per 100 kcal.",
+    "evidence_rating": "strong",
+    "sources": ["Local market pricing (Blinkit/Zepto/Ghaziabad)", "Nutrela nutrition data"],
+    "practical_application": "Make soya chunks a daily staple. Soak in hot water 15 min, squeeze thoroughly, mince in food processor, and cook like keema with Indian spices.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "ID-002",
+    "category": "indian-diet",
+    "subcategory": "cost-analysis",
+    "fact": "Whey protein concentrate provides 76-80g protein per 100g powder at ₹1.50-2.00 per gram protein, with 19-23g protein per 100 kcal. This makes it the best supplement value and the second-most cost-effective protein source after soya chunks.",
+    "evidence_rating": "strong",
+    "sources": ["Amazon India pricing", "Brand nutrition labels"],
+    "practical_application": "Use 2 scoops/day (48g protein) as insurance to fill the protein gap. Unflavored whey (As It Is, Nakpro) is cheapest — add own cocoa + stevia.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "ID-003",
+    "category": "indian-diet",
+    "subcategory": "cost-analysis",
+    "fact": "Eggs at ₹7-8 each provide 6g protein per egg at approximately ₹1.08/g protein, with 9.3g protein per 100 kcal. They are one of the most versatile and bioavailable complete protein sources.",
+    "evidence_rating": "strong",
+    "sources": ["Local market pricing (Ghaziabad)"],
+    "practical_application": "Eat 4-6 eggs daily as a dietary staple. Buy in trays of 30 for discounts.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ID-004",
+    "category": "indian-diet",
+    "subcategory": "cost-analysis",
+    "fact": "Chicken breast (boneless, skinless) provides 31g protein per 100g at ₹0.90-1.03/g protein with 18.8g protein per 100 kcal. At ₹280-320/kg, it is the best lean animal protein value in India.",
+    "evidence_rating": "strong",
+    "sources": ["Local market pricing (Ghaziabad)", "Licious/TenderCuts pricing"],
+    "practical_application": "Buy 1kg at a time, marinate with basic spices, cook in air fryer/oven, portion into 250g containers. Lasts 3-4 days refrigerated.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ID-005",
+    "category": "indian-diet",
+    "subcategory": "cost-analysis",
+    "fact": "Poor-value protein sources for recomp: Full-fat paneer (₹5-6/g, 265 kcal/100g), dal (₹8-12/g, more carb than protein), tofu (₹8-12/g, expensive in India), almonds/cashews (₹8-10/g, terrible calorie:protein ratio), and peanut butter (₹3-4/g, mostly fat calories).",
+    "evidence_rating": "strong",
+    "sources": ["Local market pricing"],
+    "practical_application": "Do not count dal as a primary protein source — it is a side dish. Use full-fat paneer sparingly during recomp. Replace tofu with soya chunks.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ID-006",
+    "category": "indian-diet",
+    "subcategory": "meal-plans",
+    "fact": "A mixed diet (vegetarian + eggs + chicken) can achieve 195g protein at approximately 2,150 kcal for ~₹277/day: 4 eggs + bread for breakfast (30g), whey + banana mid-morning (25g), 100g soya chunks + rice + dal for lunch (58g), whey pre-workout (25g), 250g chicken breast + roti + veg for dinner (80g), milk pre-bed (7g).",
+    "evidence_rating": "strong",
+    "sources": ["Calculated from local ingredient nutrition data"],
+    "practical_application": "Use as the default meal plan template. Adjust portion sizes to hit 180-200g protein and 2,100-2,200 kcal targets.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "ID-007",
+    "category": "indian-diet",
+    "subcategory": "meal-plans",
+    "fact": "A fully vegetarian diet (with eggs) can achieve 185g protein at approximately 2,100 kcal for ~₹248/day: Besan cheela + eggs for breakfast (28g), whey mid-morning (25g), soya chunks + rice + hung curd for lunch (62g), whey pre-workout (25g), low-fat homemade paneer + roti + veg for dinner (45g), milk + peanut butter pre-bed (12g).",
+    "evidence_rating": "strong",
+    "sources": ["Calculated from local ingredient nutrition data"],
+    "practical_application": "Use this plan for vegetarian households or meat-restricted days. Homemade low-fat paneer from toned milk is much cheaper and leaner than store-bought.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ID-008",
+    "category": "indian-diet",
+    "subcategory": "meal-plans",
+    "fact": "A pure vegetarian diet (no eggs, no meat) can still achieve 175g protein at approximately 2,050 kcal for ~₹252/day: Moong dal cheela + whey for breakfast (30g), whey + banana mid-morning (25g), soya chunks + rice + rajma for lunch (55g), whey pre-workout (25g), low-fat paneer + hung curd + roti for dinner (42g), milk pre-bed (10g).",
+    "evidence_rating": "strong",
+    "sources": ["Calculated from local ingredient nutrition data"],
+    "practical_application": "This is the cheapest option (~₹240-250/day). Ensure leucine threshold is met — both soya chunks and whey have high leucine content.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "ID-009",
+    "category": "indian-diet",
+    "subcategory": "meal-plans",
+    "fact": "A high-budget non-veg heavy plan can achieve 200g protein at approximately 2,200 kcal for ~₹350/day: 6 egg whites + 2 whole eggs + bread for breakfast (40g), whey + almonds mid-morning (28g), 200g chicken breast + rice for lunch (75g), whey + banana pre-workout (26g), 150g fish + roti + veg for dinner (40g), Greek yogurt pre-bed (22g).",
+    "evidence_rating": "strong",
+    "sources": ["Calculated from local ingredient nutrition data"],
+    "practical_application": "Use this plan when budget is not a constraint and maximum variety is desired. Eat meat 3-4x/week for complete amino acid profile.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "ID-010",
+    "category": "indian-diet",
+    "subcategory": "breakfast-optimization",
+    "fact": "Traditional Indian breakfasts (poha, upma, idli, dosa) are carb-heavy and protein-poor (2-3g protein per serving). Adding soya chunks, eggs, or whey can transform them into high-protein meals: High-protein poha (38g protein), besan cheela with eggs (30g), high-protein upma with soya (31g protein), moong dal cheela (25g protein), whey oats (30g protein), egg bhurji with soya (38g protein).",
+    "evidence_rating": "strong",
+    "sources": ["Ingredient nutrition data"],
+    "practical_application": "Never eat a carb-only Indian breakfast. Always add a protein source — 50g soya chunks, 2 eggs, or 1 scoop whey to traditional breakfast items.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "ID-011",
+    "category": "indian-diet",
+    "subcategory": "protein-sources",
+    "fact": "The Big 4 for affordable Indian high-protein diets are: (1) Soya chunks at ₹0.50/g protein, (2) Whey protein at ₹1.5-2/g, (3) Eggs at ₹1/g, and (4) Chicken breast at ₹1/g. These four sources alone can provide 180-200g protein/day for under ₹300.",
+    "evidence_rating": "strong",
+    "sources": ["Local market pricing (Ghaziabad, 2026)"],
+    "practical_application": "Build every meal around at least one of the Big 4. Everything else is supplementary.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "ID-012",
+    "category": "indian-diet",
+    "subcategory": "whey-buying-guide",
+    "fact": "Best-value whey protein brands in India (2026): As It Is Nutrition Whey (₹1,200-1,400/kg, unflavored, best value), Nakpro Gold Whey (₹1,400-1,700/kg, chocolate), MuscleBlaze Bioferme Whey (₹1,800-2,200/kg), MyProtein Impact Whey (₹1,500-2,000/kg during sales), Optimum Nutrition Gold Standard (₹3,000-3,500/kg, premium, not cost-effective).",
+    "evidence_rating": "strong",
+    "sources": ["Amazon India pricing", "Brand comparison"],
+    "practical_application": "Start with unflavored As It Is or Nakpro for best protein-per-rupee. Add own cocoa powder + stevia for flavor. Buy 2kg packs during Amazon Great Indian Festival / Big Billion Days sales to save 20-30%.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ID-013",
+    "category": "indian-diet",
+    "subcategory": "diet-strategies",
+    "fact": "Effective veg/non-veg mix strategies for Indian households: (1) Veg weekdays + non-veg weekends — reduces cost, adds variety. (2) Eggs + dairy daily, meat 3x/week — consistent daily protein base. (3) Full vegetarian with whey + soya + dairy — cheapest at ~₹240/day, 175-185g protein achievable. (4) Eggetarian (most common Indian fitness pattern) — 4-6 eggs + 1-2 scoops whey + soya + dairy daily, chicken/fish 2-3x/week.",
+    "evidence_rating": "strong",
+    "sources": ["Practical dietary analysis"],
+    "practical_application": "Choose the strategy that fits your household and cooking constraints. Eggetarian is the most common and practical for Indian fitness enthusiasts.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ID-014",
+    "category": "indian-diet",
+    "subcategory": "cooking-prep",
+    "fact": "Soya chunks preparation: Soak in hot water for 15 min, squeeze out water thoroughly, mince in food processor or chopper, then cook like keema with Indian spices. The texture mimics chicken keema and absorbs flavors well. This is the key technique for making soya chunks palatable as a daily staple.",
+    "evidence_rating": "strong",
+    "sources": ["Practical cooking experience"],
+    "practical_application": "Mastering soya chunk preparation is the single most important cooking skill for an affordable Indian high-protein diet.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ID-015",
+    "category": "indian-diet",
+    "subcategory": "cooking-prep",
+    "fact": "Greek yogurt (hung curd) can be made at home by pouring regular curd in muslin cloth and hanging for 4-6 hours, resulting in thick yogurt with 2x protein concentration (10-12g/100g vs 4-5g in regular curd) at minimal cost (~₹50-60 from 1L milk).",
+    "evidence_rating": "strong",
+    "sources": ["Traditional Indian cooking method"],
+    "practical_application": "Make a batch every 2 days. Use as a high-protein snack, in smoothies, or as a creamy base for dishes.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "ID-016",
+    "category": "indian-diet",
+    "subcategory": "cooking-prep",
+    "fact": "Unflavored whey protein can be mixed into atta (for rotis), dal, or even upma batter for stealth protein addition. This adds 10-20g protein per meal without changing taste or texture significantly.",
+    "evidence_rating": "moderate",
+    "sources": ["Practical cooking experience"],
+    "practical_application": "Mix 1 scoop unflavored whey into the daily atta preparation to add ~24g protein across 4-5 rotis without any dietary change.",
+    "relevance_to_achyut": "medium"
+  },
+  {
+    "id": "ID-017",
+    "category": "indian-diet",
+    "subcategory": "budget-optimization",
+    "fact": "A ₹150/day plan achieving ~130g protein: 2 scoops whey (₹100) + 100g soya chunks (₹15) + 4 eggs (₹30) + dal/rice/veg (₹5). Adding 250g chicken breast (₹75) reaches 200g protein for ₹225/day total. Bulk buying whey during sales (20-30% off) and soya chunks in 5kg packs (₹100/kg) further reduces costs.",
+    "evidence_rating": "strong",
+    "sources": ["Local market pricing"],
+    "practical_application": "Minimum viable protein diet is ₹150/day. Full 200g protein diet is ₹225-350/day depending on meat intake.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ID-018",
+    "category": "indian-diet",
+    "subcategory": "common-mistakes",
+    "fact": "Common Indian diet mistakes to avoid: (1) Counting dal as primary protein — dal has more carbs than protein (7g protein + 25g carbs per bowl). (2) Over-relying on full-fat paneer — 265 kcal/100g for 18g protein is too calorie-dense for recomp. (3) Skipping breakfast protein — chai-biscuit is not a meal. (4) Excessive oil/ghee — 1 tbsp oil = 120 kcal with zero protein. (5) Not counting liquid calories — chai with sugar, lassi, sweet buttermilk add 200-400 kcal without protein.",
+    "evidence_rating": "strong",
+    "sources": ["Nutritional analysis of common Indian foods"],
+    "practical_application": "Audit your daily diet for these five mistakes. Use non-stick pans and measure oil. Switch to unsweetened chai or count liquid calories.",
+    "relevance_to_achyut": "critical"
+  },
+  {
+    "id": "ID-019",
+    "category": "indian-diet",
+    "subcategory": "protein-reference",
+    "fact": "Protein content of common Indian foods per serving: 1 scoop whey (24g/120kcal), 100g soya chunks dry (52g/345kcal), 100g chicken breast (31g/165kcal), 1 whole egg (6g/70kcal), 1 egg white (3.6g/17kcal), 100g fish Rohu (21g/105kcal), 100g hung curd (10g/60kcal), 200ml toned milk (6g/100kcal), 1 bowl dal (14g/230kcal), 100g besan (20g/340kcal), 100g moong dal raw (24g/310kcal).",
+    "evidence_rating": "strong",
+    "sources": ["USDA nutrition database", "Indian food composition tables"],
+    "practical_application": "Memorize the protein-per-serving values for the Big 4 and common Indian foods to quickly calculate daily protein intake.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ID-020",
+    "category": "indian-diet",
+    "subcategory": "supplements",
+    "fact": "Creatine monohydrate is extremely cost-effective in India at ₹300-500 per 100 servings (MuscleBlaze, As It Is, Optimum Nutrition). At 5g/day, a 250g tub lasts 50 days. It is the most evidence-backed supplement for strength and muscle building.",
+    "evidence_rating": "strong",
+    "sources": ["Amazon India pricing", "International Society of Sports Nutrition"],
+    "practical_application": "Take 5g creatine monohydrate daily, any time of day. No loading phase needed. Consistency is key.",
+    "relevance_to_achyut": "high"
+  },
+  {
+    "id": "ID-021",
+    "category": "indian-diet",
+    "subcategory": "daily-checklist",
+    "fact": "Daily protein checklist template: 5 meals targeting 35-40g, 35-40g, 30-40g, 45-50g, 15-20g protein respectively for 180-200g total. Track water intake (4-5L target), sleep (7-9 hours), and creatine (5g daily).",
+    "evidence_rating": "moderate",
+    "sources": ["Protein distribution research"],
+    "practical_application": "Use a physical or digital checklist daily for the first 2-3 weeks until eating patterns become habitual.",
+    "relevance_to_achyut": "high"
+  }
+]

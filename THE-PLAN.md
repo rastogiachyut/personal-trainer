@@ -96,6 +96,22 @@
 3. When you hit top of range (e.g., 12) on ALL sets → increase weight
 4. Drop back to bottom rep range with new weight. Repeat forever.
 
+### ⏱️ Time-Saver: Superset Option (2026 research upgrade)
+The A1/A2, B1/B2, C1/C2 exercise labels above are **deliberate agonist-antagonist pairs** (squat+row, press+row, curls+triceps). A 2025 meta-analysis (19 studies, n=313) shows performing these as supersets — do A1, rest 60s, do A2, rest 60s, repeat — produces **identical hypertrophy and strength** while cutting session time ~40-50%, and may even increase total reps via reciprocal inhibition.
+- **Use when:** short on time (~45 min session → ~30 min)
+- **Keep traditional sets when:** learning a new lift or going heavy on squats/RDLs
+- ⚠️ Never superset two exercises for the SAME muscle — that reduces total volume (SMD = -1.08)
+- Source: `research/facts-workout-hacks.md` (WH-001 to WH-010)
+
+### 🐢 Tempo Cue (all exercises)
+Default tempo **3-1-1-0**: 3 sec lowering, 1 sec pause at bottom, lift with control, no bounce at top. Controlled 2-3 sec eccentrics maximize hypertrophy per rep and protect joints at 130 kg. Never drop the weight down.
+
+### 🔬 Mobility Workaround: Lengthened Partials
+If full squat depth or full RDL ROM isn't achievable yet, **deep partials in the stretched position are hypertrophy-equivalent** to full ROM (Wolf et al. 2025 RCT). Emphasize the bottom stretched position on RDLs — that's where the growth stimulus is concentrated. Partials are a valid tool here, not a compromise.
+
+### ⚖️ Micro-Loading
+When 5 kg jumps stall upper-body lifts (floor press, curls, shoulder press), use 1.25 kg plates per side (2.5 kg total jump). Progression that feels too easy beats progression that never happens. Source: `research/facts-workout-hacks.md` (WH-019 to WH-022)
+
 ### Day A (Monday / Thursday)
 
 | # | Exercise | Sets | Reps | Rest | Notes |
@@ -190,6 +206,8 @@ Boxing is a **phenomenal** tool for your situation:
 | **Walking** | Daily | 20-30 min → build to 45+ | Moderate pace. Post-meal walks are golden. |
 | **Boxing** | 2x/week | 30-40 min | See boxing protocol above |
 | **Swimming** (if accessible) | Optional 1x/week | 20-30 min | Best zero-impact cardio available |
+
+> **Zone 2 upgrade (2026 research):** Most of the daily walking should be at **Zone 2 intensity** — pace where you can talk but not sing, ~60-70% max HR. Zone 2 builds mitochondrial density and VO₂ max (the #1 mortality predictor) with ZERO interference to muscle growth — a 2022 meta-analysis of 43 studies found concurrent training has negligible interference effect on hypertrophy. At 130 kg, brisk walking IS Zone 2; no jogging needed. Source: `research/facts-longevity-exercise.md` (LON-001 to LON-015)
 
 ### Step Target Progression
 | Week | Daily Steps |
@@ -390,4 +408,4 @@ Start these once nutrition + training + sleep are dialed in (Week 4+).
 
 ---
 
-*Based on 315+ evidence-based facts from Stronger By Science, Examine.com, Renaissance Periodization, Jeff Nippard, Peter Attia, Huberman Lab, Squat University, FRC, PubMed (2024-2025), Cochrane, WHO, NIDDK. See research/ files for citations.*
+*Based on 659 evidence-based facts across 15 research databases — Stronger By Science, Examine.com, Renaissance Periodization, Jeff Nippard, Peter Attia, Huberman Lab, Squat University, FRC, PubMed (2024-2026), Cochrane, WHO, NIDDK. See `research/INDEX.md` for the complete master index.*

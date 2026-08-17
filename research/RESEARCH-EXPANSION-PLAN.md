@@ -312,12 +312,20 @@
 
 **Total Sprint 7 output: 38 facts across 2 files**
 
-### Final Sprint (Week of Aug 18-24) — Integration ⬜ NEXT
-- [ ] Review all new facts for quality and relevance
-- [ ] Update `workout-generation-principles.md` with new applicable principles
-- [ ] Update `THE-PLAN.md` with new hacks integrated into Day A/B/C workouts
-- [ ] Create master index → `research/INDEX.md` listing all fact databases with counts
-- [ ] Final commit + push
+### Final Sprint (Week of Aug 17) — Integration ✅
+- [x] Review all new facts for quality and relevance (659 facts validated: all JSONs parse, zero duplicate IDs, zero missing sources)
+- [x] Update `workout-generation-principles.md` with new applicable principles (Principles 13-20: supersets, lengthened partials, eccentric tempo, Zone 2, BFR, micro-loading, behavioral systems, calisthenics)
+- [x] Update `THE-PLAN.md` with new hacks integrated into Day A/B/C workouts (superset option, tempo cues, lengthened partials workaround, micro-loading, Zone 2 cardio note)
+- [x] Create master index → `research/INDEX.md` listing all fact databases with counts (15 databases, 659 facts)
+- [x] Final commit + push
+
+**Final Sprint output:** knowledge base finalized at 659 facts across 15 databases + INDEX.md master index
+
+### Post-Plan: Maintenance Mode
+The original expansion plan is now **fully complete** (Sprints 1-7 + Final Sprint). Future research work shifts to:
+- Quarterly refresh: check for new meta-analyses in existing domains (target: 1 topic/month)
+- Reactive research: new health concerns, injuries, plateau breakthroughs, blood test results
+- Knowledge application: keep workout generation aligned with `workout-generation-principles.md` (now 20 principles)
 
 ---
 
