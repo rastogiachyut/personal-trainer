@@ -1,7 +1,7 @@
 # 📚 Research Knowledge Base — Master Index
 
-**Last Updated:** 2026-08-17
-**Total Facts:** 659 across 15 fact databases
+**Last Updated:** 2026-08-24
+**Total Facts:** 674 across 16 fact databases
 **Total Sources:** 100+ evidence-based references (PubMed, Cochrane, Examine.com, ACSM, WHO, and more)
 
 ---
@@ -25,6 +25,7 @@
 | 13 | **Supplements Deep Dive (India)** | `facts-supplements-india.md` | 18 | Creatine, Whey, Vitamin D3, Magnesium, Fish Oil, Ashwagandha, Caffeine, Citrulline, Multivitamins, B-Complex, Supplements to Avoid | 🟢10 🟡5 🔴3 |
 | 14 | **Wearables & Data-Driven Training** | `facts-wearables-tech.md` | 12 | HRV Auto-Regulation, Sleep Tracking, Readiness Scores, CGMs & Glucose, Tech Stack Recommendations | 🟢10 🟡7 🔴0 |
 | 15 | **Indian High-Protein Diet** | `facts-indian-diet.md` | ~40 | Cost-Per-Gram Analysis, Meal Plans (4 variants), Breakfast Optimization, Protein Sources, Veg vs Non-Veg Strategies, Practical Tips | — |
+| 16 | **Detraining, Muscle Memory & Return-to-Training** | `facts-detraining-retraining.md` | 15 | Detraining Timeline, Muscle Memory, Layoff Mitigation, Return-to-Training Protocol | 🟢9 🟡6 🔴0 |
 
 ### Evidence Rating Legend
 - 🟢 **Strong** — Meta-analyses, systematic reviews, large RCTs

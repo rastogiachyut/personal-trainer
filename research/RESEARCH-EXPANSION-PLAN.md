@@ -327,6 +327,21 @@ The original expansion plan is now **fully complete** (Sprints 1-7 + Final Sprin
 - Reactive research: new health concerns, injuries, plateau breakthroughs, blood test results
 - Knowledge application: keep workout generation aligned with `workout-generation-principles.md` (now 20 principles)
 
+### Maintenance Sprint 8 (Week of Aug 24, 2026) — Detraining & Return-to-Training ✅
+- [x] **Trigger:** Reactive — gym log shows no sessions since Jul 9, 2026 (~7-week layoff)
+- [x] Research detraining timeline (Bosquet 2013 meta-analysis, 103 studies — strength grace period ~4 wks)
+- [x] Research muscle memory mechanisms (myonuclear permanence, epigenetic memory, signal resensitization)
+- [x] Research retraining time-course (regain ≈ half the layoff duration; 7 wks off → 3-5 wks back)
+- [x] Research maintenance-minimum volume (Bickel 2011: 1/9th volume preserves gains)
+- [x] Compile → `research/facts-detraining-retraining.md/json` (15 facts) + concrete restart plan for Achyut
+- [x] Update INDEX.md (674 facts across 16 databases)
+- [x] Commit + push
+
+**Next sprint candidates (check health logs first):**
+- Next scheduled refresh: Sep 2026 — quarterly check for new 2026 meta-analyses in hypertrophy/nutrition
+- Reactive topics if triggered: training plateau breakthrough, blood test results, injury protocols
+- Health-log review Aug 24: no new health concerns; only user-side skincare/acne research (unrelated)
+
 ---
 
 ## 📈 Expected Output

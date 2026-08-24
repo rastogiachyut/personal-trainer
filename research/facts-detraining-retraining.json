@@ -1,0 +1,142 @@
+{
+  "database": "facts-detraining-retraining",
+  "created": "2026-08-24",
+  "sprint": "Maintenance Sprint 8 — reactive research (7-week gym layoff detected)",
+  "facts": [
+    {
+      "id": "DT-001",
+      "category": "detraining-timeline",
+      "fact": "Maximal strength shows trivial losses (g < 0.2) for up to 28 days of training cessation; losses accelerate after ~1 month",
+      "evidence_rating": "strong",
+      "sources": ["Bosquet et al. 2013 meta-analysis (103 studies)", "Nuckols, Stronger By Science 2022"],
+      "practical_application": "A 2-4 week break costs almost nothing in strength; don't panic-restart",
+      "relevance_to_achyut": "High — 7-week layoff exceeds grace period but muscle memory applies"
+    },
+    {
+      "id": "DT-002",
+      "category": "detraining-timeline",
+      "fact": "Strength endurance (high-rep performance) is lost faster than maximal strength because metabolic conditioning (mitochondria, capillaries, enzymes, blood volume) de-adapts faster than contractile tissue",
+      "evidence_rating": "strong",
+      "sources": ["Bosquet et al. 2013", "Nuckols 2022"],
+      "practical_application": "Expect high-rep sets to feel disproportionately hard when returning",
+      "relevance_to_achyut": "High — his program is 3x10-12 rep-range work"
+    },
+    {
+      "id": "DT-003",
+      "category": "detraining-timeline",
+      "fact": "Early muscle 'flatness' during a layoff is glycogen, water/edema, and blood flow loss — not actual contractile protein loss",
+      "evidence_rating": "moderate",
+      "sources": ["Nuckols 2022 (mechanistic synthesis)", "Haun et al. 2019"],
+      "practical_application": "Don't judge muscle loss by the mirror in the first weeks off",
+      "relevance_to_achyut": "Moderate"
+    },
+    {
+      "id": "DT-004",
+      "category": "detraining-timeline",
+      "fact": "Whole-muscle size trends toward baseline after 7-20 weeks of cessation, but muscle fiber cross-sectional area is preserved far better — true tissue loss is slower than whole-muscle measures imply",
+      "evidence_rating": "moderate",
+      "sources": ["Staron et al.", "Psilander et al. 2019", "Nuckols 2022"],
+      "practical_application": "A 7-week layoff likely caused only modest true muscle loss",
+      "relevance_to_achyut": "High"
+    },
+    {
+      "id": "DT-005",
+      "category": "detraining-timeline",
+      "fact": "Older adults (65+) lose strength ~2x faster during detraining (g=0.76 vs g=0.31 in younger adults); younger adults get a ~1-month grace period",
+      "evidence_rating": "strong",
+      "sources": ["Bosquet et al. 2013 sub-analyses"],
+      "practical_application": "Age matters: 20-somethings retain gains much longer",
+      "relevance_to_achyut": "High — falls in protected younger group"
+    },
+    {
+      "id": "DT-006",
+      "category": "muscle-memory",
+      "fact": "Muscle memory is real and cellular: myonuclei added during prior training survive detraining (myonuclear permanence), epigenetic methylation changes persist (Seaborne 2018), and anabolic signaling resensitizes after a break",
+      "evidence_rating": "strong",
+      "sources": ["Egner et al. 2013", "Seaborne et al. 2018", "Gundersen reviews"],
+      "practical_application": "Regaining lost muscle is genuinely faster than building it the first time",
+      "relevance_to_achyut": "Very high — core reason the comeback will be fast"
+    },
+    {
+      "id": "DT-007",
+      "category": "muscle-memory",
+      "fact": "Time to regain lost strength/muscle is roughly half the layoff duration (range 1/3 to 2/3)",
+      "evidence_rating": "strong",
+      "sources": ["Henwood & Taffe 2008", "Psilander et al. 2019", "Taaffe & Marcus 1997", "Seaborne et al. 2018", "Nuckols 2022"],
+      "practical_application": "7 weeks off → expect ~3-5 weeks back to previous numbers",
+      "relevance_to_achyut": "Very high — direct recovery estimate"
+    },
+    {
+      "id": "DT-008",
+      "category": "muscle-memory",
+      "fact": "Periodic 3-week breaks do not reduce long-term gains: cyclical 6wk-on/3wk-off training produced identical 6-month strength and hypertrophy gains vs continuous training",
+      "evidence_rating": "strong",
+      "sources": ["Ogasawara et al. 2013 RCT"],
+      "practical_application": "Planned deloads/breaks are not setbacks",
+      "relevance_to_achyut": "Moderate — reduces guilt about time off"
+    },
+    {
+      "id": "DT-009",
+      "category": "mitigation",
+      "fact": "Young adults can maintain muscle and strength for months on just 1/9th of their previous training volume; even one set per exercise suffices",
+      "evidence_rating": "strong",
+      "sources": ["Bickel et al. 2011 RCT", "Antunes et al. 2021"],
+      "practical_application": "One 30-45 min bodyweight session per week preserves most gains during layoff",
+      "relevance_to_achyut": "High — for any future break"
+    },
+    {
+      "id": "DT-010",
+      "category": "mitigation",
+      "fact": "During no-training periods, hold protein at ~1.3-1.4 g/kg LEAN mass and calories near maintenance; extra protein or supplements do NOT retain muscle without training stimulus",
+      "evidence_rating": "moderate",
+      "sources": ["Nuckols 2022 (cited reviews)", "jcsm.12922"],
+      "practical_application": "Moderate protein + maintenance calories during breaks",
+      "relevance_to_achyut": "Moderate"
+    },
+    {
+      "id": "DT-011",
+      "category": "mitigation",
+      "fact": "Complete immobilization/bed rest loses strength >1% per day and muscle ~0.5% per day — an order of magnitude worse than normal detraining",
+      "evidence_rating": "strong",
+      "sources": ["Immobilization literature (PMC6548068)"],
+      "practical_application": "Distinguish 'not going to gym' from 'can't move' scenarios",
+      "relevance_to_achyut": "Low (informational)"
+    },
+    {
+      "id": "DT-012",
+      "category": "return-protocol",
+      "fact": "Week 1 back: perform your normal program (same exercises, sets, reps) at ~1/3 of pre-layoff loads — a single light session dramatically attenuates DOMS and damage markers on ramp-up",
+      "evidence_rating": "strong",
+      "sources": ["Nuckols 2022 protocol", "repeated-bout effect data (PMID 30778759)"],
+      "practical_application": "Restart THE-PLAN.md Day A/B/C at ~33% loads to prevent crippling soreness",
+      "relevance_to_achyut": "Very high — this is his week 1"
+    },
+    {
+      "id": "DT-013",
+      "category": "return-protocol",
+      "fact": "Week 2 back: autoregulate at 5+ RIR on first set, 3-4 RIR on final set; injury risk is elevated when re-introducing intense training after layoff",
+      "evidence_rating": "moderate",
+      "sources": ["Nuckols 2022", "injury risk studies (PMIDs 23160274, 17710181)"],
+      "practical_application": "Challenging but not hard; don't test limits in week 2",
+      "relevance_to_achyut": "Very high — his week 2"
+    },
+    {
+      "id": "DT-014",
+      "category": "return-protocol",
+      "fact": "Weeks 3+: weekly load increase = (pre-layoff weight − current weight) ÷ (recovery weeks − 1); when weekly progression stalls, retraining is done",
+      "evidence_rating": "moderate",
+      "sources": ["Nuckols 2022 (derived from retraining time-course studies)"],
+      "practical_application": "Quantified ramp back to July numbers in ~4-6 weekly jumps",
+      "relevance_to_achyut": "Very high"
+    },
+    {
+      "id": "DT-015",
+      "category": "return-protocol",
+      "fact": "Layoffs <1 month = simple 20% deload then resume; >1 year = treat as beginner with standard linear progression; avoid fast strength regain on low volume while tendons stay deconditioned",
+      "evidence_rating": "moderate",
+      "sources": ["Nuckols 2022", "Zourdos", "Eure"],
+      "practical_application": "7-week layoff sits between: use the 1/3-loads week 1 + halved-duration ramp",
+      "relevance_to_achyut": "High"
+    }
+  ]
+}
