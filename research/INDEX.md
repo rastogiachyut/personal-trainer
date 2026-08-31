@@ -1,7 +1,7 @@
 # 📚 Research Knowledge Base — Master Index
 
-**Last Updated:** 2026-08-24
-**Total Facts:** 674 across 16 fact databases
+**Last Updated:** 2026-08-31
+**Total Facts:** 686 across 17 fact databases
 **Total Sources:** 100+ evidence-based references (PubMed, Cochrane, Examine.com, ACSM, WHO, and more)
 
 ---
@@ -26,6 +26,7 @@
 | 14 | **Wearables & Data-Driven Training** | `facts-wearables-tech.md` | 12 | HRV Auto-Regulation, Sleep Tracking, Readiness Scores, CGMs & Glucose, Tech Stack Recommendations | 🟢10 🟡7 🔴0 |
 | 15 | **Indian High-Protein Diet** | `facts-indian-diet.md` | ~40 | Cost-Per-Gram Analysis, Meal Plans (4 variants), Breakfast Optimization, Protein Sources, Veg vs Non-Veg Strategies, Practical Tips | — |
 | 16 | **Detraining, Muscle Memory & Return-to-Training** | `facts-detraining-retraining.md` | 15 | Detraining Timeline, Muscle Memory, Layoff Mitigation, Return-to-Training Protocol | 🟢9 🟡6 🔴0 |
+| 17 | **2026 Q3 Quarterly Refresh** | `facts-2026-refresh-q3.md` | 12 | Drop-Sets, Failure vs Non-Failure, Advanced Methods Network MA, IF + RT, High-Load BFR, Breakfast Protein, Anabolic Resistance | 🟢7 🟡5 🔴0 |
 
 ### Evidence Rating Legend
 - 🟢 **Strong** — Meta-analyses, systematic reviews, large RCTs
@@ -147,6 +148,7 @@ Many topics span multiple files. Here are the key cross-references:
 | 2026-07-27 | `facts-longevity-exercise.md`, `facts-psychology-behavior.md`, `facts-wearables-tech.md` |
 | 2026-08-03 | `facts-calisthenics.md` |
 | 2026-08-10 | `INDEX.md` (this file) |
+| 2026-08-31 | `facts-2026-refresh-q3.md` (Maintenance Sprint 9: Sep quarterly refresh pulled forward) |
 
 ---
 

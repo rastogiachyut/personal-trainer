@@ -1,0 +1,116 @@
+{
+  "database": "facts-2026-refresh-q3",
+  "description": "Q3 2026 quarterly refresh: new 2026 meta-analyses in training methods and nutrition x training",
+  "created": "2026-08-31",
+  "sprint": "Maintenance Sprint 9",
+  "facts": [
+    {
+      "id": "QR3-001",
+      "category": "advanced-training",
+      "fact": "Drop-set training produces hypertrophy (SMD 0.04) and strength (SMD -0.04) gains statistically identical to traditional sets, while acutely raising RPE (SMD 1.62) and lactate (SMD 0.67)",
+      "evidence_rating": "strong",
+      "sources": ["Havers et al. 2026, Sports Med Open, 12 studies n=274, doi:10.1186/s40798-026-01012-1"],
+      "practical_application": "Use drop-sets on the last set of isolation exercises to cut session time without losing gains; avoid stacking them everywhere due to higher fatigue cost",
+      "relevance_to_achyut": "High — gym sessions are ~45 min; drop-sets deliver same gains in less time"
+    },
+    {
+      "id": "QR3-002",
+      "category": "advanced-training",
+      "fact": "Training to non-failure is superior to failure training for dynamic strength (SMD 0.24, p=0.01) with no differences in hypertrophy, endurance, or power",
+      "evidence_rating": "strong",
+      "sources": ["Wu et al. 2026, BMC Sports Sci Med Rehabil, 20 studies n=556, doi:10.1186/s13102-026-01861-z"],
+      "practical_application": "Stop compound lifts 1-3 reps in reserve; reserve failure for occasional isolation work only",
+      "relevance_to_achyut": "High — validates RIR-based training; failure adds fatigue without extra growth"
+    },
+    {
+      "id": "QR3-003",
+      "category": "advanced-training",
+      "fact": "No advanced resistance training method (supersets, clusters, drop-sets, flywheel, rest-redistribution) consistently beats traditional training for strength, power, or hypertrophy in untrained-to-moderately-trained adults",
+      "evidence_rating": "strong",
+      "sources": ["Cowley et al. 2026, Sports Med, Bayesian network meta-analysis, doi:10.1007/s40279-026-02428-1"],
+      "practical_application": "Choose intensity techniques for time-efficiency and adherence, not for assumed superiority; consistency and effort are the actual drivers",
+      "relevance_to_achyut": "Moderate — simple Day A/B/C plan is not leaving gains on the table"
+    },
+    {
+      "id": "QR3-004",
+      "category": "advanced-training",
+      "fact": "Rest redistribution schemes may benefit strength development more in females than males (network meta-regression finding)",
+      "evidence_rating": "moderate",
+      "sources": ["Cowley et al. 2026, Sports Med, doi:10.1007/s40279-026-02428-1"],
+      "practical_application": "Context for coaching others; not directly actionable for Achyut",
+      "relevance_to_achyut": "Low"
+    },
+    {
+      "id": "QR3-005",
+      "category": "advanced-training",
+      "fact": "Flywheel training produced superior jump adaptations vs other methods, especially with shorter interventions and lower volume load",
+      "evidence_rating": "moderate",
+      "sources": ["Cowley et al. 2026, Sports Med, doi:10.1007/s40279-026-02428-1"],
+      "practical_application": "Flywheel equipment is niche; relevant only if targeting vertical jump/power specifically",
+      "relevance_to_achyut": "Low"
+    },
+    {
+      "id": "QR3-006",
+      "category": "nutrition-timing",
+      "fact": "Intermittent fasting combined with resistance training produces adaptations broadly similar to RT alone (g=0.09, CI -0.23 to 0.40) when training and nutrition are maintained",
+      "evidence_rating": "moderate",
+      "sources": ["Zhang et al. 2026, Front Nutr, 11 studies n=303, doi:10.3389/fnut.2026.1879031"],
+      "practical_application": "A feeding window can be used for calorie control without sabotaging muscle or strength gains, provided total protein/calories are adequate",
+      "relevance_to_achyut": "Moderate — flexible diet structure option during recomp"
+    },
+    {
+      "id": "QR3-007",
+      "category": "advanced-training",
+      "fact": "Adding BFR to high-load (>=60% 1RM) training does not further improve muscle strength (g=0.11) or size (g=0.08) vs conventional high-load training",
+      "evidence_rating": "strong",
+      "sources": ["Mckee et al. 2026, J Strength Cond Res 40(7):822-842, 8 chronic + 34 acute studies, doi:10.1519/JSC.0000000000005467"],
+      "practical_application": "Keep BFR exclusively for low-load (15-30% 1RM) joint-friendly work; never add cuffs to heavy sets",
+      "relevance_to_achyut": "Moderate — refines existing BFR facts in the knowledge base"
+    },
+    {
+      "id": "QR3-008",
+      "category": "advanced-training",
+      "fact": "Wide cuffs at high pressures during high-load BFR may acutely increase concentric bar velocity, a potential power-development tool",
+      "evidence_rating": "weak",
+      "sources": ["Mckee et al. 2026, JSCR, acute studies narrative synthesis"],
+      "practical_application": "Emerging only; no practical use yet",
+      "relevance_to_achyut": "Low"
+    },
+    {
+      "id": "QR3-009",
+      "category": "rehab",
+      "fact": "BFR therapy improves quadriceps strength and function in knee osteoarthritis patients who poorly tolerate high-intensity resistance training",
+      "evidence_rating": "moderate",
+      "sources": ["Machado et al. 2026, Clin Med Insights Arthritis Musculoskelet Disord, overview of systematic reviews, doi:10.1177/11795441261446451"],
+      "practical_application": "If knee pain returns at high body weight, low-load BFR is an evidence-backed way to preserve quad strength",
+      "relevance_to_achyut": "Low-moderate (contingency)"
+    },
+    {
+      "id": "QR3-010",
+      "category": "nutrition-timing",
+      "fact": "Protein intake at breakfast, without exercise, does not improve muscle mass, strength, or physical performance in older adults",
+      "evidence_rating": "moderate",
+      "sources": ["Ikeda et al. 2026, Food Sci Nutr, meta-analysis, doi:10.1002/fsn3.72171"],
+      "practical_application": "Myth-busts 'anabolic breakfast' marketing — protein timing matters far less than total intake plus training",
+      "relevance_to_achyut": "Low (different population) but validates existing timing facts"
+    },
+    {
+      "id": "QR3-011",
+      "category": "nutrition",
+      "fact": "Age-related anabolic resistance (blunted MPS response to protein/exercise) is real but smaller in magnitude than commonly claimed",
+      "evidence_rating": "moderate",
+      "sources": ["Kristiansen et al. 2026, Front Physiol, systematic review + meta-analysis, doi:10.3389/fphys.2026.1740284"],
+      "practical_application": "Older adults do not need wildly exaggerated protein doses; modest increases plus training suffice",
+      "relevance_to_achyut": "Low now; useful long-term context"
+    },
+    {
+      "id": "QR3-012",
+      "category": "training-philosophy",
+      "fact": "2026 evidence consistently shows the simple fundamentals (adequate volume, effort near-but-not-to failure, progression, consistency) match or beat every advanced technique for people with under ~2 years training age",
+      "evidence_rating": "strong",
+      "sources": ["Cowley et al. 2026 Sports Med network MA", "Wu et al. 2026 failure MA", "Havers et al. 2026 drop-set MA"],
+      "practical_application": "For returning to training after layoff: restart with the plain Day A/B/C plan at conservative loads; no special techniques needed until plateau",
+      "relevance_to_achyut": "High — currently ~8 weeks off training; simplicity is the restart advantage"
+    }
+  ]
+}

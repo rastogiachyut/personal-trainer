@@ -337,10 +337,22 @@ The original expansion plan is now **fully complete** (Sprints 1-7 + Final Sprin
 - [x] Update INDEX.md (674 facts across 16 databases)
 - [x] Commit + push
 
+### Maintenance Sprint 9 (Week of Aug 31, 2026) — Q3 Quarterly Refresh ✅
+- [x] **Trigger:** Scheduled — Sep 2026 quarterly refresh, pulled forward to Aug 31 weekly sprint
+- [x] PubMed/Europe PMC sweep of 2026 meta-analyses in hypertrophy/nutrition x training (web_search disabled; Europe PMC REST fallback worked well — note for future sprints)
+- [x] Drop-set meta-analysis (Havers 2026, 12 studies): same hypertrophy/strength as traditional, higher RPE/lactate
+- [x] Failure vs non-failure MA (Wu 2026, 20 studies): non-failure slightly better for dynamic strength
+- [x] Advanced methods Bayesian network MA (Cowley 2026, Sports Med): no advanced method beats traditional RT at this training age
+- [x] IF + RT multilevel MA (Zhang 2026, 11 studies): no compromise to gains when nutrition maintained
+- [x] High-load BFR MA (Mckee 2026, JSCR): BFR adds nothing to heavy training — low-load niche confirmed
+- [x] Compile → `research/facts-2026-refresh-q3.md/json` (12 facts)
+- [x] Update INDEX.md (686 facts across 17 databases)
+- [x] Commit + push
+
 **Next sprint candidates (check health logs first):**
-- Next scheduled refresh: Sep 2026 — quarterly check for new 2026 meta-analyses in hypertrophy/nutrition
-- Reactive topics if triggered: training plateau breakthrough, blood test results, injury protocols
-- Health-log review Aug 24: no new health concerns; only user-side skincare/acne research (unrelated)
+- Next scheduled refresh: Dec 2026 — quarterly check for new meta-analyses
+- Reactive topics if triggered: training plateau breakthrough, blood test results, injury protocols, gym return (last session still Jul 9 — ~8 weeks off; restart plan already in facts-detraining-retraining.md)
+- Health-log review Aug 31: no new health concerns (only EOD reports + pet-dog research)
 
 ---
 
