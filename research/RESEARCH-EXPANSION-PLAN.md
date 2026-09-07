@@ -354,6 +354,11 @@ The original expansion plan is now **fully complete** (Sprints 1-7 + Final Sprin
 - Reactive topics if triggered: training plateau breakthrough, blood test results, injury protocols, gym return (last session still Jul 9 — ~8 weeks off; restart plan already in facts-detraining-retraining.md)
 - Health-log review Aug 31: no new health concerns (only EOD reports + pet-dog research)
 
+### Maintenance Check (Week of Sep 7, 2026) ✅
+- [x] Weekly cron ran; reviewed Sep 1-6 daily logs — no new health concerns logged
+- [x] Gym log check: last session still Jul 9, 2026 (~8.5 weeks off) — restart plan already exists in facts-detraining-retraining.md (regain window est. ~4-5 wks after return; no new research needed)
+- [x] No reactive trigger → no sprint executed; next scheduled work: Dec 2026 quarterly refresh
+
 ---
 
 ## 📈 Expected Output
