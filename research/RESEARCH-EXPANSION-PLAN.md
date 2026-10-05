@@ -374,6 +374,11 @@ The original expansion plan is now **fully complete** (Sprints 1-7 + Final Sprin
 - [x] Gym log check: last session still Jul 9, 2026 (~11.5 weeks off) — restart plan exists in facts-detraining-retraining.md; re-flagged to Achyut via Telegram
 - [x] No reactive trigger → no sprint executed; next scheduled work: Dec 2026 quarterly refresh
 
+### Maintenance Check (Week of Oct 5, 2026) ✅
+- [x] Weekly cron ran; reviewed Sep 28 – Oct 4 daily logs — no new health concerns logged (five consecutive quiet days, only EOD notes)
+- [x] Gym log check: last session still Jul 9, 2026 (~13 weeks off) — restart plan exists in facts-detraining-retraining.md; layoff now exceeds the typical strength grace period (~4 wks) by a wide margin, so expect ~6-7 weeks of retraining to regain prior levels; strongly re-flagged to Achyut via Telegram
+- [x] No reactive trigger → no sprint executed; next scheduled work: Dec 2026 quarterly refresh
+
 ---
 
 ## 📈 Expected Output
